@@ -26,7 +26,7 @@ title = "LIGHTING THE DARK PAST",
 quote = "Cling to the thought that, in God's hands, the dark past is
 the greatest possession you have—the key to life and
 happiness for others. With it you can avert death and
-misery for them."
+misery for them.",
 citation = "ALCOHOLICS ANONYMOUS, p. 124",
 reading = "No longer is my past an autobiography; it is a reference
 book to be taken down, opened and shared. Today as I
@@ -44,7 +44,7 @@ quote = "Somehow, being alone with God doesn't seem as embarrassing
 as facing up to another person. Until we
 actually sit down and talk aloud about what we have so
 long hidden, our willingness to clean house is still largely
-theoretical."
+theoretical.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 60",
 reading = "It wasn't unusual for me to talk to God, and myself, about
 my character defects. But to sit down, face to face, and
@@ -57,10 +57,10 @@ just an introduction to what was yet to come in the
 remaining seven Steps."}
 ,
 { month = "MAY",
-day = "4"
-'ENTIRELY HONEST'
-We must be entirely honest with somebody if we expect to
-live long or happily in this world."
+day = "4",
+title = "'ENTIRELY HONEST'",
+quote = "We must be entirely honest with somebody if we expect to
+live long or happily in this world.",
 citation = "ALCOHOLICS ANONYMOUS, p. 73",-74
 Honesty, like all virtues, is to be shared. It began after I
 shared '. . . [my] whole life's story with someone . . . '
@@ -76,7 +76,7 @@ title = "THE FOREST AND THE TREES",
 quote = ". . . what comes to us alone may be garbled by our own
 rationalization and wishful thinking. The benefit of talking
 to another person is that we can get his direct comment and
-counsel on our situation. . . ."
+counsel on our situation. . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 60",
 reading = "I cannot count the times when I have been angry and
 frustrated and said to myself, 'I can't see the forest for the
@@ -89,16 +89,16 @@ I ask God, when I'm in the forest, to give me the courage
 to call upon a member of A.A."}
 ,
 { month = "MAY",
-day = "6"
-'HOLD BACK NOTHING'
-The real tests of the situation are your own willingness to
+day = "6",
+title = "'HOLD BACK NOTHING'",
+quote = "The real tests of the situation are your own willingness to
 confide and your full confidence in the one with whom you
 share your first accurate self-survey. . . . Provided you hold
 back nothing, your sense of relief will mount from minute to
 minute. The dammed-up emotions of years break out of
 their confinement, and miraculously vanish as soon as they
 are exposed. As the pain subsides, a healing tranquility
-takes its place."
+takes its place.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 61",-62
 A tiny kernel of locked-in feelings began to unfold when I
 first attended A.A. meetings and self-knowledge then
@@ -114,7 +114,7 @@ day = "7",
 title = "RESPECT FOR OTHERS",
 quote = "Such parts of our story we tell to someone who will
 understand, yet be unaffected. The rule is we must be hard
-on ourself, but always considerate of others."
+on ourself, but always considerate of others.",
 citation = "ALCOHOLICS ANONYMOUS, p. 74",
 reading = "Respect for others is the lesson that I take out of this
 passage. I must go to any lengths to free myself if I wish to
@@ -133,7 +133,7 @@ All of A.A. 's Twelve Steps ask us to go contrary to our
 natural desires . . . they all deflate our egos. When it comes
 to ego deflation, few Steps are harder to take than Five. But
 scarcely any Step is more necessary to longtime sobriety
-and peace of mind than this one."
+and peace of mind than this one.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 55",
 reading = "After writing down my character defects, I was unwilling to
 talk about them, and decided it was time to stop carrying
@@ -154,7 +154,7 @@ Steps toward a full and meaningful sobriety."}
 day = "9",
 title = "WALKING THROUGH FEAR",
 quote = "If we still cling to something we will not let go, we ask God
-to help us be willing."
+to help us be willing.",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
 reading = "When I had taken my Fifth Step, I became aware that all my
 defects of character stemmed from my need to feel secure
@@ -197,7 +197,7 @@ day = "11",
 title = "A NEW SENSE OF BELONGING",
 Until we had talked with complete candor of our conflicts,
 and had listened to someone else do the same thing, we still
-didn't belong."
+didn't belong.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 57",
 reading = "After four years in A.A. I was able to discover the freedom
 from the burden of buried emotions that had caused me so
@@ -216,7 +216,7 @@ cause or aggravate them. If. . . Step Four . . . has revealed
 in stark relief those experiences we'd rather not remember .
 . . then the need to quit living by ourselves with those
 tormenting ghosts of yesterday gets more urgent than ever.
-We have to talk to somebody about them."
+We have to talk to somebody about them.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 55",
 reading = "Whatever is done is over. It cannot be changed. But my
 attitude about it can be changed through talking with those
@@ -228,9 +228,9 @@ only through my actions and the help of my fellow
 alcoholics."}
 ,
 { month = "MAY",
-day = "13"
+day = "13",
 THE EASIER, SOFTER WAY
-If we skip this vital step, we may not overcome drinking."
+If we skip this vital step, we may not overcome drinking.",
 citation = "ALCOHOLICS ANONYMOUS, p. 72",
 reading = "I certainly didn't leap at the opportunity to face who I was,
 especially when the pains of my drinking days hung over
@@ -242,12 +242,12 @@ these Steps to freedom from our fatal disease, and to put
 our faith in the Fellowship and our Higher Power."}
 ,
 { month = "MAY",
-day = "14"
+day = "14",
 IT'S OKAY TO BE ME
 Time after time newcomers have tried to keep to themselves
 certain facts about their lives. . . . they have turned to
 easier methods. . . . But they had not learned enough
-humility. . . ."
+humility. . . .",
 citation = "ALCOHOLICS ANONYMOUS, pp. 72-73",
 reading = "Humility sounds so much like humiliation, but it really is
 the ability to look at myself—and honestly accept what I
@@ -261,12 +261,12 @@ the Steps. I need the Fifth Step to learn true humility.
 Easier methods do not work."}
 ,
 { month = "MAY",
-day = "15"
+day = "15",
 KNOW GOD; KNOW PEACE
 It is plain that a life which includes deep resentment leads
 only to futility and unhappiness. . . . But with the alcoholic,
 whose hope is the maintenance and growth of a spiritual
-experience, this business of resentment is infinitely grave."
+experience, this business of resentment is infinitely grave.",
 citation = "ALCOHOLICS ANONYMOUS, p. 66",
 reading = "Know God;
 Know peace.
@@ -274,7 +274,7 @@ No God; No
 peace."}
 ,
 { month = "MAY",
-day = "16"
+day = "16",
 WE FORGIVE . . .
 Often it was while working on this Step with our sponsors
 or spiritual advisers that we first felt truly able to forgive
@@ -282,17 +282,17 @@ others, no matter how deeply we felt hey had wronged us.
 Our moral inventory had persuaded us that all-round
 forgiveness was desirable, but it was only when we
 resolutely tackled Step Five hat we inwardly knew we'd be
-able to receive forgiveness and give it, too."
+able to receive forgiveness and give it, too.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 58",
 reading = "What a great feeling forgiveness is! What a revelation
 about my emotional, psychological and spiritual nature.
 All it takes is willingness to forgive; 5od will do the rest."}
 ,
 { month = "MAY",
-day = "17"
+day = "17",
 . . . AND FORGIVE
 Under very trying conditions I have had, again and again,
-to forgive others—also myself"
+to forgive others—also myself",
 citation = "AS BILL SEES IT, p. 268",
 reading = "Forgiveness of self and forgiveness of others are just two
 currents in the same river, both hindered or shut off
@@ -310,7 +310,7 @@ day = "18",
 title = "FREEDOM TO BE ME",
 If we are painstaking about this phase of our development,
 we will be amazed before we are half way through. We are
-going to know a new freedom and a new happiness"
+going to know a new freedom and a new happiness",
 citation = "ALCOHOLICS ANONYMOUS, p. 83",
 reading = "My first true freedom is the freedom not to have to take a
 drink today. If I truly want it, I will work the Twelve Steps
@@ -325,7 +325,7 @@ day = "19",
 title = "GIVING WITHOUT STRINGS",
 And he well knows that his own life has been made richer,
 as an extra dividend of giving to another without any
-demand for a return."
+demand for a return.",
 citation = "AS BILL SEES IT, p. 69",
 reading = "The concept of giving without strings was hard to
 understand when I first came into the program. I was
@@ -340,7 +340,7 @@ understanding and I give that love to my fellow alcoholic, I
 feel a special richness that is hard to explain. 
 MAY 20
 ONE DAY AT A TIME
-Above all, take it one day at a time."
+Above all, take it one day at a time.",
 citation = "AS BILL SEES IT, p. 11",
 reading = "Why do I kid myself that I must stay away from a drink for
 only one day, when I know perfectly well I must never
@@ -359,7 +359,7 @@ Achievement feels good and that makes me want more! }
 day = "21",
 title = "A LIST OF BLESSINGS",
 One exercise that I practice is to try for a full inventory of
-my blessings. . . ."
+my blessings. . . .",
 citation = "AS BILL SEES IT, p. 37",
 reading = "What did I have to be grateful for? I shut myself up and
 started listing the blessings for which I was in no way
@@ -376,7 +376,7 @@ conclude that God is picking on me."}
 { month = "MAY",
 day = "22",
 title = "STEP ONE",
-WE . . . (The first word of the First Step)"
+WE . . . (The first word of the First Step)",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 21",
 reading = "When I was drinking all I could ever think about was 'I, I,
 I,' or 'Me, Me, Me.' Such painful obsession of self, such
@@ -395,7 +395,7 @@ become a channel for God's healing love."}
 day = "23",
 title = "SPIRITUAL HEALTH",
 When the spiritual malady is overcome, we straighten out
-mentally and physically."
+mentally and physically.",
 citation = "ALCOHOLICS ANONYMOUS, p. 64",
 reading = "It is very difficult for me to come to terms with my
 spiritual illness because of my great pride, disguised by my
@@ -413,7 +413,7 @@ better I get, the more I discover how much help I need from
 others."}
 ,
 { month = "MAY",
-day = "24"
+day = "24",
 'HAPPY, JOYOUS AND FREE'
 We are sure God wants us to be happy, joyous, and free.
 We cannot subscribe to the belief that this life is vale of
@@ -421,7 +421,7 @@ tears, though it once was just that for many f us. But it is
 clear that we made our own misery, rod didn't do it. Avoid
 then, the deliberate manufacture of misery, but if trouble
 comes, cheerfully capitalize it as an opportunity to
-demonstrate His omnipotence."
+demonstrate His omnipotence.",
 citation = "ALCOHOLICS ANONYMOUS, p. 133",
 reading = "For years I believed in a punishing God and blamed him
 for my misery. I have learned that I must lay down the
@@ -435,7 +435,7 @@ nil.' }
 { month = "MAY",
 day = "25",
 title = "PROGRESSIVE GRATITUDE",
-Gratitude should go forward, rather than backward."
+Gratitude should go forward, rather than backward.",
 citation = "AS BILL SEES IT, p. 29",
 reading = "I am very grateful that my Higher Power has given me a
 second chance to live a worthwhile life. Through
@@ -459,7 +459,7 @@ title = "TURNING NEGATIVE TO POSITIVE",
 Our spiritual and emotional growth in A.A. does not depend
 so deeply upon success as it does upon our failures and
 setbacks. If you will bear this in mind, I think that your slip
-will have the effect of kicking you upstairs, instead of down."
+will have the effect of kicking you upstairs, instead of down.",
 citation = "AS BILL SEES IT, p. 184",
 reading = "In keeping with the pain and adversity which our founders
 encountered and overcame in establishing A.A., Bill W.
@@ -476,7 +476,7 @@ when I become ego driven."}
 day = "27",
 title = "NO MAUDLIN GUILT",
 Day by day, we try to move a little toward God's perfection.
-So we need not be consumed by maudlin guilt. . . ."
+So we need not be consumed by maudlin guilt. . . .",
 citation = "AS BILL SEES IT, p. 15",
 reading = "When I first discovered that there is not a single 'don't' in
 the Twelve Steps of A.A., I was disturbed because this
@@ -518,7 +518,7 @@ clear how my self-righteousness caused me spiritual harm}
 day = "29",
 title = "TRUE TOLERANCE",
 The only requirement for A.A. membership is a desire to
-stop drinking."
+stop drinking.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 139",
 reading = "I first heard the short form of the Third Tradition in the
 Preamble. When I came to A.A. I could not accept myself,
@@ -552,7 +552,7 @@ day = "31",
 title = "READINESS TO SERVE OTHERS",
 . . . our Society has concluded that it has but one high
 mission—to carry the A.A. message to those who don't
-know there's a way out"
+know there's a way out",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
 reading = "The 'Light' to freedom shines bright on my fellow
 alcoholics as each one of us challenges the other to grow.
@@ -610,7 +610,7 @@ experience, strength and hope with others."}
 day = "3",
 title = "ON A WING AND A PRAYER",
 quote = ". . . we then look at Step Six. We have emphasized
-willingness as being indispensable."
+willingness as being indispensable.",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
 reading = "Steps Four and Five were difficult, but worthwhile. Now I
 was stuck on Step Six and, in despair, I picked up the Big
@@ -658,7 +658,7 @@ we ask God to help us be willing.' (Alcoholics Anonymous,
 p. 76) }
 ,
 { month = "JUNE",
-day = "5"
+day = "5",
 ENTIRELY READY?
 'This is the Step that separates the men from the boys
 ' . . . the difference between 'the boys and the men' is
@@ -694,7 +694,7 @@ therefore, I need to repeat Step Six so that I can become
 happier with myself and maintain my serenity."}
 ,
 { month = "JUNE",
-day = "7"
+day = "7",
 LONG-TERM HOPE
 Since most of us are born with an abundance of natural
 desires, it isn't strange that we often let these far exceed
@@ -703,7 +703,7 @@ willfully demand that they supply us with more satisfactions
 or pleasures than are possible or due us, that is the point at
 which we depart from the degree of perfection that God
 wishes for us here on earth. That is the measure of our
-character defects, or, if you wish, of our sins."
+character defects, or, if you wish, of our sins.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 65",
 reading = "This is where long-term hope is born and perspective is
 gained, both of the nature of my illness and the path of my
@@ -748,7 +748,7 @@ quote = "First, we try living in the now just in order to stay sober—
 and it works Once the idea has become a part of our
 thinking we find that living life in 24-hour segments is an
 effective and satisfying way to handle many other matters
-as well"
+as well",
 citation = "LIVING SOBER, p. 7",
 reading = "'One Day At A Time.' To a newcomer this and other oneliners
 of A.A. may seem ridiculous. The passwords of the
@@ -765,7 +765,7 @@ and this brings serenity.
 JUNE 10
 IMPATIENT? TRY LEVITATING
 We reacted more strongly to frustrations than normal
-people."
+people.",
 citation = "AS BILL SEES IT, p. ",I l l
 Impatience with other people is one of my principal
 failings. Following a slow car in a no-passing lane, or
@@ -788,7 +788,7 @@ can be very relaxing."}
 day = "11",
 title = "FAMILY OBLIGATIONS",
 . . . a spiritual life which does not include . . . family
-obligations may not be so perfect after all."
+obligations may not be so perfect after all.",
 citation = "ALCOHOLICS ANONYMOUS, p. 129",
 reading = "I can be doing great in the program—applying it at
 meetings, at work, and in service activities—and find that
@@ -812,7 +812,7 @@ But it is from our twisted relations with family, friends, and
 society at large that many of us have suffered the most. We
 have been especially stupid and stubborn about them. The
 primary fact that we fail to recognize is our total inability
-to form a true partnership with another human being."
+to form a true partnership with another human being.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 53",
 reading = "Can these words apply to me, am I still unable to form a
 true partnership with another human being? What a terrible
@@ -825,7 +825,7 @@ day = "13",
 title = "LIVING OUR AMENDS",
 'Years of living with an alcoholic is almost sure to make
 any wife or child neurotic. The entire family is, to some
-extent, ill.'"
+extent, ill.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 122",
 reading = "It is important for me to realize that, as an alcoholic, I not
 only hurt myself, but also those around me. Making
@@ -836,9 +836,9 @@ a lifelong endeavor. The example of my sobriety may give
 others hope, and faith to help themselves."}
 ,
 { month = "JUNE",
-day = "14"
+day = "14",
 WHEN THE GOING GETS ROUGH It is a design
-for living that works in rough going."
+for living that works in rough going.",
 citation = "ALCOHOLICS ANONYMOUS, p. 15",
 reading = "When I came to A.A., I realized that A.A. worked
 wonderfully to help keep me sober. But could it work on
@@ -856,14 +856,14 @@ overwhelmed, but rather to accept and understand my life
 as it unfolded."}
 ,
 { month = "JUNE",
-day = "15"
+day = "15",
 MAKING A.A. YOUR HIGHER POWER
 '. . . You can . . . make A.A. itself your 'higher power.'
 Here's a very large group of people who have solved their
 alcohol problem. . . . many members . . . have crossed the
 threshold just this way. . . . their faith broadened and
 deepened. . . . transformed, they came to believe in a
-Higher Power. . . . '"
+Higher Power. . . . '",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 27-28",
 reading = "No one was greater than I, at least in my eyes, when I was
 drinking. Nevertheless, I couldn't smile at myself in the
@@ -878,12 +878,12 @@ in God. Now my relationship with my Higher Power gives
 me the strength to live a happy, sober life."}
 ,
 { month = "JUNE",
-day = "16"
+day = "16",
 OPEN-MINDEDNESS
 We have found that God does not make too hard terms with
 those who seek Him. To us, the realm of spirit is broad,
 roomy, all inclusive, never exclusive or forbidding to those
-who earnestly seek. It is open, we believe, to all men."
+who earnestly seek. It is open, we believe, to all men.",
 citation = "AS BILL SEES IT, p. 7",
 reading = "Open-mindedness to concepts of a Higher Power can open
 doors to the spirit. Often I find the human spirit in various
@@ -892,13 +892,13 @@ myself. The sharing of self joins me to the human race and
 brings me closer to God, as I understand Him."}
 ,
 { month = "JUNE",
-day = "17"
-'DEEP DOWN WITHIN US'
-We found the Great Reality deep down within us. In the last
+day = "17",
+title = "'DEEP DOWN WITHIN US'",
+quote = "We found the Great Reality deep down within us. In the last
 analysis it is only there that He may be found. . . . search
 diligently within yourself. . . . With this attitude you cannot
 fail. The consciousness of your belief is sure to come to
-you."
+you.",
 citation = "ALCOHOLICS ANONYMOUS, p. 55",
 reading = "It was out of the depths of loneliness, depression and
 despair that I sought the help of A.A. As I recovered and
@@ -916,7 +916,7 @@ day = "18",
 title = "A FELLOWSHIP OF FREEDOM",
 . . . if only men were granted absolute liberty, and were
 compelled to obey no one, they would then voluntarily
-associate themselves in the common interest"
+associate themselves in the common interest",
 citation = "AS BILL SEES IT, p. 50",
 reading = "When I no longer live under the dictates of another or of
 alcohol, I live in a new freedom. When I release the past
@@ -932,7 +932,7 @@ welfare' finds room to grow in the society of personal
 freedom."}
 ,
 { month = "JUNE",
-day = "19"
+day = "19",
 'A.A. REGENERATION'
 Such is the paradox of A.A. regeneration: strength arising
 out of complete defeat and weakness, the loss of one's old
@@ -955,7 +955,7 @@ The problem of resolving fear has two aspects. We shall
 have to try for all the freedom from fear that is possible for
 us to attain. Then we shall need to find both the courage
 and grace to deal constructively with whatever fears
-remain."
+remain.",
 citation = "AS BILL SEES IT, p. 61",
 reading = "Most of my decisions were based on fear. Alcohol made
 life easier to face, but the time came when alcohol was no
@@ -968,13 +968,13 @@ Steps, I am becoming the whole person I wish to be and,
 for that, I am deeply grateful."}
 ,
 { month = "JUNE",
-day = "21"
+day = "21",
 The achievement of freedom from fear is a lifetime
 undertaking, one that can never be wholly completed. When
 under heavy attack, acute illness, or in other conditions of
 serious insecurity, we shall all act to this emotion—well or
 badly, as the case may be. Only the self-deceived will claim
-perfect freedom from fear."
+perfect freedom from fear.",
 citation = "AS BILL SEES IT, p. 263",
 reading = "Fear has caused suffering when I could have had more
 faith. There are times when fear suddenly tears me apart,
@@ -985,14 +985,14 @@ ecstasy. When I choose to give all of my fears over to my
 Higher Power, I will be free."}
 ,
 { month = "JUNE",
-day = "22"
+day = "22",
 TODAY, I'M FREE
 This brought me to the good healthy realization that there
 were plenty of situations left in the world over which I had
 no personal power—that if I was so ready to admit that to
 be the case with alcohol, so I must make the same admission
 with respect to much else. I would have to be still and know
-that He, not I, was God."
+that He, not I, was God.",
 citation = "AS BILL SEES IT, p. 114",
 reading = "I am learning to practice acceptance in all circumstances of
 my life, so that I may enjoy peace of mind. At one time life
@@ -1012,7 +1012,7 @@ folly. Most certainly, we should assess the capacity for
 harm as well as the capability for good in every person that
 we would trust. Such a private inventory can reveal the
 degree of confidence we should extend in any given
-situation."
+situation.",
 citation = "AS BILL SEES IT, p. 144",
 reading = "I am not a victim of others, but rather a victim of my
 expectations, choices and dishonesty. When I expect others
@@ -1030,7 +1030,7 @@ day = "24",
 title = "A SPIRITUAL KINDERGARTEN",
 We are only operating a spiritual kindergarten in which
 people are enabled to get over drinking and find the grace
-to go on living to better effect"
+to go on living to better effect",
 citation = "AS BILL SEES IT, p. 95",
 reading = "When I came to A.A., I was run down by the bottle and
 wanted to lose the obsession to drink, but I didn't really
@@ -1046,11 +1046,11 @@ removed and—one day at a time—my life went on, and I
 learned how to five sober."}
 ,
 { month = "JUNE",
-day = "25"
+day = "25",
 A TWO-WAY STREET
 If we ask, God will certainly forgive our derelictions. But in
 no case does He render us white as snow and keep us that
-way without our cooperation."
+way without our cooperation.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 65",
 reading = "When I prayed, I used to omit a lot of things for which I
 needed to be forgiven. I thought that if I didn't mention
@@ -1070,7 +1070,7 @@ title = "A GIFT THAT GROWS WITH TIME",
 For most normal folks, drinking means conviviality,
 companionship and colorful imagination. It means release
 from care, boredom and worry. It is joyous intimacy with
-friends and a feeling that life is good"
+friends and a feeling that life is good",
 citation = "ALCOHOLICS ANONYMOUS, p. 151",
 reading = "The longer I chased these elusive feelings with alcohol, the
 more out of reach they were. However, by applying this
@@ -1082,7 +1082,7 @@ words grow in breadth and depth each time I read it.
 Sobriety is a gift that grows with time."}
 ,
 { month = "JUNE",
-day = "27"
+day = "27",
 CONFORMING TO THE A.A. WAY
 We obey A.A. 's Steps and Traditions because we really
 want them for ourselves. It is no longer a question of good
@@ -1104,7 +1104,7 @@ title = "THE DETERMINATION OF OUR FOUNDERS",
 A year and six }
 ,
 { months later these three had succeeded with
-seven more."
+seven more.",
 citation = "ALCOHOLICS ANONYMOUS, p. 159",
 reading = "If it had not been for the fierce determination of our
 founders, A.A. would have quickly faded like so many
@@ -1123,7 +1123,7 @@ Having learned to live so happily, we'd show everyone else
 how. . . . Yes, we of A.A. did dream those dreams. How
 natural that was, since most alcoholics are bankrupt
 idealists. . . . So why shouldn't we share our way of life
-with everyone?"
+with everyone?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 156",
 reading = "The great discovery of sobriety led me to feel the need to
 spread the 'good news' to the world around me. The
@@ -1143,7 +1143,7 @@ up some of our personal ambitions and desires for the
 common safety and welfare. Just as sacrifice means
 survival for the individual alcoholic, so does sacrifice mean
 unity and survival for the group and for A.A. 's entire
-Fellowship."
+Fellowship.",
 citation = "AS BILL SEES IT, p. 220",
 reading = "I have learned that I must sacrifice some of my personality
 traits for the good of A.A. and, as a result, I have been
@@ -1175,7 +1175,7 @@ day = "2",
 title = "THE HEART OF TRUE SOBRIETY",
 quote = "We find that no one need have difficulty with the spirituality
 of the program. Willingness, honesty and open-mindedness
-are the essentials of recovery. But these are indispensable."
+are the essentials of recovery. But these are indispensable.",
 citation = "ALCOHOLICS ANONYMOUS, p. 570",
 reading = "Am I honest enough to accept myself as I am and let this
 be the 'me' that I let others see? Do I have the willingness
@@ -1190,11 +1190,11 @@ of true sobriety: serenity with myself, with others, and with
 God as I understand Him."}
 ,
 { month = "JULY",
-day = "3"
+day = "3",
 EXPERIENCE: THE BEST TEACHER
 Being still inexperienced and having just made conscious
 contact with God, it is not probable that we are going to be
-inspired at all times."
+inspired at all times.",
 citation = "ALCOHOLICS ANONYMOUS, p. 87",
 reading = "Some say that experience is the best teacher, but I believe
 that experience is the only teacher. I have been able to learn
@@ -1213,7 +1213,7 @@ fundamental idea of God. It may be obscured by calamity,
 by pomp, by worship of other things, but in some form or
 other it is there. For faith in a Power greater than
 ourselves, and miraculous demonstrations of that power in
-human lives, are facts as old as man himself."
+human lives, are facts as old as man himself.",
 citation = "ALCOHOLICS ANONYMOUS, p. 55",
 reading = "I have seen the workings of the unseen God in A.A. rooms
 around the country. Miracles of recovery are everywhere in
@@ -1242,10 +1242,10 @@ rightly directed, keeps me working until the promises of the
 program become my daily reality."}
 ,
 { month = "JULY",
-day = "6"
+day = "6",
 IDENTIFYING FEAR . . .
 The chief activator of our defects has been self-centered
-fear. . . ."
+fear. . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 76",
 reading = "When I feel uncomfortable, irritated, or depressed, I look
 for fear. This 'evil and corroding thread' is the root of my
@@ -1262,7 +1262,7 @@ works for me without fail and is one of the great miracles
 of my life in Alcoholics Anonymous."}
 ,
 { month = "JULY",
-day = "7"
+day = "7",
 . . . AND LETTING GO OF IT
 . . . primarily fear that we would lose something we already
 possessed or would fail to get something we demanded.
@@ -1270,7 +1270,7 @@ Living upon a basis of unsatisfied demands, we were in a
 state of continual disturbance and frustration. Therefore,
 no peace was to be had unless we could find a means of
 reducing these demands The difference between a demand
-and a simple request is plain to anyone."
+and a simple request is plain to anyone.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 76",
 reading = "Peace is possible for me only when I let go of expectations.
 When I'm trapped in thoughts about what I want and what
@@ -1281,11 +1281,11 @@ dependence on God, for then I find peace, gratitude and
 spiritual security."}
 ,
 { month = "JULY",
-day = "8"
+day = "8",
 AN EVER-GROWING FREEDOM
 The Seventh Step is where we make the change in our
 attitude which permits us, with humility as our guide, to
-move out from ourselves toward others and toward God."
+move out from ourselves toward others and toward God.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 76",
 reading = "When I finally asked God to remove those things blocking
 me from Him and the sunlight of the Spirit, I embarked on
@@ -1301,9 +1301,9 @@ truly in His hands, and I give thanks for the joy that I can
 be useful today."}
 ,
 { month = "JULY",
-day = "9"
+day = "9",
 I AM AN INSTRUMENT Humbly asked Him
-to remove our shortcomings."
+to remove our shortcomings.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 70",
 reading = "The subject of humility is a difficult one. Humility is not
 thinking less of myself than I ought to; it is acknowledging
@@ -1322,7 +1322,7 @@ TOWARD PEACE AND SERENITY
 . . . when we have taken a square look at some of these
 defects, have discussed them with another, and have
 become willing to have them removed, our thinking about
-humility commences to have a wider meaning."
+humility commences to have a wider meaning.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 74",
 reading = "When situations arise which destroy my serenity, pain often
 motivates me to ask God for clarity in seeing my part in the
@@ -1342,7 +1342,7 @@ day = "11",
 title = "A TURNING POINT",
 A great turning point in our lives came when we sought for
 humility as something we really wanted, rather than as
-something we must have."
+something we must have.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
 reading = "Either the A.A. way of life becomes one of joy or I return
 to the darkness and despair of alcoholism. Joy comes to me
@@ -1363,7 +1363,7 @@ title = "GIVING UP CENTER STAGE",
 For without some degree of humility, no alcoholic can stay
 sober at all . . . Without it, they cannot live to much useful
 purpose, or, in adversity, be able to summon the faith that
-can meet any emergency."
+can meet any emergency.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 70",
 reading = "Why do I balk at the word 'humility?' I am not humbling
 myself toward other people, but toward God, as I
@@ -1388,7 +1388,7 @@ title = "HUMILITY IS A GIFT",
 As long as we placed self-reliance first, a genuine reliance
 upon a Higher Power was out of the question. That basic
 ingredient of all humility, a desire to seek and do God's
-will, was missing."
+will, was missing.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 72",
 reading = "When I first came to A.A., I wanted to find some of the
 elusive quality called humility. I didn't realize I was looking
@@ -1407,7 +1407,7 @@ day = "14",
 title = "A NOURISHING INGREDIENT",
 Where humility had formerly stood for a forced feeding on
 humble pie, it now begins to mean the nourishing
-ingredient which can give us serenity."
+ingredient which can give us serenity.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 74",
 reading = "How often do I focus on my problems and frustrations?
 When I am having a 'good day' these same problems
@@ -1436,7 +1436,7 @@ In all these strivings, so many of them well-intentioned,
 our crippling handicap had been our lack of humility. We
 had lacked the perspective to see that character-building
 and spiritual values had to come first, and that material
-satisfactions were not the purpose of living."
+satisfactions were not the purpose of living.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 71",
 reading = "Time and again I approached the Seventh Step, only to fall
 back and regroup. Something was missing and the impact
@@ -1450,12 +1450,12 @@ thought, why me? Then I remembered, 'Pride goeth before
 the fall,' and I eliminated pride from my life."}
 ,
 { month = "JULY",
-day = "16"
-'A MEASURE OF HUMILITY'
-In every case, pain had been the price of admission into a
+day = "16",
+title = "'A MEASURE OF HUMILITY'",
+quote = "In every case, pain had been the price of admission into a
 new life. But this admission price had purchased more than
 we expected It brought a measure of humility, which we
-soon discovered to be a healer of pain."
+soon discovered to be a healer of pain.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
 reading = "It was painful to give up trying to control my life, even
 though success eluded me, and when life got too rough, I
@@ -1469,7 +1469,7 @@ living through these times will be healed by the knowledge
 that I have received the spiritual strength to survive."}
 ,
 { month = "JULY",
-day = "17"
+day = "17",
 SURRENDER AND SELF-EXAMINATION
 My stability came out of trying to give, not out of
 demanding that I receive.
@@ -1479,7 +1479,7 @@ will find at the root of it some unhealthy dependency and its
 consequent unhealthy demand. Let us, with God's help,
 continually surrender these hobbling demands. Then we
 can be set free to live and love; we may then be able to
-Twelfth Step ourselves and others into emotional sobriety."
+Twelfth Step ourselves and others into emotional sobriety.",
 citation = "THE LANGUAGE OF THE HEART, p. 238",
 reading = "Years of dependency on alcohol as a chemical moodchanger
 deprived me of the capability to interact
@@ -1495,7 +1495,7 @@ day = "18",
 title = "GRATEFUL FOR WHAT I HAVE",
 During this process of learning more about humility, the
 most profound result of all was the change in our attitude
-toward God."
+toward God.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
 reading = "Today my prayers consist mostly of saying thank you to
 my Higher Power for my sobriety and for the wonder of
@@ -1512,7 +1512,7 @@ day = "19",
 title = "FALSE PRIDE",
 Many of us who had thought ourselves religious awoke to
 the limitations of this attitude. Refusing to place God first,
-we had deprived ourselves of His help."
+we had deprived ourselves of His help.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
 reading = "Many false notions operate in false pride. The need for
 direction to live a decent life is satisfied by the hope
@@ -1531,7 +1531,7 @@ JULY 20
 SHORTCOMINGS REMOVED
 But now the words 'Of myself I am nothing, the Father
 doeth the works' began to carry bright promise and
-meaning."
+meaning.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
 reading = "When I put the Seventh Step into action I must remember
 that there are no blanks to fill in. It doesn't say, 'Humbly
@@ -1552,7 +1552,7 @@ measure of release from our more devastating handicaps.
 We enjoy moments in which there is something like real
 peace of mind. To those of us who have hitherto known only
 excitement, depression, or anxiety—in other words, to all of
-us—this newfound peace is a priceless gift."
+us—this newfound peace is a priceless gift.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 74",
 reading = "I am learning to let go and let God, to have a mind that is
 open and a heart that is willing to receive God's grace in all
@@ -1563,10 +1563,10 @@ and defeat, can grow into an ongoing act of faith, and that
 faith means freedom and victory."}
 ,
 { month = "JULY",
-day = "22"
-'THE GOOD AND THE BAD'
-'My Creator, I am now willing that you should have all of
-me, good and bad.'"
+day = "22",
+title = "'THE GOOD AND THE BAD'",
+quote = "'My Creator, I am now willing that you should have all of
+me, good and bad.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
 reading = "The joy of life is in the giving. Being freed of my
 shortcomings, that I may more freely be of service, allows
@@ -1582,7 +1582,7 @@ day = "23",
 title = "I ASK GOD TO DECIDE",
 'I pray that you now remove from me every single defect of
 character which stands in the way of my usefulness to you
-and my fellows '"
+and my fellows '",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
 reading = "Having admitted my powerlessness and made a decision to
 turn my will and my life over to the care of God, as I
@@ -1597,7 +1597,7 @@ day = "24",
 title = "HELPING OTHERS",
 Our very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
-needs."
+needs.",
 citation = "ALCOHOLICS ANONYMOUS, p. 20",
 reading = "Self-centeredness was my problem. All my life people had
 been doing things for me and I not only expected it, but I
@@ -1614,7 +1614,7 @@ longer do I need to drink."}
 day = "25",
 title = "THOSE WHO STILL SUFFER",
 For us, if we neglect those who are still sick, there is
-unremitting danger to our own lives and sanity."
+unremitting danger to our own lives and sanity.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
 reading = "I know the torment of drinking compulsively to quiet my
 nerves and my fears. I also know the pain of whiteknuckled
@@ -1627,10 +1627,10 @@ actions. Let the group continue to give me the strength to
 do with others what I cannot do alone."}
 ,
 { month = "JULY",
-day = "26"
+day = "26",
 THE 'WORTH' OF SOBRIETY
 Every A.A. group ought to be fully self-supporting,
-declining outside contributions."
+declining outside contributions.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 160",
 reading = "When I go shopping I look at the prices and if I need what I
 see, I buy it and pay. Now that I am supposed to be in
@@ -1710,7 +1710,7 @@ GIVING BACK
 . . . he has struck something better than gold. . . . He may
 not see at once that he has barely scratched a limitless lode
 which will pay dividends only if he mines it for the rest of
-his life and insists on giving away the entire product."
+his life and insists on giving away the entire product.",
 citation = "ALCOHOLICS ANONYMOUS, p. 129",
 reading = "My part of the Seventh Tradition means so much more than
 just giving money to pay for the coffee. It means being
@@ -1728,7 +1728,7 @@ day = "31",
 title = "A PRAYER FOR ALL SEASONS",
 God grant us the serenity to accept the things we cannot
 change, Courage to change the things we can. And wisdom
-to know the difference."
+to know the difference.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 125",
 reading = "The power of this prayer is overwhelming in that its simple
 beauty parallels the A.A. Fellowship. There are times when
@@ -1760,10 +1760,10 @@ my fellow men, and to feel joy in a world where, before, I
 felt only fear."}
 ,
 { month = "AUGUST",
-day = "2"
+day = "2",
 WE BECOME WILLING . . .
 At the moment we are trying to put our lives in order. But
-this is not an end in itself."
+this is not an end in itself.",
 citation = "ALCOHOLICS ANONYMOUS, p. 77",
 reading = "How easily I can become misdirected in approaching the
 Eighth Step! I wish to be free, somehow transformed by my
@@ -1777,10 +1777,10 @@ and made fit to move forward, to know and desire God's
 will for me."}
 ,
 { month = "AUGUST",
-day = "3"
+day = "3",
 . . . TO BE OF SERVICE
 Our real purpose is to fit ourselves to be of maximum
-service to God and the people about us."
+service to God and the people about us.",
 citation = "ALCOHOLICS ANONYMOUS, p. 77",
 reading = "It is clear that God's plan for me is expressed through love.
 God loved me enough to take me from alleys and jails so
@@ -1793,7 +1793,7 @@ through my love for others."}
 day = "4",
 title = "SEEDS OF FAITH",
 quote = "Faith, to be sure, is necessary, but faith alone can avail
-nothing. We can have faith, yet keep God out of our lives."
+nothing. We can have faith, yet keep God out of our lives.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 34",
 reading = "As a child I constantly questioned the existence of God. To
 a 'scientific thinker' like me, no answer could withstand a
@@ -1813,7 +1813,7 @@ I ask God to grant me the willingness to do His will."}
 day = "5",
 title = "LISTENING DEEPLY",
 quote = "How persistently we claim the right to decide all by
-ourselves just what we shall think and just how we shall act"
+ourselves just what we shall think and just how we shall act",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 37",
 reading = "If I accept and act upon the advice of those who have made
 the program work for themselves, I have a chance to
@@ -1839,7 +1839,7 @@ day = "6",
 title = "DRIVEN",
 quote = "Driven by a hundred forms of fear, self-delusion, selfseeking,
 and self-pity, we step on the toes of our fellows and
-they retaliate."
+they retaliate.",
 citation = "ALCOHOLICS ANONYMOUS, p. 62",
 reading = "My selfishness was the driving force behind my drinking. I
 drank to celebrate success and I drank to drown my
@@ -1850,13 +1850,13 @@ knowledge of God's will for me? Have I done service for
 my A.A. group? }
 ,
 { month = "AUGUST",
-day = "7"
-A 'DESIGN FOR LIVING'
-We in our turn, sought the same escape with all the
+day = "7",
+title = "'DESIGN FOR LIVING'",
+quote = "We in our turn, sought the same escape with all the
 desperation of drowning men. What seemed at first a flimsy
 reed, has proved to be the loving and powerful hand of
 God. A new life has been given us or, if you prefer, 'a
-design for living' that really works."
+design for living' that really works.",
 citation = "ALCOHOLICS ANONYMOUS, p. 28",
 reading = "I try each day to raise my heart and hands in thanks to God
 for showing me a 'design for living' that really works
@@ -1868,9 +1868,9 @@ and the hope that, in each new day, there is a purpose
 for my being. I am truly, truly blessed in the Fellowship."}
 ,
 { month = "AUGUST",
-day = "8"
+day = "8",
 'MADE A LIST . . .' Made a list of all
-persons we had harmed, . . ."
+persons we had harmed, . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
 reading = "When I approached the Eighth Step, I wondered how I
 could list all the things that I have done to other people
@@ -1886,9 +1886,9 @@ With the help of my Higher Power, if I am honest with
 myself, I can cleanse my mind of these feelings."}
 ,
 { month = "AUGUST",
-day = "9"
+day = "9",
 '. . . OF ALL PERSONS WE HAD HARMED'
-. . . and became willing to make amends to them all."
+. . . and became willing to make amends to them all.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
 reading = "One of the key words in the Eighth Step is the word all. I
 am not free to select a few names for the list and to
@@ -1913,7 +1913,7 @@ REDOUBLING OUR EFFORTS
 To a degree, he has already done this when taking moral
 inventory, but now the time has come when he ought to
 redouble his efforts to see how many people he has hurt,
-and in what ways."
+and in what ways.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
 reading = "As I continue to grow in sobriety, I become more aware of
 myself as a person of worth. In the process, I am better able
@@ -1927,13 +1927,13 @@ the people I have hurt so that I may enjoy a peaceful
 sobriety."}
 ,
 { month = "AUGUST",
-day = "11"
-REMOVING 'THE GROUND GLASS'
-The moral inventory is a cool examination of the damages
+day = "11",
+REMOVING title = "'THE GROUND GLASS'",
+quote = "The moral inventory is a cool examination of the damages
 that occurred to us during life and a sincere effort to look
 at them in a true perspective. This has the effect of taking
 the ground glass out of us, the emotional substance that
-still cuts and inhibits."
+still cuts and inhibits.",
 citation = "AS BILL SEES IT, p. 140",
 reading = "My Eighth Step list used to drag me into a whirlpool of
 resentment. After four years of sobriety, I was blocked by
@@ -1954,7 +1954,7 @@ day = "12",
 title = "A LOOK BACKWARD",
 First, we take a look backward and try to discover where
 we have been at fault; next we make a vigorous attempt to
-repair the damage we have done; . . ."
+repair the damage we have done; . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
 reading = "As a traveler on a fresh and exciting A.A. journey of
 recovery, I experienced a newfound peace of mind and the
@@ -1978,7 +1978,7 @@ title = "A CLEAN SWEEP",
 . . . and third, having thus cleaned away the debris of the
 past, we consider how, with our newfound knowledge of
 ourselves, we may develop the best possible relations with
-every human being we know."
+every human being we know.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
 reading = "As I faced the Eighth Step, everything that was required for
 successful completion of the previous seven Steps came
@@ -2001,7 +2001,7 @@ We attempt to sweep away the debris which has accumulated
 out of our effort to live on self-will and run the
 show ourselves. If we haven't the will to do this, we ask
 until it comes. Remember it was agreed at the beginning
-we would go to any lengths for victory over alcohol."
+we would go to any lengths for victory over alcohol.",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
 reading = "Making a list of people I had harmed was not a particularly
 difficult thing to do. They had showed up in my Fourth
@@ -2014,11 +2014,11 @@ relationship with God is that I stand before Him, knowing I
 have done what I can to repair the damage I have done."}
 ,
 { month = "AUGUST",
-day = "15"
+day = "15",
 DIDN'T WE HURT ANYBODY?
 Some of us, though, tripped over a very different snag. We
 clung to the claim that when drinking we never hurt
-anybody but ourselves."
+anybody but ourselves.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 79",
 reading = "This Step seemed so simple. I identified several people
 whom I had harmed, but they were no longer available.
@@ -2034,14 +2034,14 @@ took on new meaning. I am no longer uncomfortable and I
 feel clean and light."}
 ,
 { month = "AUGUST",
-day = "16"
-'I HAD DROPPED OUT'
-We might next ask ourselves what we mean when we say
+day = "16",
+title = "'I HAD DROPPED OUT'",
+quote = "We might next ask ourselves what we mean when we say
 that we have 'harmed' other people. What kinds of 'harm'
 do people do one another, anyway? To define the word
 'harm' in a practical way, we might call it the result of
 instincts in collision, which cause physical, mental,
-emotional, or spiritual damage to people."
+emotional, or spiritual damage to people.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 80",
 reading = "I had been to Eighth Step meetings, always thinking, 'I
 really haven't harmed many people, mostly myself.' But the
@@ -2064,7 +2064,7 @@ day = "17",
 title = "RIGHTING THE HARM",
 In many instances we shall find that though the harm done
 others has not been great, the emotional harm we have
-done ourselves has."
+done ourselves has.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 79",
 reading = "Have you ever thought that the harm you did a business
 associate, or perhaps a family member, was so slight that it
@@ -2081,7 +2081,7 @@ of my recovery is accomplished."}
 day = "18",
 title = "GETTING WELL",
 Very deep, sometimes quite forgotten, damaging emotional
-conflicts persist below the level of consciousness."
+conflicts persist below the level of consciousness.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 79-80",
 reading = "Only through positive action can I remove the remains of
 guilt and shame brought on by alcohol. Throughout my
@@ -2100,7 +2100,7 @@ title = "A FRAME OF REFERENCE",
 Referring to our list [inventory] again. Putting out of our
 minds the wrongs others had done, we resolutely looked for
 our own mistakes. Where had we been selfish, dishonest,
-self-seeking and frightened?"
+self-seeking and frightened?",
 citation = "ALCOHOLICS ANONYMOUS, p. 67",
 reading = "There is a wonderful freedom in not needing constant
 approval from colleagues at work or from the people I love.
@@ -2113,7 +2113,7 @@ TOWARD EMOTIONAL FREEDOM
 Since defective relations with other human beings have
 nearly always been the immediate cause of our woes,
 including our alcoholism, no field of investigation could
-yield more satisfying and valuable rewards than this one."
+yield more satisfying and valuable rewards than this one.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 80",
 reading = "Willingness is a peculiar thing for me in that, over a period
 of time, it seems to come, first with awareness, but then
@@ -2137,7 +2137,7 @@ Step list."}
 day = "21",
 title = "WE JUST TRY",
 My stability came out of trying to give, not out of
-demanding that I receive."
+demanding that I receive.",
 citation = "THE BEST OF BILL, pp. 46-47",
 reading = "As long as I try, with all my heart and soul, to pass along to
 others what has been passed along to me, and do not
@@ -2160,7 +2160,7 @@ found that dependence upon His perfect justice, forgiveness,
 and love was healthy, and that it would work where nothing
 else would. If we really depended upon God, we couldn't
 very well play God to our fellows nor would we feel the
-urge wholly to rely on human protection and care."
+urge wholly to rely on human protection and care.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 116",
 reading = "All my life I depended on people for my emotional needs
 and security, but today I cannot live that way anymore. By
@@ -2182,7 +2182,7 @@ day = "23",
 title = "BRINGING THE MESSAGE HOME",
 Can we bring the same spirit of love and tolerance into our
 sometimes deranged family lives that we bring to our A.A.
-group?"
+group?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 111-12",
 reading = "My family members suffer from the effects of my disease.
 Loving and accepting them as they are— just as I love and
@@ -2199,7 +2199,7 @@ experiences such as ours, but I have often tried to explain
 my own and have succeeded only in giving the story of it. I
 know the feeling it gave me and the results it has brought,
 but I realize I may never fully understand its deeper why
-and how."
+and how.",
 citation = "AS BILL SEES IT, p. 313",
 reading = "I had a profound spiritual experience during an open A.A.
 meeting, which led me to blurt out, 'I'm an alcoholic!' I
@@ -2219,7 +2219,7 @@ Steps and help others."}
 day = "25",
 title = "THE GIFT OF BONDING",
 Relieve me of the bondage of self, that I may better do Thy
-will"
+will",
 citation = "ALCOHOLICS ANONYMOUS, p. 63",
 reading = "Many times in my alcoholic state, I drank to establish a
 bond between myself and others, but I succeeded only in
@@ -2235,7 +2235,7 @@ title = "GIVING IT AWAY",
 Though they knew they must help other alcoholics if they
 would remain sober, that motive became secondary. It was
 transcended by the happiness they found in giving
-themselves to others."
+themselves to others.",
 citation = "ALCOHOLICS ANONYMOUS, p. 159",
 reading = "Those words, for me, refer to a transference of power,
 through which God, as I understand Him, enters my life.
@@ -2253,7 +2253,7 @@ When World War II broke out, our A. A. dependence on a
 Higher Power had its first major test. A.A.'s entered the
 services and were scattered all over the world. Would they
 be able to take the discipline, stand up under fire, and
-endure . . . ?"
+endure . . . ?",
 citation = "AS BILL SEES IT, p. 200",
 reading = "I will center my thoughts on a Higher Power. I will
 surrender all to this power within me. I will become a
@@ -2272,7 +2272,7 @@ title = "LIGHTENING THE BURDEN",
 Showing others who suffer how we were given help is the
 very thing which makes life seem so worth while to us now.
 . . . the dark past is . . . the key to life and happiness for
-others."
+others.",
 citation = "ALCOHOLICS ANONYMOUS, p. 124",
 reading = "Since I have been sober, I have been healed of many pains:
 deceiving my partner, deserting my best friend, and
@@ -2286,7 +2286,7 @@ day = "29",
 title = "I CHOOSE ANONYMITY",
 We are sure that humility, expressed by anonymity, is the
 greatest safeguard that Alcoholics Anonymous can ever
-have."
+have.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 187",
 reading = "Since there are no rules in A.A. I place myself where I want
 to be, and so I choose anonymity. I want my God to use
@@ -2305,7 +2305,7 @@ THE ONLY REQUIREMENT . . .
 rules. Everybody was scared witless that something or
 somebody would capsize the boat. . . . The total list was a
 mile long. If all those rules had been in effect everywhere,
-nobody could have possibly joined A.A. at all, ...'"
+nobody could have possibly joined A.A. at all, ...'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 139-40",
 reading = "I'm grateful that the Third Tradition only requires of me a
 desire to stop drinking. I had been breaking promises for
@@ -2325,7 +2325,7 @@ Alcoholics Anonymous will never have a professional class.
 We have gained some understanding of the ancient words
 'Freely ye have received, freely give.' We have discovered
 that at the point of professionalism, money and spirituality
-do not mix."
+do not mix.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 166",
 reading = "I believe that Alcoholics Anonymous stands alone in the
 treatment of alcoholism because it is based solely on the
@@ -2344,7 +2344,7 @@ generously paid for my labor.
 day = "1",
 title = "WILLINGNESS TO GROW",
 quote = "If more gifts are to be received, our awakening has to go
-on."
+on.",
 citation = "AS BILL SEES IT, p. 8",
 reading = "Sobriety fills the painful 'hole in the soul' that my
 alcoholism created. Often I feel so physically well that I
@@ -2358,10 +2358,10 @@ spiritual awakening. I need only to bring into my recovery
 the willingness to grow. Today I am ready to grow."}
 ,
 { month = "SEPTEMBER",
-day = "2"
-FINDING 'A REASON TO BELIEVE'
-The willingness to grow is the essence of all spiritual
-development."
+day = "2",
+FINDING title = "'A REASON TO BELIEVE'",
+quote = "The willingness to grow is the essence of all spiritual
+development.",
 citation = "AS BILL SEES IT, p. 171",
 reading = "A line from a song goes, '. . . and I look to find a reason to
 believe . . .' It reminds me that at one time I was not able to
@@ -2384,7 +2384,7 @@ through my life."}
 day = "3",
 title = "BUILDING A NEW LIFE",
 quote = "We feel a man is unthinking when he says sobriety is
-enough."
+enough.",
 citation = "ALCOHOLICS ANONYMOUS, p. 82",
 reading = "When I reflect on Step Nine, I see that physical sobriety
 must be enough for me. I need to remember the
@@ -2450,12 +2450,12 @@ the way to a more serene sobriety by letting me clear away
 past wreckage, lest it bring me down."}
 ,
 { month = "SEPTEMBER",
-day = "7"
-'OUR SIDE OF THE STREET'
-We are there to sweep off our side of the street, realizing
+day = "7",
+title = "'OUR SIDE OF THE STREET'",
+quote = "We are there to sweep off our side of the street, realizing
 that nothing worth while can be accomplished until we do
 so, never trying to tell him what he should do. His faults
-are not discussed. We stick to our own."
+are not discussed. We stick to our own.",
 citation = "ALCOHOLICS ANONYMOUS, pp. 77-78",
 reading = "I made amends to my dad soon after I quit drinking. My
 words fell on deaf ears since I had blamed him for my
@@ -2468,9 +2468,9 @@ understood! My side of the street is all that I'm responsible
 for and— thanks to God and A.A.—it's clean for today."}
 ,
 { month = "SEPTEMBER",
-day = "8"
-'WE ASKED HIS PROTECTION'
-We asked His protection and care with complete abandon."
+day = "8",
+title = "'WE ASKED HIS PROTECTION'",
+quote = "We asked His protection and care with complete abandon.",
 citation = "ALCOHOLICS ANONYMOUS, p. 59",
 reading = "I could not manage my life alone. I had tried that road and
 failed. My 'ultimate sin' dragged me down to the lowest
@@ -2494,7 +2494,7 @@ life is beautiful! }
 day = "9",
 title = "OPENING NEW DOORS",
 quote = "They [the Promises] are being fulfilled among us—
-sometimes quickly, sometimes slowly."
+sometimes quickly, sometimes slowly.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "The Promises talked about in this passage are slowly
 coming to life for me. What has given me hope is putting
@@ -2512,7 +2512,7 @@ of, and Step Nine always works, when I work it.
 SEPTEMBER 10
 RECOVERY BY PROXY?
 They [the Promises] will always materialize if we work for
-them."
+them.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "Sometimes I think: 'Making these amends is going too far!
 No one should have to humble himself like that!' However,
@@ -2525,7 +2525,7 @@ happiness, friendship and harmony."}
 day = "11",
 title = "MAKING AMENDS",
 Above all, we should try to be absolutely sure that we are
-not delaying because we are afraid."
+not delaying because we are afraid.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
 reading = "To have courage, to be unafraid, are gifts of my recovery.
 They empower me to ask for help and to go forth in making
@@ -2542,7 +2542,7 @@ day = "12",
 title = "I AM RESPONSIBLE",
 For the readiness to take the full consequences of our past
 acts, and to take responsibility for the well-being of others
-at the same time, is the very spirit of Step Nine."
+at the same time, is the very spirit of Step Nine.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
 reading = "In recovery, and through the help of Alcoholics
 Anonymous, I learn that the very thing I fear is my
@@ -2559,7 +2559,7 @@ day = "13",
 title = "REPAIRING THE DAMAGE",
 Good judgment, a careful sense of timing courage and
 prudence—these are the qualities we shall need when we
-take Step Nine."
+take Step Nine.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 83",
 reading = "To make amends can be viewed two ways: first, that of
 repairing damage, for if I have damaged my neighbor's
@@ -2579,7 +2579,7 @@ title = "PEACE OF MIND",
 Do we lay the matter before our sponsor or spiritual
 adviser, earnestly asking God's help and guidance—
 meanwhile resolving to do the right thing when it becomes
-clear, cost what it may?"
+clear, cost what it may?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 86-87",
 reading = "My belief in a Higher Power is an essential part of my
 work on Step Nine; forgiveness, timing, and right motives
@@ -2595,7 +2595,7 @@ day = "15",
 title = "A NEW LIFE",
 Yes, there is a substitute and it is vastly more than that. It is
 a fellowship in Alcoholics Anonymous. . . . Life will mean
-something at last"
+something at last",
 citation = "ALCOHOLICS ANONYMOUS, p. 152",
 reading = "Life is better without alcohol. A.A. and the presence of a
 Higher Power keeps me sober, but the grace of God does
@@ -2608,12 +2608,12 @@ Anonymous program so that I may live a life given to me
 by my Higher Power."}
 ,
 { month = "SEPTEMBER",
-day = "16"
+day = "16",
 WE STAND—OR FALL—TOGETHER
 . . . no society of men and women ever had a more urgent
 need for continuous effectiveness and permanent unity. We
 alcoholics see that we must work together and hang
-together, else most of us will finally die alone."
+together, else most of us will finally die alone.",
 citation = "ALCOHOLICS ANONYMOUS, p. 562",
 reading = "Just as the Twelve Steps of A.A. are written in a specific
 sequence for a reason, so it is with the Twelve Traditions.
@@ -2639,7 +2639,7 @@ When, with God's help, we calmly accepted our lot, then we
 found we could live at peace with ourselves and show
 others who still suffered the same fears that they could get
 over them, too. We found that freedom from fear was more
-important than freedom from want."
+important than freedom from want.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 122",
 reading = "Material values ruled my life for many years during my
 active alcoholism. I believed that all of my possessions
@@ -2677,7 +2677,7 @@ remaining resources, and so we accepted the further fact
 that dependence upon a Higher Power (if only our A.A
 group) could do this hitherto impossible job. The moment
 we were able to accept these facts fully, our release from
-the alcohol compulsion had begun."
+the alcohol compulsion had begun.",
 citation = "AS BILL SEES IT, p. 109",
 reading = "Freedom came to me only with my acceptance that I could
 turn my will and my life over to the care of my Higher
@@ -2692,7 +2692,7 @@ SEPTEMBER 20
 H.P. AS GUIDE
 See to it that your relationship with Him is right, and great
 events will come to pass for you and countless others. This
-is the Great Fact for us."
+is the Great Fact for us.",
 citation = "ALCOHOLICS ANONYMOUS, p. 164",
 reading = "Having a right relationship with God seemed to be an
 impossible order. My chaotic past had left me filled with
@@ -2710,7 +2710,7 @@ to happen, and I found the beginning of sobriety."}
 day = "21",
 title = "THE LAST PROMISE",
 We will suddenly realize that God is doing for us what we
-could not do for ourselves."
+could not do for ourselves.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "The last Promise in the Big Book came true for me on the
 very first day of sobriety. God kept me sober that day, and
@@ -2725,16 +2725,16 @@ must be willing to do His work, so that He can function
 through me successfully."}
 ,
 { month = "SEPTEMBER",
-day = "22"
-A 'LIMITLESS LODE'
-Like a gaunt prospector, belt drawn in over the last ounce
+day = "22",
+title = "'LIMITLESS LODE'",
+quote = "Like a gaunt prospector, belt drawn in over the last ounce
 of food, our pick struck gold. Joy at our release from a
 lifetime of frustration knew no bounds. Father feels he has
 struck something better than gold. For a time he may try to
 hug the new treasure to himself. He may not see at once
 that he has barely scratched a limitless lode which will pay
 dividends only if he mines it for the rest of his life and
-insists on giving away the entire product."
+insists on giving away the entire product.",
 citation = "ALCOHOLICS ANONYMOUS, pp. 128-29",
 reading = "When I talk with a newcomer to A.A., my past looks me
 straight in the face. I see the pain in those hopeful eyes, I
@@ -2743,10 +2743,10 @@ healed. My problems vanish as I reach out to this trembling
 soul."}
 ,
 { month = "SEPTEMBER",
-day = "23"
-'I WAS AN EXCEPTION'
-He [Bill W.] said to me, gently and simply, 'Do you think
-that you are one of us?'"
+day = "23",
+title = "'I WAS AN EXCEPTION'",
+quote = "He [Bill W.] said to me, gently and simply, 'Do you think
+that you are one of us?'",
 citation = "ALCOHOLICS ANONYMOUS, p. 413",
 reading = "During my drinking life I was convinced I was an
 exception. I thought I was beyond petty requirements and
@@ -2767,7 +2767,7 @@ We have seen the truth demonstrated again and again:
 drink after a period of sobriety, we are in a short time as
 bad as ever. If we are planning to stop drinking, there must
 be no reservation of any kind, nor any lurking notion that
-someday we will be immune to alcohol"
+someday we will be immune to alcohol",
 citation = "ALCOHOLICS ANONYMOUS, p. 33",
 reading = "Today I am an alcoholic. Tomorrow will be no different.
 My alcoholism lives within me now and forever. I must
@@ -2783,7 +2783,7 @@ title = "FIRST THINGS FIRST",
 Some of us have taken very hard knocks to learn this truth:
 Job or no job—wife or no wife—we simply do not stop
 drinking so long as we place dependence upon other
-people ahead of dependence on God."
+people ahead of dependence on God.",
 citation = "ALCOHOLICS ANONYMOUS, p. 98",
 reading = "Before coming to A.A., I always had excuses for taking a
 drink: 'She said . . . ,' 'He said 'I got fired yesterday,' 'I
@@ -2800,7 +2800,7 @@ The alcoholic may find it hard to re-establish friendly
 relations with his children. . . . In time they will see that he
 is a new man and in their own way they will let him know
 it. . . . From that point on, progress will be rapid.
-Marvelous results often follow such a reunion."
+Marvelous results often follow such a reunion.",
 citation = "ALCOHOLICS ANONYMOUS, p. 134",
 reading = "While on the road to recovery I received a gift that could
 not be purchased. It was a card from my son in college,
@@ -2817,7 +2817,7 @@ were tears of joy, not desperation."}
 day = "27",
 title = "WITHOUT RESERVATION",
 When brimming with gratitude, one's heartbeat must surely
-result in outgoing love, . . ."
+result in outgoing love, . . .",
 citation = "AS BILL SEES IT, p. 37",
 reading = "While practicing service to others, if my successes give rise
 to grandiosity, I must reflect on what brought me to this
@@ -2831,7 +2831,7 @@ day = "28",
 title = "LOVE WITHOUT STRINGS",
 Practical experience shows that nothing will so much
 insure immunity from drinking as intensive work with other
-alcoholics."
+alcoholics.",
 citation = "ALCOHOLICS ANONYMOUS, p. 89",
 reading = "Sponsorship held two surprises for me. First, that my
 sponsees cared about me. What I had thought was gratitude
@@ -2850,7 +2850,7 @@ Gratitude for that gift has kept me sober many times."}
 day = "29",
 title = "EXACTLY ALIKE",
 Frequent contact with newcomers and with each other is
-the bright spot of our lives."
+the bright spot of our lives.",
 citation = "ALCOHOLICS ANONYMOUS, p. 89",
 reading = "A man came to the meeting drunk, interrupted the speakers,
 stood up and took his shirt off, staggered loudly back and
@@ -2891,7 +2891,7 @@ day = "1",
 title = "LEST WE BECOME COMPLACENT",
 quote = "It is easy to let up on the spiritual program of action and
 rest on our laurels. We are headed for trouble if we do, for
-alcohol is a subtle foe."
+alcohol is a subtle foe.",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "When I am in pain it is easy to stay close to the friends I
 have found in the program. Relief from that pain is
@@ -2906,14 +2906,14 @@ myself, to God and to another human being, keeps me
 honest and humble."}
 ,
 { month = "OCTOBER",
-day = "2"
-'THE ACID TEST'
-As we work the first nine Steps, we prepare ourselves for
+day = "2",
+title = "'THE ACID TEST'",
+quote = "As we work the first nine Steps, we prepare ourselves for
 the adventure of a new life. But when we approach Step Ten
 we commence to put our A.A. way of living to practical use,
 day by day, in fair weather or foul Then comes the acid
 test: can we stay sober, keep in emotional balance, and live
-to good purpose under all conditions?"
+to good purpose under all conditions?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
 reading = "I know the Promises are being fulfilled in my life, but I
 want to maintain and develop them by the daily application
@@ -2935,7 +2935,7 @@ day = "3",
 title = "SERENITY AFTER THE STORM",
 quote = "Someone who knew what he was talking about once
 remarked that pain was the touchstone of all spiritual
-progress. How heartily we A.A. 's can agree with him. . . ."
+progress. How heartily we A.A. 's can agree with him. . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 93-94",
 reading = "When on the roller coaster of emotional turmoil, I
 remember that growth is often painful. My evolution in the
@@ -2950,7 +2950,7 @@ spiritual progress."}
 day = "4",
 title = "A NECESSARY PRUNING",
 quote = ". . . we know that the pains of drinking had to come before
-sobriety, and emotional turmoil before serenity."
+sobriety, and emotional turmoil before serenity.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 94",
 reading = "I love spending time in my garden feeding and pruning my
 beautiful flowers. One day, as I was busily snipping away,
@@ -2965,13 +2965,13 @@ we all grow through pain. I ask God to prune me when it's
 time, so I can grow."}
 ,
 { month = "OCTOBER",
-day = "5"
+day = "5",
 YESTERDAY'S BAGGAGE
 For the wise have always known that no one can make
 much of his life until self-searching becomes a regular
 habit, until he is able to admit and accept what he finds,
 and until he patiently and persistently tries to correct what
-is wrong."
+is wrong.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
 reading = "I have more than enough to handle today, without dragging
 along yesterday's baggage too. I must balance today's
@@ -2982,9 +2982,9 @@ Some of today is bound to spill over into tomorrow, but
 most of it need not if I make an honest daily inventory."}
 ,
 { month = "OCTOBER",
-day = "6"
+day = "6",
 FACING OURSELVES . . . and Fear says,
-'You dare not look!'"
+'You dare not look!'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 49",
 reading = "How often I avoided a task in my drinking days just
 because it appeared so large! Is it any wonder, even if I
@@ -2998,9 +2998,9 @@ me at a standstill and, until I became willing to put pencil
 to paper, I was arresting my growth based on an intangible."}
 ,
 { month = "OCTOBER",
-day = "7"
+day = "7",
 DAILY MONITORING Continued to take
-personal inventory. . . ."
+personal inventory. . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 88",
 reading = "The spiritual axiom referred to in the Tenth Step— 'every
 time we are disturbed, no matter what the cause, there is
@@ -3045,7 +3045,7 @@ to interact more directly and effectively in the future."}
 day = "9",
 title = "A SPIRITUAL AXIOM",
 quote = "It is a spiritual axiom that every time we are disturbed, no
-matter what the cause, there is something wrong with us."
+matter what the cause, there is something wrong with us.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 90",
 reading = "I never truly understood the Tenth Step's spiritual axiom
 until I had the following experience. I was sitting in my
@@ -3066,7 +3066,7 @@ my spiritual condition is positive, I react positively.
 OCTOBER 10
 FIXING ME, NOT YOU
 If somebody hurts us and we are sore, we are in the wrong
-also."
+also.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 90",
 reading = "What a freedom I felt when this passage was pointed out to
 me! Suddenly I saw that I could do something about my
@@ -3078,9 +3078,9 @@ I can, even when that best is sometimes poor. So I ask God
 to remove my anger and truly set me free."}
 ,
 { month = "OCTOBER",
-day = "11"
+day = "11",
 SELF-RESTRAINT
-Our first objective will be the development of self-restraint."
+Our first objective will be the development of self-restraint.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 91",
 reading = "My drive to work provides me with an opportunity for selfexamination.
 One day while making this trip, I began to
@@ -3105,7 +3105,7 @@ God for the chance to make progress that day."}
 day = "12",
 title = "CURBING RASHNESS",
 When we speak or act hastily or rashly, the ability to be
-fair-minded and tolerant evaporates on the spot."
+fair-minded and tolerant evaporates on the spot.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 91",
 reading = "Being fair-minded and tolerant is a goal toward which I
 must work daily. I ask God, as I understand Him, to help
@@ -3124,7 +3124,7 @@ Continue to watch for selfishness, dishonesty, resentment,
 and fear. When these crop up, we ask God at once to
 remove them. We discuss them with someone immediately
 and make amends quickly if we have harmed anyone. Then
-we resolutely turn our thoughts to someone we can help."
+we resolutely turn our thoughts to someone we can help.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "The immediate admission of wrong thoughts or actions is a
 tough task for most human beings, but for recovering
@@ -3145,7 +3145,7 @@ When we retire at night, we constructively review our day. .
 . . On awakening let us think about the twenty-four hours
 ahead. . . . Before we begin, we ask God to direct our
 thinking, especially asking that it be divorced from selfpity,
-dishonest or self-seeking motives."
+dishonest or self-seeking motives.",
 citation = "ALCOHOLICS ANONYMOUS, p. 86",
 reading = "I lacked serenity. With more to do than seemed possible, I
 fell further behind, no matter how hard I tried. Worries
@@ -3157,12 +3157,12 @@ will, not my problems, and to trust that He would manage
 my day. It worked! Slowly, but it worked! }
 ,
 { month = "OCTOBER",
-day = "15"
+day = "15",
 MY CHECKLIST, NOT YOURS
 Gossip barbed with our anger, a polite form of murder by
 character assassination, has its satisfactions for us, too.
 Here we are not trying to help those we criticize; we are
-trying to proclaim our own righteousness."
+trying to proclaim our own righteousness.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 67",
 reading = "Sometimes I don't realize that I gossiped about someone
 until the end of the day, when I take an inventory of the
@@ -3185,7 +3185,7 @@ others to the Final Judge—Divine Providence."}
 day = "16",
 title = "THROUGHOUT EACH DAY",
 This is not an overnight matter. It should continue for our
-lifetime."
+lifetime.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "During my early years in A. A. I saw Step Ten as a
 suggestion that I periodically look at my behavior and
@@ -3199,10 +3199,10 @@ mean occasionally, or frequently. It means throughout each
 day."}
 ,
 { month = "OCTOBER",
-day = "17"
+day = "17",
 A DAILY TUNE-UP
 Every day is a day when we must carry the vision of God's
-will into all of our activities."
+will into all of our activities.",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "How do I maintain my spiritual condition? For me it's quite
 simple: on a daily basis I ask my Higher Power to grant me
@@ -3217,7 +3217,7 @@ granted."}
 { month = "OCTOBER",
 day = "18",
 title = "AN OPEN MIND",
-True humility and an open mind can lead us to faith, . . ."
+True humility and an open mind can lead us to faith, . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 33",
 reading = "My alcoholic thinking led me to believe that I could control
 my drinking, but I couldn't. When I came to A.A., I realized
@@ -3230,11 +3230,11 @@ a sober alcoholic. The new, sober me is a much better
 person than I ever could have been without A.A."}
 ,
 { month = "OCTOBER",
-day = "19"
-A.A'S 'MAIN TAPROOT'
-The principle that we shall find no enduring strength until
+day = "19",
+A.A'S title = "'MAIN TAPROOT'",
+quote = "The principle that we shall find no enduring strength until
 we first admit complete defeat is the main taproot from
-which our whole Society has sprung and flowered."
+which our whole Society has sprung and flowered.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 21-22",
 reading = "Defeated, and knowing it, I arrived at the doors of A.A.,
 alone and afraid of the unknown. A power outside of
@@ -3251,7 +3251,7 @@ Obviously, the dilemma of the wanderer from faith is that
 of profound confusion. He thinks himself lost to the comfort
 of any conviction at all He cannot attain in even a small
 degree the assurance of the believer, the agnostic, or the
-atheist. He is the bewildered one."
+atheist. He is the bewildered one.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 28",
 reading = "The concept of God was one that I struggled with during
 my early years of sobriety. The images that came to me,
@@ -3271,7 +3271,7 @@ calming concept of God."}
 day = "21",
 title = "NOTHING GROWS IN THE DARK",
 We will want the good that is in us all, even in the worst of
-us, to flower and to grow."
+us, to flower and to grow.",
 citation = "AS BILL SEES IT, p. 10",
 reading = "With the self-discipline and insight gained from practicing
 Step Ten, I begin to know the gratifications of sobriety—
@@ -3290,7 +3290,7 @@ title = "TRUE TOLERANCE",
 Finally, we begin to see that all people, including
 ourselves, are to some extent emotionally ill as well as
 frequently wrong and then we approach true tolerance and
-see what real love for our fellows actually means"
+see what real love for our fellows actually means",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 92",
 reading = "The thought occurred to me that all people are emotionally
 ill to some extent. How could we not be? Who among us is
@@ -3307,7 +3307,7 @@ title = "WHAT WE KNOW BEST",
 supremely well than many badly. That is the central theme
 of this Tradition [Five]. Around it our Society gathers in
 unity. The very life of our Fellowship requires the
-preservation of this principle."
+preservation of this principle.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 150",
 reading = "The survival of A.A. depends upon unity. What would
 happen if a group decided to become an employment
@@ -3322,15 +3322,15 @@ is closely tied to my competence in 'carrying the message
 to the still-suffering alcoholic.' }
 ,
 { month = "OCTOBER",
-day = "24"
-'BY FAITH AND BY WORKS'
-On anvils of experience, the structure of our Society was
+day = "24",
+title = "'BY FAITH AND BY WORKS'",
+quote = "On anvils of experience, the structure of our Society was
 hammered out. . . . Thus has it been with A.A. By faith and
 by works we have been able to build upon the lessons of an
 incredible experience. They live today in the Twelve
 Traditions of Alcoholics Anonymous, which—God
 willing—shall sustain us in unity for so long as He may
-need us."
+need us.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 131",
 reading = "God has allowed me the right to be wrong in order for our
 Fellowship to exist as it does today. If I place God's will
@@ -3338,9 +3338,9 @@ first in my life, it is very likely that A.A. as I know it today
 will remain as it is."}
 ,
 { month = "OCTOBER",
-day = "25"
+day = "25",
 A.A.'s HEARTBEAT
-Without unity, the heart of A.A. would cease to beat; . . ."
+Without unity, the heart of A.A. would cease to beat; . . .",
 citation = "AS BILL SEES IT, p. 125",
 reading = "Without unity I would be unable to recover in A.A. on a
 daily basis. By practicing unity within my group, with other
@@ -3356,7 +3356,7 @@ day = "26",
 title = "ONE ULTIMATE AUTHORITY",
 For our group purpose there is but one ultimate authority—
 a loving God as He may express Himself in our group
-conscience."
+conscience.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 132",
 reading = "When I am chosen to carry some small responsibility for
 my fellows, I ask that God grant me the patience, openmindedness,
@@ -3376,7 +3376,7 @@ has found a key to sobriety. These legacies of suffering and
 of recovery are easily passed among alcoholics, one to the
 other. This is our gift from God, and its bestowal upon
 others like us is the one aim that today animates A. A. 's all
-around the globe."
+around the globe.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
 reading = "The strength of Alcoholics Anonymous lies in the desire of
 each member and of each group around the world to share
@@ -3393,7 +3393,7 @@ title = "AN UNBROKEN TRADITION",
 We conceive the survival and spread of Alcoholics
 Anonymous to be something of far greater importance than
 the weight we could collectively throw back of any other
-cause."
+cause.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 177",
 reading = "How much it means to me that an unbroken tradition of
 more than half a century is a thread that connects me to Bill
@@ -3416,7 +3416,7 @@ day = "29",
 title = "OUR SURVIVAL",
 Since recovery from alcoholism is life itself to us, it is
 imperative that we preserve in full strength our means of
-survival."
+survival.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 177",
 reading = "The honesty expressed by the members of A.A. in meetings
 has the power to open my mind. Nothing can block the
@@ -3438,7 +3438,7 @@ Fellowship ever publicly taken sides on any question in an
 embattled world. This, however, has been no earned virtue.
 It could almost be said that we were born with it. . . . 'So
 long as we don't argue these matters privately, it's a cinch
-we never shall publicly.'"
+we never shall publicly.'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 176",
 reading = "Do I remember that I have a right to my opinion but that
 others don't have to share it? That's the spirit of 'Live and
@@ -3459,7 +3459,7 @@ All history affords us the spectacle of striving nations and
 groups finally torn asunder because they were designed for,
 or tempted into, controversy. Others fell apart because of
 sheer self-righteousness while trying to enforce upon the
-rest of mankind some millennium of their own specification."
+rest of mankind some millennium of their own specification.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 176",
 reading = "As an A.A. member and sponsor, I know I can cause real
 damage if I yield to temptation and give opinions and
@@ -3475,7 +3475,7 @@ day = "1",
 title = "I CANNOT CHANGE THE WIND",
 quote = "is easy to let up on the spiritual program of action and
 rest on our laurels. We are headed for trouble if we do, for
-alcohol is a subtle foe."
+alcohol is a subtle foe.",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "My first sponsor told me there were two things to say about
 prayer and meditation: first, I had to start and second, I had
@@ -3494,7 +3494,7 @@ graceful way of being right, and many ways to be wrong."}
 day = "2",
 title = "KEEPING OPTIMISM AFLOAT",
 quote = "The other Steps can keep most of us sober and somehow
-functioning. But Step Eleven can keep us growing . . ."
+functioning. But Step Eleven can keep us growing . . .",
 citation = "THE LANGUAGE OF THE HEART, p. 240",
 reading = "A sober alcoholic finds it much easier to be optimistic
 about life. Optimism is the natural result of my finding
@@ -3515,7 +3515,7 @@ day = "3",
 title = "FOCUSING AND LISTENING",
 quote = "There is a direct linkage among self-examination,
 meditation, and prayer. Taken separately, these practices
-can bring much relief and benefit."
+can bring much relief and benefit.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 98",
 reading = "If I do my self-examination first, then surely, I'll have
 enough humility to pray and meditate—because I'll see and
@@ -3535,7 +3535,7 @@ day = "4",
 title = "A DAILY DISCIPLINE",
 quote = ". . . when they [self-examination, meditation and prayer]
 are logically related and interwoven, the result is an
-unshakable foundation for life."
+unshakable foundation for life.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 98",
 reading = "The last three Steps of the program invoke God's loving
 discipline upon my willful nature. If I devote just a few
@@ -3556,12 +3556,12 @@ keep me in fit spiritual condition, able to face whatever the
 day brings—without the thought of a drink."}
 ,
 { month = "NOVEMBER",
-day = "5"
-'THE QUALITY OF FAITH'
-This . . . has to do with the quality of faith. . . . In no deep
+day = "5",
+title = "'THE QUALITY OF FAITH'",
+quote = "This . . . has to do with the quality of faith. . . . In no deep
 or meaningful sense had we ever taken stock of ourselves. .
 . . We had not even prayed rightly. We had always said,
-'Grant me my wishes' instead of 'Thy will be done.'"
+'Grant me my wishes' instead of 'Thy will be done.'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 32",
 reading = "God does not grant me material possessions, take away my
 suffering, or spare me from disasters, but He does give me
@@ -3579,7 +3579,7 @@ my everyday affairs."}
 day = "6",
 title = "GOING WITH THE FLOW",
 quote = "Sought through prayer and meditation to improve our
-conscious contact with God as we understood Him. . . ."
+conscious contact with God as we understood Him. . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 96",
 reading = "The first words I speak when arising in the morning are, 'I
 arise, O God, to do Thy will.' This is the shortest prayer I
@@ -3600,7 +3600,7 @@ interrupt the flow; my own negativity did."}
 day = "7",
 title = "LET GO AND LET GOD",
 quote = ". . . praying only for knowledge of His will for us and the
-power to carry that out"
+power to carry that out",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 96",
 reading = "When I 'Let Go and Let God,' I think more clearly and
 wisely. Without having to think about it, I quickly let go of
@@ -3622,7 +3622,7 @@ quote = "Meditation is something which can always be further
 developed. It has no boundaries, either of width or height.
 Aided by such instruction and example as we can find, it is
 essentially an individual adventure, something which each
-one of us works out in his own way."
+one of us works out in his own way.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 101",
 reading = "My spiritual growth is with God as I understand Him. With
 Him I find my true inner self. Daily meditation and prayer
@@ -3636,7 +3636,7 @@ life."}
 day = "9",
 title = "STEPPING INTO THE SUNLIGHT",
 quote = "But first of all we shall want sunlight; nothing much can
-grow in the dark. Meditation is our step out into the sun."
+grow in the dark. Meditation is our step out into the sun.",
 citation = "AS BILL SEES IT, p. 10",
 reading = "Sometimes I think I don't have time for prayer and
 meditation, forgetting that I always found the time to drink.
@@ -3659,7 +3659,7 @@ my thoughts through silence.
 NOVEMBER 10
 A SENSE OF BELONGING
 Perhaps one of the greatest rewards of meditation and
-prayer is the sense of belonging that comes to us."
+prayer is the sense of belonging that comes to us.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 105",
 reading = "That's what it is—belonging! After a session of meditation
 I knew that the feeling I was experiencing was a sense of
@@ -3671,11 +3671,11 @@ flow of God's world. How propitious for us that prayer and
 meditation are written right into our A.A. way of life."}
 ,
 { month = "NOVEMBER",
-day = "11"
+day = "11",
 SELF-ACCEPTANCE
 We know that God lovingly watches over us. We know that
 when we turn to Him, all will be well with us, here and
-hereafter."
+hereafter.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 105",
 reading = "I pray for the willingness to remember that I am a child of
 God, a divine soul in human form, and that my most basic
@@ -3691,7 +3691,7 @@ caring for myself."}
 day = "12",
 title = "MORNING THOUGHTS",
 Ask Him in your morning meditation what you can do each
-day for the man who is still sick"
+day for the man who is still sick",
 citation = "ALCOHOLICS ANONYMOUS, p. 164",
 reading = "For many years I pondered over God's will for me,
 believing that perhaps a great destiny had been ordained for
@@ -3709,7 +3709,7 @@ title = "LOOKING OUTWARD",
 We ask especially for freedom from self-will, and are
 careful to make no requests for ourselves only. We may ask
 for ourselves, however, if others will be helped We are
-careful never to pray for our own selfish ends."
+careful never to pray for our own selfish ends.",
 citation = "ALCOHOLICS ANONYMOUS, p. 87",
 reading = "As an active alcoholic, I allowed selfishness to run rampant
 in my life. I was so attached to my drinking and other
@@ -3724,7 +3724,7 @@ earthly attachments."}
 day = "14",
 title = "INTUITION AND INSPIRATION",
 . . we ask God for inspiration, an intuitive thought >r a
-decision. We relax and take it easy. We don't struggle."
+decision. We relax and take it easy. We don't struggle.",
 citation = "ALCOHOLICS ANONYMOUS, p. 86",
 reading = "[ invest my time in what I truly love. Step Eleven is a
 discipline that allows me and my Higher Power to be
@@ -3746,7 +3746,7 @@ would no more do without it than we would refuse air, food,
 or sunshine. And for the same reason. When we refuse air,
 light, or food, the body suffers. And when we turn away
 from meditation and prayer, we likewise deprive our minds,
-our emotions, and our intuitions of vitally needed support."
+our emotions, and our intuitions of vitally needed support.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 97",
 reading = "Step Eleven doesn't have to overwhelm me. Conscious
 contact with God can be as simple, and as profound, as
@@ -3763,7 +3763,7 @@ become."}
 day = "16",
 title = "A DAILY REPRIEVE",
 What we really have is a daily reprieve contingent on the
-maintenance of our spiritual condition."
+maintenance of our spiritual condition.",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "Maintaining my spiritual condition is like working out
 every day, planning for the marathon, swimming laps,
@@ -3787,7 +3787,7 @@ title = "OVERCOMING LONELINESS",
 Almost without exception, alcoholics are tortured by
 loneliness Even before our drinking got bad and people
 began to cut us off, nearly all of us suffered the feeling that
-we didn't quite belong."
+we didn't quite belong.",
 citation = "AS BILL SEES IT, p. 90",
 reading = "The agonies and the void that I often felt inside occur less
 and less frequently in my life today. I have learned to cope
@@ -3805,7 +3805,7 @@ Occasionally. . . . We are seized with a rebellion so
 sickening that we simply won't pray. When these things
 happen we should not think too ill of ourselves. We should
 simply resume prayer as soon as we can, doing what we
-know to be good for us."
+know to be good for us.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 105",
 reading = "Sometimes I scream, stomp my feet, and turn my back on
 my Higher Power. Then my disease tells me that I am a
@@ -3818,12 +3818,12 @@ Higher Power will wait until I am willing once again to risk
 letting go, to land in the net, and to pray."}
 ,
 { month = "NOVEMBER",
-day = "19"
-'I WAS SLIPPING FAST'
-We A.A.'s are active folk, enjoying the satisfactions of
+day = "19",
+title = "'I WAS SLIPPING FAST'",
+quote = "We A.A.'s are active folk, enjoying the satisfactions of
 dealing with the realities of life, . . . So it isn't surprising
 that we often tend to slight serious meditation and prayer as
-something not really necessary."
+something not really necessary.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 96",
 reading = "I had been slipping away from the program for some time,
 but it took a death threat from a terminal disease to bring
@@ -3848,7 +3848,7 @@ compared to what I almost lost completely.
 NOVEMBER 20
 'THY WILL, NOT MINE'
 . . . when making specific requests, it will be well to add to
-each one of them this qualification. '. . . if it be Thy will'"
+each one of them this qualification. '. . . if it be Thy will'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 102",
 reading = "I ask simply that throughout the day God place in me the
 best understanding of His will that I can have for that day,
@@ -3878,7 +3878,7 @@ seek rather to comfort than to be comforted—to understand,
 than to be understood—to love, than to be loved. For
 it is by self-forgetting that one finds. It is by forgiving that
 one is forgiven. It is by dying that one awakens to Eternal
-Life. Amen."
+Life. Amen.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 99",
 reading = "No matter where I am in my spiritual growth, the St.
 Francis prayer helps me improve my conscious contact
@@ -3896,7 +3896,7 @@ day = "22",
 title = "ONLY TWO SINS",
 . . . there are only two sins; the first is to interfere with the
 growth of another human being, and the second is to
-interfere with one's own growth."
+interfere with one's own growth.",
 citation = "ALCOHOLICS ANONYMOUS, p. 542",
 reading = "Happiness is such an elusive state. How often do my
 'prayers' for others involve 'hidden' prayers for my own
@@ -3911,10 +3911,10 @@ I ask my Higher Power to help me not cause another's
 lack of growth today—or my own."}
 ,
 { month = "NOVEMBER",
-day = "23"
-'HOLD YOUR FACE TO THE LIGHT'
-Believe more deeply. Hold your face up to the Light, even
-though for the moment you do not see."
+day = "23",
+title = "'HOLD YOUR FACE TO THE LIGHT'",
+quote = "Believe more deeply. Hold your face up to the Light, even
+though for the moment you do not see.",
 citation = "AS BILL SEES IT, p. 3",
 reading = "One Sunday in October, during my morning meditation, I
 glanced out the window at the ash tree in our front yard. At
@@ -3936,7 +3936,7 @@ life."}
 day = "24",
 title = "A UNIVERSAL SEARCH",
 Be quick to see where religious people are right Make use
-of what they offer."
+of what they offer.",
 citation = "ALCOHOLICS ANONYMOUS, p. 87",
 reading = "I do not claim to have all the answers in spiritual matters,
 any more than I claim to have all the answers about
@@ -3982,7 +3982,7 @@ title = "THE HAZARDS OF PUBLICITY",
 People who symbolize causes and ideas fill a deep human
 need. We of A.A. do not question that. But we do have to
 soberly face the fact that being in the public eye is
-hazardous, especially for us."
+hazardous, especially for us.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 181",
 reading = "As a recovered alcoholic I must make an effort to put into
 practice the principles of the AA. program, which are
@@ -4009,7 +4009,7 @@ which said it wished to publicize its principles and its work,
 but not its individual members. The press was delighted
 with this attitude. Ever since, these friends have reported
 A.A. with an enthusiasm which the most ardent members
-would find hard to match."
+would find hard to match.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 182",
 reading = "It is essential for my personal survival and that of the
 Fellowship that I not use A.A. to put myself in the
@@ -4024,13 +4024,13 @@ changing attitudes and my altruism contributes much more
 to the welfare of A.A. than self-promotion."}
 ,
 { month = "NOVEMBER",
-day = "28"
+day = "28",
 ATTRACTION, NOT PROMOTION
 Through many painful experiences, we think we have
 arrived at what that policy ought to be. It is the opposite in
 many ways of usual promotional practice. We found that we
 had to rely upon the principle of attraction rather than of
-promotion."
+promotion.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 180-81",
 reading = "While I was drinking I reacted with anger, self-pity and
 defiance against anyone who wanted to change me. All I
@@ -4047,13 +4047,13 @@ members, I have been able to practice the A.A. way of life
 through attraction, not promotion."}
 ,
 { month = "NOVEMBER",
-day = "29"
-'ACTIVE GUARDIANS'
-To us, however, it represents far more than a sound public
+day = "29",
+title = "'ACTIVE GUARDIANS'",
+quote = "To us, however, it represents far more than a sound public
 relations policy. It is more than a denial of self-seeking.
 This Tradition is a constant and practical reminder that
 personal ambition has no place in A A. In it, each member
-becomes an active guardian of our Fellowship."
+becomes an active guardian of our Fellowship.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 183",
 reading = "The basic concept of humility is expressed in the Eleventh
 Tradition: it allows me to participate completely in the
@@ -4087,13 +4087,13 @@ veracity of the miracle of the century. Alcoholics
 Anonymous is not anonymous, but its members should be."}
 ,
 { month = "DECEMBER",
-day = "1"
+day = "1",
 'SUGGESTED' STEPS
 Our Twelfth Step also says that as a result of practicing all
 the Steps, we have each found something called a spiritual
 awakening. . . . A. A.'s manner of making ready to receive
 this gift lies in the practice of the Twelve Steps in our
-program.'"
+program.'",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 106-07",
 reading = "I remember my sponsor's answer when I told him that the
 Steps were 'suggested.' He replied that they are
@@ -4109,7 +4109,7 @@ program of recovery based on all Twelve of the
 day = "2",
 title = "SERENITY",
 quote = "Having had a spiritual awakening as the result of these steps, . .
-."
+.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 106",
 reading = "As I continued to go to meetings and work the Steps, something
 began to happen to me. I felt confused because I wasn't sure
@@ -4128,7 +4128,7 @@ awareness that I am no longer alone."}
 day = "3",
 title = "IN ALL OUR AFFAIRS",
 quote = ". . . we tried to carry this message to alcoholics, and to
-practice these principles in all our affairs."
+practice these principles in all our affairs.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 106",
 reading = "I find that carrying the message of recovery to other
 alcoholics is easy because it helps me to stay sober and it
@@ -4151,7 +4151,7 @@ title = "INTO ACTION",
 quote = "A. A. is more than a set of principles; it is a society of
 alcoholics in action. We must carry the message, else we
 ourselves can wither and those who haven't been given the
-truth may die."
+truth may die.",
 citation = "AS BILL SEES IT, p. 13",
 reading = "I desperately wanted to live, but if I was to succeed, I had to
 become active in our God-given program. I joined what
@@ -4177,7 +4177,7 @@ there—sober."}
 day = "5",
 title = "A NEW STATE OF CONSCIOUSNESS",
 quote = "He has been granted a gift which amounts to a new state of
-consciousness and being."
+consciousness and being.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 107",
 reading = "Many of us in AA. puzzle over what is a spiritual
 awakening. I tended to look for a miracle, something
@@ -4199,7 +4199,7 @@ We found that dependence upon His perfect justice,
 forgiveness, and love was healthy, and that it would work
 where nothing else would. If we really depended upon God,
 we couldn't very well play God to our fellows nor would we
-feel the urge wholly to rely on human protection and care."
+feel the urge wholly to rely on human protection and care.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 116",
 reading = "It has been my experience that, when all human resources
 appear to have failed, there is always One who will never
@@ -4215,7 +4215,7 @@ day = "7",
 title = "TRUE AMBITION",
 quote = "True ambition is not what we thought it was. True ambition
 is the deep desire to live usefully and walk humbly under
-the grace of God."
+the grace of God.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 124-25",
 reading = "During my drinking years, my one and only concern was to
 have my fellow man think highly of me. My ambition in
@@ -4240,7 +4240,7 @@ see them help others, to watch loneliness vanish, to see a
 fellowship grow up about you, to have host of friends—this
 is an experience you must not miss. . . . Frequent contact
 with newcomers and nth each other is the bright spot of
-our lives."
+our lives.",
 citation = "ALCOHOLICS ANONYMOUS, p. 89",
 reading = "t is through service that the greatest rewards are to be
 found. But to be in a position of offering true, useful and
@@ -4257,7 +4257,7 @@ day = "9",
 title = "LOVE WITH NO PRICE TAG",
 quote = "When the Twelfth Step is seen in its full implication, it is
 really talking about the kind of love that has no price tag on
-it"
+it",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 106",
 reading = "In order for me to start working the Twelfth Step, I had to
 work on sincerity, honesty, and to learn to act with
@@ -4283,7 +4283,7 @@ wonderful energy it releases and the eager action by which
 it carries our message to the next suffering alcoholic and
 which finally translates the Twelve Steps into action upon
 all our affairs is the payoff, the magnificent reality, of
-Alcoholics Anonymous."
+Alcoholics Anonymous.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 109",
 reading = "To renounce the alcoholic world is not to abandon it, but to
 act upon principles I have come to love and cherish, and to
@@ -4294,12 +4294,12 @@ My task is to carry the message, and to lead by example,
 not design."}
 ,
 { month = "DECEMBER",
-day = "11"
-'A GENUINE HUMILITY'
-. . . we are actually to practice a genuine humility. This is
+day = "11",
+title = "'A GENUINE HUMILITY'",
+quote = ". . . we are actually to practice a genuine humility. This is
 to the end that our great blessings may never spoil us; that
 we shall forever live in thankful contemplation of Him who
-presides over us all."
+presides over us all.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 192",
 reading = "Experience has taught me that my alcoholic personality
 tends to be grandiose. While having seemingly good
@@ -4322,7 +4322,7 @@ The tremendous fact for every one of us is that we have
 discovered a common solution. We have a way out on
 which we can absolutely agree, and upon which we can
 join in brotherly and harmonious ac-ion. This is the great
-news this book carries to those who suffer from alcoholism."
+news this book carries to those who suffer from alcoholism.",
 citation = "ALCOHOLICS ANONYMOUS, p. 17",
 reading = "The most far-reaching Twelfth Step work was the
 publication of our Big Book, Alcoholics Anonymous. Few
@@ -4343,7 +4343,7 @@ day = "13",
 title = "THINKING OF OTHERS",
 Our very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
-needs."
+needs.",
 citation = "ALCOHOLICS ANONYMOUS, p. 20",
 reading = "Thinking of others has never come easily to me. Even when
 I try to work the A.A. program, I'm prone to thinking,
@@ -4361,7 +4361,7 @@ day = "14",
 title = "REACHING OUT",
 Never talk down to an alcoholic from any moral or
 spiritual hilltop; simply lay out the kit of spiritual looks for
-his inspection. Show him how they worked with you."
+his inspection. Show him how they worked with you.",
 citation = "ALCOHOLICS ANONYMOUS, p. 95",
 reading = "When I come into contact with a newcomer, do I have a
 tendency to look at him from my perceived ingle of
@@ -4383,7 +4383,7 @@ day = "15",
 title = "DOING ANYTHING TO HELP",
 Offer him [the alcoholic] friendship and fellowship. Tell
 him that if he wants to get well you will do anything to
-help."
+help.",
 citation = "ALCOHOLICS ANONYMOUS, p. 95",
 reading = "I remember how attracted I was to the two men from A.A.
 who Twelfth-Stepped me. They said I could have what
@@ -4463,7 +4463,7 @@ nothing. He does not expect his brother sufferer to pay him,
 or even to love him. And then he discovers that by the
 divine paradox of this kind of giving he has found his own
 reward, whether his brother has yet received anything or
-not."
+not.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 109",
 reading = "Through experience with Twelfth Step work, I came to
 understand the rewards of giving that demands nothing in
@@ -4474,11 +4474,11 @@ not going to result in a success, then I was open to receive
 the rewards of selfless giving."}
 ,
 { month = "DECEMBER",
-day = "21"
+day = "21",
 LISTEN, SHARE AND PRAY
 When working with a man and his family, you should take
 care not to participate in their quarrels. You may spoil
-your chance of being helpful if you do."
+your chance of being helpful if you do.",
 citation = "ALCOHOLICS ANONYMOUS, p. 100",
 reading = "When trying to help a fellow alcoholic, I've given in to an
 impulse to give advice, and perhaps that's inevitable. But
@@ -4488,12 +4488,12 @@ to put into practice— is to listen, share personal
 experience, and pray for others."}
 ,
 { month = "DECEMBER",
-day = "22"
+day = "22",
 PRINCIPLES, NOT PERSONALITIES
 The way our 'worthy' alcoholics have sometimes tried to
 judge the 'less worthy' is, as we look back on it, rather
 comical. Imagine, if you can, one alcoholic judging
-another!"
+another!",
 citation = "THE LANGUAGE OF THE HEART, p. 37",
 reading = "Who am I to judge anyone? When I first entered the
 Fellowship I found that I liked everyone. After all, A.A.
@@ -4507,11 +4507,11 @@ message I need for today. I must always remember to place
 principles above personalities."}
 ,
 { month = "DECEMBER",
-day = "23"
+day = "23",
 RECOVERY, UNITY, SERVICE
 Our Twelfth Step—carrying the message—is the basic
 service that AA's Fellowship gives; this is our principal aim
-and the main reason for our existence."
+and the main reason for our existence.",
 citation = "THE LANGUAGE OF THE HEART, p. 160",
 reading = "I thank God for those who came before me, those who told
 me not to forget the Three Legacies: Recovery, Unity and
@@ -4527,15 +4527,15 @@ will have no message to give, unless I recover in unity with
 A.A. principles."}
 ,
 { month = "DECEMBER",
-day = "24"
-A 'SANE AND HAPPY USEFULNESS'
-We have come to believe He would like us to keep our heads
+day = "24",
+title = "'SANE AND HAPPY USEFULNESS'",
+quote = "We have come to believe He would like us to keep our heads
 in the clouds with Him, but that our feet ought to be firmly
 planted on earth. That is where our fellow travelers are,
 and that is where our work must be done. These are the
 realities for us. We have found nothing incompatible
 between a powerful spiritual experience and a life of sane
-and happy usefulness"
+and happy usefulness",
 citation = "ALCOHOLICS ANONYMOUS, p. 130",
 reading = "All the prayer and meditation in the world will not help me
 unless they are accompanied by action. Practicing the
@@ -4548,7 +4548,7 @@ day = "25",
 title = "AT PEACE WITH LIFE",
 Every day is a day when we must carry the vision of God's
 will into all of our activities 'How can I best serve Thee—
-Thy will (not mine) be done.'"
+Thy will (not mine) be done.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "I read this passage each morning, to start off my day,
 because it is a continual reminder to 'practice these
@@ -4566,7 +4566,7 @@ without despair or pride? Can we accept poverty, sickness,
 loneliness, and bereavement with courage and serenity?
 Can we steadfastly content ourselves with the humbler, yet
 sometimes more durable, satisfactions when the brighter,
-more glittering achievements are denied us?"
+more glittering achievements are denied us?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 112",
 reading = "After I found A.A. and stopped drinking, it took a while
 before I understood why the First Step contained two parts:
@@ -4587,7 +4587,7 @@ living."}
 day = "27",
 title = "PROBLEM SOLVING",
 'Quite as important was the discovery that spiritual
-principles would solve all my problems.'"
+principles would solve all my problems.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 42",
 reading = "Through the recovery process described in the Big Book, I
 have come to realize that the same instructions that work on
@@ -4609,7 +4609,7 @@ In A.A. we aim not only for sobriety—we try again to
 become citizens of the world that we rejected, and of the
 world that once rejected us. This is the ultimate
 demonstration toward which Twelfth Step work is the first
-but not the final step."
+but not the final step.",
 citation = "AS BILL SEES IT, p. 21",
 reading = "The old line says, 'Suit up and show up.' That action is so
 important that I like to think of it as my motto. I can choose
@@ -4622,7 +4622,7 @@ showing up are the concrete actions I take in my ongoing
 return to normal living."}
 ,
 { month = "DECEMBER",
-day = "29"
+day = "29",
 title = "THE JOY OF LIVING",
 quote = ". . . therefore the joy of good living is the theme of A.A.'s
 Twelfth Step.",
@@ -4634,14 +4634,14 @@ want. I would not resist if those actions did not touch some
 vulnerable area of my life, an area that needs hope and
 fulfillment. Repeated exposure to joyfulness has a way of
 softening the hard, outer edges of my ego. Therein lies the
-power of joyfulness to help all members of A.A."
+power of joyfulness to help all members of A.A.",
 }
 ,
 { month = "DECEMBER",
 day = "30",
 title = "ANONYMITY",
 quote = "Anonymity is the spiritual foundation of all our Traditions,
-ever reminding us to place principles before personalities."
+ever reminding us to place principles before personalities.",
 citation = "ALCOHOLICS ANONYMOUS, p. 564",
 reading = "Tradition Twelve became important early in my sobriety
 and, along with the Twelve Steps, it continues to be a must
