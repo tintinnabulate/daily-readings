@@ -195,7 +195,7 @@ couldn't do for myself."}
 { month = "MAY",
 day = "11",
 title = "A NEW SENSE OF BELONGING",
-Until we had talked with complete candor of our conflicts,
+quote = "ntil we had talked with complete candor of our conflicts,
 and had listened to someone else do the same thing, we still
 didn't belong.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 57",
@@ -210,7 +210,7 @@ Five."}
 { month = "MAY",
 day = "12",
 title = "THE PAST IS OVER",
-A.A. experience has taught us we cannot live alone with
+quote = ".A. experience has taught us we cannot live alone with
 our pressing problems and the character defects which
 cause or aggravate them. If. . . Step Four . . . has revealed
 in stark relief those experiences we'd rather not remember .
@@ -308,7 +308,7 @@ myself and others."}
 { month = "MAY",
 day = "18",
 title = "FREEDOM TO BE ME",
-If we are painstaking about this phase of our development,
+quote = "f we are painstaking about this phase of our development,
 we will be amazed before we are half way through. We are
 going to know a new freedom and a new happiness",
 citation = "ALCOHOLICS ANONYMOUS, p. 83",
@@ -323,7 +323,7 @@ me. I have the freedom to be the best me I have ever been."}
 { month = "MAY",
 day = "19",
 title = "GIVING WITHOUT STRINGS",
-And he well knows that his own life has been made richer,
+quote = "nd he well knows that his own life has been made richer,
 as an extra dividend of giving to another without any
 demand for a return.",
 citation = "AS BILL SEES IT, p. 69",
@@ -358,7 +358,7 @@ Achievement feels good and that makes me want more! }
 { month = "MAY",
 day = "21",
 title = "A LIST OF BLESSINGS",
-One exercise that I practice is to try for a full inventory of
+quote = "ne exercise that I practice is to try for a full inventory of
 my blessings. . . .",
 citation = "AS BILL SEES IT, p. 37",
 reading = "What did I have to be grateful for? I shut myself up and
@@ -376,7 +376,7 @@ conclude that God is picking on me."}
 { month = "MAY",
 day = "22",
 title = "STEP ONE",
-WE . . . (The first word of the First Step)",
+quote = "E . . . (The first word of the First Step)",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 21",
 reading = "When I was drinking all I could ever think about was 'I, I,
 I,' or 'Me, Me, Me.' Such painful obsession of self, such
@@ -394,7 +394,7 @@ become a channel for God's healing love."}
 { month = "MAY",
 day = "23",
 title = "SPIRITUAL HEALTH",
-When the spiritual malady is overcome, we straighten out
+quote = "hen the spiritual malady is overcome, we straighten out
 mentally and physically.",
 citation = "ALCOHOLICS ANONYMOUS, p. 64",
 reading = "It is very difficult for me to come to terms with my
@@ -435,7 +435,7 @@ nil.' }
 { month = "MAY",
 day = "25",
 title = "PROGRESSIVE GRATITUDE",
-Gratitude should go forward, rather than backward.",
+quote = "ratitude should go forward, rather than backward.",
 citation = "AS BILL SEES IT, p. 29",
 reading = "I am very grateful that my Higher Power has given me a
 second chance to live a worthwhile life. Through
@@ -456,7 +456,7 @@ carry the message today! }
 { month = "MAY",
 day = "26",
 title = "TURNING NEGATIVE TO POSITIVE",
-Our spiritual and emotional growth in A.A. does not depend
+quote = "ur spiritual and emotional growth in A.A. does not depend
 so deeply upon success as it does upon our failures and
 setbacks. If you will bear this in mind, I think that your slip
 will have the effect of kicking you upstairs, instead of down.",
@@ -475,7 +475,7 @@ when I become ego driven."}
 { month = "MAY",
 day = "27",
 title = "NO MAUDLIN GUILT",
-Day by day, we try to move a little toward God's perfection.
+quote = "ay by day, we try to move a little toward God's perfection.
 So we need not be consumed by maudlin guilt. . . .",
 citation = "AS BILL SEES IT, p. 15",
 reading = "When I first discovered that there is not a single 'don't' in
@@ -492,7 +492,7 @@ making today."}
 { month = "MAY",
 day = "28",
 title = "EQUAL RIGHTS",
-At one time or another most A.A. groups go on rulemaking
+quote = "t one time or another most A.A. groups go on rulemaking
 benders. . . . After a time fear and intolerance subside, [and
 we realize] We do not wish to deny anyone his chance to
 recover from alcoholism. We wish to be just as inclusive as
@@ -517,7 +517,7 @@ clear how my self-righteousness caused me spiritual harm}
 { month = "MAY",
 day = "29",
 title = "TRUE TOLERANCE",
-The only requirement for A.A. membership is a desire to
+quote = "he only requirement for A.A. membership is a desire to
 stop drinking.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 139",
 reading = "I first heard the short form of the Third Tradition in the
@@ -550,7 +550,7 @@ grateful to a loving God who made A.A. possible."}
 { month = "MAY",
 day = "31",
 title = "READINESS TO SERVE OTHERS",
-. . . our Society has concluded that it has but one high
+quote = " . . our Society has concluded that it has but one high
 mission—to carry the A.A. message to those who don't
 know there's a way out",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
@@ -787,7 +787,7 @@ can be very relaxing."}
 { month = "JUNE",
 day = "11",
 title = "FAMILY OBLIGATIONS",
-. . . a spiritual life which does not include . . . family
+quote = " . . a spiritual life which does not include . . . family
 obligations may not be so perfect after all.",
 citation = "ALCOHOLICS ANONYMOUS, p. 129",
 reading = "I can be doing great in the program—applying it at
@@ -808,7 +808,7 @@ reading = "}
 { month = "JUNE",
 day = "12",
 title = "FORMING TRUE PARTNERSHIPS",
-But it is from our twisted relations with family, friends, and
+quote = "ut it is from our twisted relations with family, friends, and
 society at large that many of us have suffered the most. We
 have been especially stupid and stubborn about them. The
 primary fact that we fail to recognize is our total inability
@@ -823,7 +823,7 @@ may be a trusted friend and companion."}
 { month = "JUNE",
 day = "13",
 title = "LIVING OUR AMENDS",
-'Years of living with an alcoholic is almost sure to make
+quote = "Years of living with an alcoholic is almost sure to make
 any wife or child neurotic. The entire family is, to some
 extent, ill.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 122",
@@ -914,7 +914,7 @@ process, I met my God, as I understand Him."}
 { month = "JUNE",
 day = "18",
 title = "A FELLOWSHIP OF FREEDOM",
-. . . if only men were granted absolute liberty, and were
+quote = " . . if only men were granted absolute liberty, and were
 compelled to obey no one, they would then voluntarily
 associate themselves in the common interest",
 citation = "AS BILL SEES IT, p. 50",
@@ -1006,7 +1006,7 @@ free. I do not have to fight anybody or anything anymore."}
 { month = "JUNE",
 day = "23",
 title = "TRUSTING OTHERS",
-But does trust require that we be blind to other people's
+quote = "ut does trust require that we be blind to other people's
 motives or, indeed, to our own? Not at all; this would be
 folly. Most certainly, we should assess the capacity for
 harm as well as the capability for good in every person that
@@ -1028,7 +1028,7 @@ harmful."}
 { month = "JUNE",
 day = "24",
 title = "A SPIRITUAL KINDERGARTEN",
-We are only operating a spiritual kindergarten in which
+quote = "e are only operating a spiritual kindergarten in which
 people are enabled to get over drinking and find the grace
 to go on living to better effect",
 citation = "AS BILL SEES IT, p. 95",
@@ -1067,7 +1067,7 @@ responsibility."}
 { month = "JUNE",
 day = "26",
 title = "A GIFT THAT GROWS WITH TIME",
-For most normal folks, drinking means conviviality,
+quote = "or most normal folks, drinking means conviviality,
 companionship and colorful imagination. It means release
 from care, boredom and worry. It is joyous intimacy with
 friends and a feeling that life is good",
@@ -1101,7 +1101,7 @@ member of Alcoholics Anonymous."}
 { month = "JUNE",
 day = "28",
 title = "THE DETERMINATION OF OUR FOUNDERS",
-A year and six }
+quote = " year and six }
 ,
 { months later these three had succeeded with
 seven more.",
@@ -1119,7 +1119,7 @@ way of life."}
 { month = "JUNE",
 day = "29",
 title = "A RIPPLING EFFECT",
-Having learned to live so happily, we'd show everyone else
+quote = "aving learned to live so happily, we'd show everyone else
 how. . . . Yes, we of A.A. did dream those dreams. How
 natural that was, since most alcoholics are bankrupt
 idealists. . . . So why shouldn't we share our way of life
@@ -1340,7 +1340,7 @@ power greater than myself."}
 { month = "JULY",
 day = "11",
 title = "A TURNING POINT",
-A great turning point in our lives came when we sought for
+quote = " great turning point in our lives came when we sought for
 humility as something we really wanted, rather than as
 something we must have.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
@@ -1360,7 +1360,7 @@ myself and God. It is then that humility is something I
 { month = "JULY",
 day = "12",
 title = "GIVING UP CENTER STAGE",
-For without some degree of humility, no alcoholic can stay
+quote = "or without some degree of humility, no alcoholic can stay
 sober at all . . . Without it, they cannot live to much useful
 purpose, or, in adversity, be able to summon the faith that
 can meet any emergency.",
@@ -1385,7 +1385,7 @@ to play God myself."}
 { month = "JULY",
 day = "13",
 title = "HUMILITY IS A GIFT",
-As long as we placed self-reliance first, a genuine reliance
+quote = "s long as we placed self-reliance first, a genuine reliance
 upon a Higher Power was out of the question. That basic
 ingredient of all humility, a desire to seek and do God's
 will, was missing.",
@@ -1405,7 +1405,7 @@ it has found me."}
 { month = "JULY",
 day = "14",
 title = "A NOURISHING INGREDIENT",
-Where humility had formerly stood for a forced feeding on
+quote = "here humility had formerly stood for a forced feeding on
 humble pie, it now begins to mean the nourishing
 ingredient which can give us serenity.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 74",
@@ -1426,7 +1426,7 @@ me to accept my humanness joyously."}
 { month = "JULY",
 day = "15",
 title = "PRIDE",
-For thousands of years we have been demanding more than
+quote = "or thousands of years we have been demanding more than
 our share of security, prestige, and romance. When we
 seemed to be succeeding, we drank to dream still greater
 dreams. When we were frustrated, even in part, we drank
@@ -1493,7 +1493,7 @@ sharing with newcomers helped me to ask humbly for help."}
 { month = "JULY",
 day = "18",
 title = "GRATEFUL FOR WHAT I HAVE",
-During this process of learning more about humility, the
+quote = "uring this process of learning more about humility, the
 most profound result of all was the change in our attitude
 toward God.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
@@ -1510,7 +1510,7 @@ me."}
 { month = "JULY",
 day = "19",
 title = "FALSE PRIDE",
-Many of us who had thought ourselves religious awoke to
+quote = "any of us who had thought ourselves religious awoke to
 the limitations of this attitude. Refusing to place God first,
 we had deprived ourselves of His help.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 75",
@@ -1547,7 +1547,7 @@ works.' }
 { month = "JULY",
 day = "21",
 title = "A PRICELESS GIFT",
-By this time in all probability we have gained some
+quote = "y this time in all probability we have gained some
 measure of release from our more devastating handicaps.
 We enjoy moments in which there is something like real
 peace of mind. To those of us who have hitherto known only
@@ -1580,7 +1580,7 @@ good."}
 { month = "JULY",
 day = "23",
 title = "I ASK GOD TO DECIDE",
-'I pray that you now remove from me every single defect of
+quote = "I pray that you now remove from me every single defect of
 character which stands in the way of my usefulness to you
 and my fellows '",
 citation = "ALCOHOLICS ANONYMOUS, p. 76",
@@ -1595,7 +1595,7 @@ and to others, and then I humbly ask Him to remove them."}
 { month = "JULY",
 day = "24",
 title = "HELPING OTHERS",
-Our very lives, as ex-problem drinkers, depend upon our
+quote = "ur very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
 needs.",
 citation = "ALCOHOLICS ANONYMOUS, p. 20",
@@ -1613,7 +1613,7 @@ longer do I need to drink."}
 { month = "JULY",
 day = "25",
 title = "THOSE WHO STILL SUFFER",
-For us, if we neglect those who are still sick, there is
+quote = "or us, if we neglect those who are still sick, there is
 unremitting danger to our own lives and sanity.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 151",
 reading = "I know the torment of drinking compulsively to quiet my
@@ -1652,7 +1652,7 @@ peace worth? }
 { month = "JULY",
 day = "27",
 title = "GIVING FREELY",
-We will make every personal sacrifice necessary to
+quote = "e will make every personal sacrifice necessary to
 insure the unity of Alcoholics Anonymous. We will
 do this because we have learned to love God and one
 another.
@@ -1674,7 +1674,7 @@ expressing Himself through me."}
 { month = "JULY",
 day = "28",
 title = "THOSE WHO STILL SUFFER",
-Let us resist the proud assumption that since God has
+quote = "et us resist the proud assumption that since God has
 enabled us to do well in one area we are destined to be a
 channel of saving grace for everybody.
 A.A.
@@ -1693,7 +1693,7 @@ depend on my determination to put first things first."}
 { month = "JULY",
 day = "29",
 title = "ANONYMOUS GIFTS OF KINDNESS",
-As active alcoholics we were always looking for a handout
+quote = "s active alcoholics we were always looking for a handout
 in one way or another.
 'THE TWELVE TRADITIONS ILLUSTRATED,' p. 14
 The challenge of the Seventh Tradition is a personal
@@ -1726,7 +1726,7 @@ here for my grandchildren."}
 { month = "JULY",
 day = "31",
 title = "A PRAYER FOR ALL SEASONS",
-God grant us the serenity to accept the things we cannot
+quote = "od grant us the serenity to accept the things we cannot
 change, Courage to change the things we can. And wisdom
 to know the difference.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 125",
@@ -1952,7 +1952,7 @@ character and to set me free."}
 { month = "AUGUST",
 day = "12",
 title = "A LOOK BACKWARD",
-First, we take a look backward and try to discover where
+quote = "irst, we take a look backward and try to discover where
 we have been at fault; next we make a vigorous attempt to
 repair the damage we have done; . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 77",
@@ -1975,7 +1975,7 @@ Only then could my journey of the spirit resume."}
 { month = "AUGUST",
 day = "13",
 title = "A CLEAN SWEEP",
-. . . and third, having thus cleaned away the debris of the
+quote = " . . and third, having thus cleaned away the debris of the
 past, we consider how, with our newfound knowledge of
 ourselves, we may develop the best possible relations with
 every human being we know.",
@@ -1997,7 +1997,7 @@ growth."}
 { month = "AUGUST",
 day = "14",
 title = "REPAIRING THE DAMAGE",
-We attempt to sweep away the debris which has accumulated
+quote = "e attempt to sweep away the debris which has accumulated
 out of our effort to live on self-will and run the
 show ourselves. If we haven't the will to do this, we ask
 until it comes. Remember it was agreed at the beginning
@@ -2062,7 +2062,7 @@ relationships."}
 { month = "AUGUST",
 day = "17",
 title = "RIGHTING THE HARM",
-In many instances we shall find that though the harm done
+quote = "n many instances we shall find that though the harm done
 others has not been great, the emotional harm we have
 done ourselves has.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 79",
@@ -2080,7 +2080,7 @@ of my recovery is accomplished."}
 { month = "AUGUST",
 day = "18",
 title = "GETTING WELL",
-Very deep, sometimes quite forgotten, damaging emotional
+quote = "ery deep, sometimes quite forgotten, damaging emotional
 conflicts persist below the level of consciousness.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 79-80",
 reading = "Only through positive action can I remove the remains of
@@ -2097,7 +2097,7 @@ myself of burdens, thus contributing to my healing."}
 { month = "AUGUST",
 day = "19",
 title = "A FRAME OF REFERENCE",
-Referring to our list [inventory] again. Putting out of our
+quote = "eferring to our list [inventory] again. Putting out of our
 minds the wrongs others had done, we resolutely looked for
 our own mistakes. Where had we been selfish, dishonest,
 self-seeking and frightened?",
@@ -2136,7 +2136,7 @@ Step list."}
 { month = "AUGUST",
 day = "21",
 title = "WE JUST TRY",
-My stability came out of trying to give, not out of
+quote = "y stability came out of trying to give, not out of
 demanding that I receive.",
 citation = "THE BEST OF BILL, pp. 46-47",
 reading = "As long as I try, with all my heart and soul, to pass along to
@@ -2154,7 +2154,7 @@ Higher Power, whom I choose to call God."}
 { month = "AUGUST",
 day = "22",
 title = "SEEKING EMOTIONAL STABILITY",
-When we developed still more, we discovered the best
+quote = "hen we developed still more, we discovered the best
 possible source of emotional stability to be God Himself. We
 found that dependence upon His perfect justice, forgiveness,
 and love was healthy, and that it would work where nothing
@@ -2180,7 +2180,7 @@ emotional stability."}
 { month = "AUGUST",
 day = "23",
 title = "BRINGING THE MESSAGE HOME",
-Can we bring the same spirit of love and tolerance into our
+quote = "an we bring the same spirit of love and tolerance into our
 sometimes deranged family lives that we bring to our A.A.
 group?",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, pp. 111-12",
@@ -2194,7 +2194,7 @@ practices for all areas of my life."}
 { month = "AUGUST",
 day = "24",
 title = "A RIDDLE THAT WORKS",
-It may be possible to find explanations of spiritual
+quote = "t may be possible to find explanations of spiritual
 experiences such as ours, but I have often tried to explain
 my own and have succeeded only in giving the story of it. I
 know the feeling it gave me and the results it has brought,
@@ -2218,7 +2218,7 @@ Steps and help others."}
 { month = "AUGUST",
 day = "25",
 title = "THE GIFT OF BONDING",
-Relieve me of the bondage of self, that I may better do Thy
+quote = "elieve me of the bondage of self, that I may better do Thy
 will",
 citation = "ALCOHOLICS ANONYMOUS, p. 63",
 reading = "Many times in my alcoholic state, I drank to establish a
@@ -2232,7 +2232,7 @@ gift from God, I am forever grateful."}
 { month = "AUGUST",
 day = "26",
 title = "GIVING IT AWAY",
-Though they knew they must help other alcoholics if they
+quote = "hough they knew they must help other alcoholics if they
 would remain sober, that motive became secondary. It was
 transcended by the happiness they found in giving
 themselves to others.",
@@ -2249,7 +2249,7 @@ me, I am granted a daily reprieve."}
 { month = "AUGUST",
 day = "27",
 title = "CENTERING OUR THOUGHTS",
-When World War II broke out, our A. A. dependence on a
+quote = "hen World War II broke out, our A. A. dependence on a
 Higher Power had its first major test. A.A.'s entered the
 services and were scattered all over the world. Would they
 be able to take the discipline, stand up under fire, and
@@ -2269,7 +2269,7 @@ freely by this power greater than myself."}
 { month = "AUGUST",
 day = "28",
 title = "LIGHTENING THE BURDEN",
-Showing others who suffer how we were given help is the
+quote = "howing others who suffer how we were given help is the
 very thing which makes life seem so worth while to us now.
 . . . the dark past is . . . the key to life and happiness for
 others.",
@@ -2284,7 +2284,7 @@ was told, both of us got up with lighter hearts."}
 { month = "AUGUST",
 day = "29",
 title = "I CHOOSE ANONYMITY",
-We are sure that humility, expressed by anonymity, is the
+quote = "e are sure that humility, expressed by anonymity, is the
 greatest safeguard that Alcoholics Anonymous can ever
 have.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 187",
@@ -2321,7 +2321,7 @@ sobriety, and to, please, keep me grateful! }
 { month = "AUGUST",
 day = "31",
 title = "A UNIQUE PROGRAM",
-Alcoholics Anonymous will never have a professional class.
+quote = "lcoholics Anonymous will never have a professional class.
 We have gained some understanding of the ancient words
 'Freely ye have received, freely give.' We have discovered
 that at the point of professionalism, money and spirituality
@@ -2524,7 +2524,7 @@ happiness, friendship and harmony."}
 { month = "SEPTEMBER",
 day = "11",
 title = "MAKING AMENDS",
-Above all, we should try to be absolutely sure that we are
+quote = "bove all, we should try to be absolutely sure that we are
 not delaying because we are afraid.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
 reading = "To have courage, to be unafraid, are gifts of my recovery.
@@ -2540,7 +2540,7 @@ that, for today, I am responsible."}
 { month = "SEPTEMBER",
 day = "12",
 title = "I AM RESPONSIBLE",
-For the readiness to take the full consequences of our past
+quote = "or the readiness to take the full consequences of our past
 acts, and to take responsibility for the well-being of others
 at the same time, is the very spirit of Step Nine.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 87",
@@ -2557,7 +2557,7 @@ and sincerity, then I am free."}
 { month = "SEPTEMBER",
 day = "13",
 title = "REPAIRING THE DAMAGE",
-Good judgment, a careful sense of timing courage and
+quote = "ood judgment, a careful sense of timing courage and
 prudence—these are the qualities we shall need when we
 take Step Nine.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 83",
@@ -2576,7 +2576,7 @@ making honest amends."}
 { month = "SEPTEMBER",
 day = "14",
 title = "PEACE OF MIND",
-Do we lay the matter before our sponsor or spiritual
+quote = "o we lay the matter before our sponsor or spiritual
 adviser, earnestly asking God's help and guidance—
 meanwhile resolving to do the right thing when it becomes
 clear, cost what it may?",
@@ -2593,7 +2593,7 @@ mind, serenity, and a stronger faith are sure to follow."}
 { month = "SEPTEMBER",
 day = "15",
 title = "A NEW LIFE",
-Yes, there is a substitute and it is vastly more than that. It is
+quote = "es, there is a substitute and it is vastly more than that. It is
 a fellowship in Alcoholics Anonymous. . . . Life will mean
 something at last",
 citation = "ALCOHOLICS ANONYMOUS, p. 152",
@@ -2635,7 +2635,7 @@ Traditions, the Fellowship, and my life."}
 { month = "SEPTEMBER",
 day = "17",
 title = "FREEDOM FROM FEAR",
-When, with God's help, we calmly accepted our lot, then we
+quote = "hen, with God's help, we calmly accepted our lot, then we
 found we could live at peace with ourselves and show
 others who still suffered the same fears that they could get
 over them, too. We found that freedom from fear was more
@@ -2655,7 +2655,7 @@ with other alcoholics."}
 { month = "SEPTEMBER",
 day = "18",
 title = "LOVED BACK TO RECOVERY",
-Our whole treasured philosophy of self-sufficiency had to
+quote = "ur whole treasured philosophy of self-sufficiency had to
 be cast aside. This had not been done with old-fashioned
 willpower; it was instead a matter of developing the
 willingness to accept these new facts of living. We neither
@@ -2672,7 +2672,7 @@ in me. I am sober . . . and I am grateful."}
 { month = "SEPTEMBER",
 day = "19",
 title = "ACCEPTANCE",
-We admitted we couldn't lick alcohol with our own
+quote = "e admitted we couldn't lick alcohol with our own
 remaining resources, and so we accepted the further fact
 that dependence upon a Higher Power (if only our A.A
 group) could do this hitherto impossible job. The moment
@@ -2709,7 +2709,7 @@ to happen, and I found the beginning of sobriety."}
 { month = "SEPTEMBER",
 day = "21",
 title = "THE LAST PROMISE",
-We will suddenly realize that God is doing for us what we
+quote = "e will suddenly realize that God is doing for us what we
 could not do for ourselves.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "The last Promise in the Big Book came true for me on the
@@ -2762,7 +2762,7 @@ just as much as anybody's."}
 { month = "SEPTEMBER",
 day = "24",
 title = "VIGILANCE",
-We have seen the truth demonstrated again and again:
+quote = "e have seen the truth demonstrated again and again:
 'Once an alcoholic, always an alcoholic' Commencing to
 drink after a period of sobriety, we are in a short time as
 bad as ever. If we are planning to stop drinking, there must
@@ -2780,7 +2780,7 @@ no cure, only daily acceptance and vigilance."}
 { month = "SEPTEMBER",
 day = "25",
 title = "FIRST THINGS FIRST",
-Some of us have taken very hard knocks to learn this truth:
+quote = "ome of us have taken very hard knocks to learn this truth:
 Job or no job—wife or no wife—we simply do not stop
 drinking so long as we place dependence upon other
 people ahead of dependence on God.",
@@ -2796,7 +2796,7 @@ God, and A.A. today? }
 { month = "SEPTEMBER",
 day = "26",
 title = "OUR CHILDREN",
-The alcoholic may find it hard to re-establish friendly
+quote = "he alcoholic may find it hard to re-establish friendly
 relations with his children. . . . In time they will see that he
 is a new man and in their own way they will let him know
 it. . . . From that point on, progress will be rapid.
@@ -2816,7 +2816,7 @@ were tears of joy, not desperation."}
 { month = "SEPTEMBER",
 day = "27",
 title = "WITHOUT RESERVATION",
-When brimming with gratitude, one's heartbeat must surely
+quote = "hen brimming with gratitude, one's heartbeat must surely
 result in outgoing love, . . .",
 citation = "AS BILL SEES IT, p. 37",
 reading = "While practicing service to others, if my successes give rise
@@ -2829,7 +2829,7 @@ I receive much more in spirit."}
 { month = "SEPTEMBER",
 day = "28",
 title = "LOVE WITHOUT STRINGS",
-Practical experience shows that nothing will so much
+quote = "ractical experience shows that nothing will so much
 insure immunity from drinking as intensive work with other
 alcoholics.",
 citation = "ALCOHOLICS ANONYMOUS, p. 89",
@@ -2849,7 +2849,7 @@ Gratitude for that gift has kept me sober many times."}
 { month = "SEPTEMBER",
 day = "29",
 title = "EXACTLY ALIKE",
-Frequent contact with newcomers and with each other is
+quote = "requent contact with newcomers and with each other is
 the bright spot of our lives.",
 citation = "ALCOHOLICS ANONYMOUS, p. 89",
 reading = "A man came to the meeting drunk, interrupted the speakers,
@@ -3104,7 +3104,7 @@ God for the chance to make progress that day."}
 { month = "OCTOBER",
 day = "12",
 title = "CURBING RASHNESS",
-When we speak or act hastily or rashly, the ability to be
+quote = "hen we speak or act hastily or rashly, the ability to be
 fair-minded and tolerant evaporates on the spot.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 91",
 reading = "Being fair-minded and tolerant is a goal toward which I
@@ -3120,7 +3120,7 @@ and positive action for me."}
 { month = "OCTOBER",
 day = "13",
 title = "UNREMITTING INVENTORIES",
-Continue to watch for selfishness, dishonesty, resentment,
+quote = "ontinue to watch for selfishness, dishonesty, resentment,
 and fear. When these crop up, we ask God at once to
 remove them. We discuss them with someone immediately
 and make amends quickly if we have harmed anyone. Then
@@ -3141,7 +3141,7 @@ become more understanding and helpful to others."}
 { month = "OCTOBER",
 day = "14",
 title = "A PROGRAM FOR LIVING",
-When we retire at night, we constructively review our day. .
+quote = "hen we retire at night, we constructively review our day. .
 . . On awakening let us think about the twenty-four hours
 ahead. . . . Before we begin, we ask God to direct our
 thinking, especially asking that it be divorced from selfpity,
@@ -3184,7 +3184,7 @@ others to the Final Judge—Divine Providence."}
 { month = "OCTOBER",
 day = "16",
 title = "THROUGHOUT EACH DAY",
-This is not an overnight matter. It should continue for our
+quote = "his is not an overnight matter. It should continue for our
 lifetime.",
 citation = "ALCOHOLICS ANONYMOUS, p. 84",
 reading = "During my early years in A. A. I saw Step Ten as a
@@ -3217,7 +3217,7 @@ granted."}
 { month = "OCTOBER",
 day = "18",
 title = "AN OPEN MIND",
-True humility and an open mind can lead us to faith, . . .",
+quote = "rue humility and an open mind can lead us to faith, . . .",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 33",
 reading = "My alcoholic thinking led me to believe that I could control
 my drinking, but I couldn't. When I came to A.A., I realized
@@ -3270,7 +3270,7 @@ calming concept of God."}
 { month = "OCTOBER",
 day = "21",
 title = "NOTHING GROWS IN THE DARK",
-We will want the good that is in us all, even in the worst of
+quote = "e will want the good that is in us all, even in the worst of
 us, to flower and to grow.",
 citation = "AS BILL SEES IT, p. 10",
 reading = "With the self-discipline and insight gained from practicing
@@ -3287,7 +3287,7 @@ sobriety and serenity."}
 { month = "OCTOBER",
 day = "22",
 title = "TRUE TOLERANCE",
-Finally, we begin to see that all people, including
+quote = "inally, we begin to see that all people, including
 ourselves, are to some extent emotionally ill as well as
 frequently wrong and then we approach true tolerance and
 see what real love for our fellows actually means",
@@ -3303,7 +3303,7 @@ That is what love really is."}
 { month = "OCTOBER",
 day = "23",
 title = "WHAT WE KNOW BEST",
-'Shoemaker, stick to thy last!' . . . better do one thing
+quote = "Shoemaker, stick to thy last!' . . . better do one thing
 supremely well than many badly. That is the central theme
 of this Tradition [Five]. Around it our Society gathers in
 unity. The very life of our Fellowship requires the
@@ -3354,7 +3354,7 @@ oneness and yet the whole Fellowship is for all of us."}
 { month = "OCTOBER",
 day = "26",
 title = "ONE ULTIMATE AUTHORITY",
-For our group purpose there is but one ultimate authority—
+quote = "or our group purpose there is but one ultimate authority—
 a loving God as He may express Himself in our group
 conscience.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 132",
@@ -3371,7 +3371,7 @@ ultimate authority of 'running the show.' }
 { month = "OCTOBER",
 day = "27",
 title = "GLOBAL SHARING",
-The only thing that matters is that he is an alcoholic who
+quote = "he only thing that matters is that he is an alcoholic who
 has found a key to sobriety. These legacies of suffering and
 of recovery are easily passed among alcoholics, one to the
 other. This is our gift from God, and its bestowal upon
@@ -3390,7 +3390,7 @@ Anonymous."}
 { month = "OCTOBER",
 day = "28",
 title = "AN UNBROKEN TRADITION",
-We conceive the survival and spread of Alcoholics
+quote = "e conceive the survival and spread of Alcoholics
 Anonymous to be something of far greater importance than
 the weight we could collectively throw back of any other
 cause.",
@@ -3414,7 +3414,7 @@ faith in sobriety in millions of hearts, including mine."}
 { month = "OCTOBER",
 day = "29",
 title = "OUR SURVIVAL",
-Since recovery from alcoholism is life itself to us, it is
+quote = "ince recovery from alcoholism is life itself to us, it is
 imperative that we preserve in full strength our means of
 survival.",
 citation = "TWELVE STEPS AND TWELVE TRADITIONS, p. 177",
@@ -3455,7 +3455,7 @@ controversial? }
 { month = "OCTOBER",
 day = "31",
 title = "AVOIDING CONTROVERSY",
-All history affords us the spectacle of striving nations and
+quote = "ll history affords us the spectacle of striving nations and
 groups finally torn asunder because they were designed for,
 or tempted into, controversy. Others fell apart because of
 sheer self-righteousness while trying to enforce upon the
@@ -3690,7 +3690,7 @@ caring for myself."}
 { month = "NOVEMBER",
 day = "12",
 title = "MORNING THOUGHTS",
-Ask Him in your morning meditation what you can do each
+quote = "sk Him in your morning meditation what you can do each
 day for the man who is still sick",
 citation = "ALCOHOLICS ANONYMOUS, p. 164",
 reading = "For many years I pondered over God's will for me,
@@ -3706,7 +3706,7 @@ me in keeping my life in the context of the day at hand."}
 { month = "NOVEMBER",
 day = "13",
 title = "LOOKING OUTWARD",
-We ask especially for freedom from self-will, and are
+quote = "e ask especially for freedom from self-will, and are
 careful to make no requests for ourselves only. We may ask
 for ourselves, however, if others will be helped We are
 careful never to pray for our own selfish ends.",
@@ -3723,7 +3723,7 @@ earthly attachments."}
 { month = "NOVEMBER",
 day = "14",
 title = "INTUITION AND INSPIRATION",
-. . we ask God for inspiration, an intuitive thought >r a
+quote = " . we ask God for inspiration, an intuitive thought >r a
 decision. We relax and take it easy. We don't struggle.",
 citation = "ALCOHOLICS ANONYMOUS, p. 86",
 reading = "[ invest my time in what I truly love. Step Eleven is a
@@ -3741,7 +3741,7 @@ compatible, a direct result of working Step Eleven."}
 { month = "NOVEMBER",
 day = "15",
 title = "VITAL SUSTENANCE",
-Those of us who have come to make regular use of prayer
+quote = "hose of us who have come to make regular use of prayer
 would no more do without it than we would refuse air, food,
 or sunshine. And for the same reason. When we refuse air,
 light, or food, the body suffers. And when we turn away
@@ -3762,7 +3762,7 @@ become."}
 { month = "NOVEMBER",
 day = "16",
 title = "A DAILY REPRIEVE",
-What we really have is a daily reprieve contingent on the
+quote = "hat we really have is a daily reprieve contingent on the
 maintenance of our spiritual condition.",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
 reading = "Maintaining my spiritual condition is like working out
@@ -3784,7 +3784,7 @@ powerful illness."}
 { month = "NOVEMBER",
 day = "17",
 title = "OVERCOMING LONELINESS",
-Almost without exception, alcoholics are tortured by
+quote = "lmost without exception, alcoholics are tortured by
 loneliness Even before our drinking got bad and people
 began to cut us off, nearly all of us suffered the feeling that
 we didn't quite belong.",
@@ -3801,7 +3801,7 @@ through prayer and meditation."}
 { month = "NOVEMBER",
 day = "18",
 title = "A SAFETY NET",
-Occasionally. . . . We are seized with a rebellion so
+quote = "ccasionally. . . . We are seized with a rebellion so
 sickening that we simply won't pray. When these things
 happen we should not think too ill of ourselves. We should
 simply resume prayer as soon as we can, doing what we
@@ -3866,7 +3866,7 @@ expectations."}
 { month = "NOVEMBER",
 day = "21",
 title = "A CLASSIC PRAYER",
-Lord, make me a channel for thy peace—that where there
+quote = "ord, make me a channel for thy peace—that where there
 is hatred, I may bring love—that where there is wrong, I
 may bring the spirit of forgiveness—that where there is
 discord, I may bring harmony—that where there is error, I
@@ -3894,7 +3894,7 @@ will }
 { month = "NOVEMBER",
 day = "22",
 title = "ONLY TWO SINS",
-. . . there are only two sins; the first is to interfere with the
+quote = " . . there are only two sins; the first is to interfere with the
 growth of another human being, and the second is to
 interfere with one's own growth.",
 citation = "ALCOHOLICS ANONYMOUS, p. 542",
@@ -3935,7 +3935,7 @@ life."}
 { month = "NOVEMBER",
 day = "24",
 title = "A UNIVERSAL SEARCH",
-Be quick to see where religious people are right Make use
+quote = "e quick to see where religious people are right Make use
 of what they offer.",
 citation = "ALCOHOLICS ANONYMOUS, p. 87",
 reading = "I do not claim to have all the answers in spiritual matters,
@@ -3952,7 +3952,7 @@ staying away from the first drink."}
 { month = "NOVEMBER",
 day = "25",
 title = "A POWERFUL TRADITION",
-In the years before the publication of the book, 'Alcoholics
+quote = "n the years before the publication of the book, 'Alcoholics
 Anonymous,' we had no name. . . . By a narrow majority
 the verdict was for naming our book 'The Way Out' . . .
 One of our early lone members . . . found exactly twelve
@@ -3979,7 +3979,7 @@ God was acting anonymously on our behalf."}
 { month = "NOVEMBER",
 day = "26",
 title = "THE HAZARDS OF PUBLICITY",
-People who symbolize causes and ideas fill a deep human
+quote = "eople who symbolize causes and ideas fill a deep human
 need. We of A.A. do not question that. But we do have to
 soberly face the fact that being in the public eye is
 hazardous, especially for us.",
@@ -4001,7 +4001,7 @@ any I could make."}
 { month = "NOVEMBER",
 day = "27",
 title = "THE PERILS OF THE LIMELIGHT",
-In the beginning, the press could not understand our
+quote = "n the beginning, the press could not understand our
 refusal of all personal publicity. They were genuinely
 baffled by our insistence upon anonymity. Then they got the
 point. Here was something rare in the world —a society
@@ -4318,7 +4318,7 @@ ourselves.' }
 { month = "DECEMBER",
 day = "12",
 title = "A COMMON SOLUTION",
-The tremendous fact for every one of us is that we have
+quote = "he tremendous fact for every one of us is that we have
 discovered a common solution. We have a way out on
 which we can absolutely agree, and upon which we can
 join in brotherly and harmonious ac-ion. This is the great
@@ -4341,7 +4341,7 @@ automatically."}
 { month = "DECEMBER",
 day = "13",
 title = "THINKING OF OTHERS",
-Our very lives, as ex-problem drinkers, depend upon our
+quote = "ur very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
 needs.",
 citation = "ALCOHOLICS ANONYMOUS, p. 20",
@@ -4359,7 +4359,7 @@ I seek."}
 { month = "DECEMBER",
 day = "14",
 title = "REACHING OUT",
-Never talk down to an alcoholic from any moral or
+quote = "ever talk down to an alcoholic from any moral or
 spiritual hilltop; simply lay out the kit of spiritual looks for
 his inspection. Show him how they worked with you.",
 citation = "ALCOHOLICS ANONYMOUS, p. 95",
@@ -4381,7 +4381,7 @@ and to show her or him the way to happiness."}
 { month = "DECEMBER",
 day = "15",
 title = "DOING ANYTHING TO HELP",
-Offer him [the alcoholic] friendship and fellowship. Tell
+quote = "ffer him [the alcoholic] friendship and fellowship. Tell
 him that if he wants to get well you will do anything to
 help.",
 citation = "ALCOHOLICS ANONYMOUS, p. 95",
@@ -4546,7 +4546,7 @@ I move aside, and allow Him to step into it."}
 { month = "DECEMBER",
 day = "25",
 title = "AT PEACE WITH LIFE",
-Every day is a day when we must carry the vision of God's
+quote = "very day is a day when we must carry the vision of God's
 will into all of our activities 'How can I best serve Thee—
 Thy will (not mine) be done.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 85",
@@ -4560,7 +4560,7 @@ with God."}
 { month = "DECEMBER",
 day = "26",
 title = "ACCEPTING SUCCESS OR FAILURE",
-Furthermore, how shall we come to terms with seeming
+quote = "urthermore, how shall we come to terms with seeming
 failure or success? Can we now accept and adjust to either
 without despair or pride? Can we accept poverty, sickness,
 loneliness, and bereavement with courage and serenity?
@@ -4586,7 +4586,7 @@ living."}
 { month = "DECEMBER",
 day = "27",
 title = "PROBLEM SOLVING",
-'Quite as important was the discovery that spiritual
+quote = "Quite as important was the discovery that spiritual
 principles would solve all my problems.'",
 citation = "ALCOHOLICS ANONYMOUS, p. 42",
 reading = "Through the recovery process described in the Big Book, I
@@ -4605,7 +4605,7 @@ useful."}
 { month = "DECEMBER",
 day = "28",
 title = "SUIT UP AND SHOW UP",
-In A.A. we aim not only for sobriety—we try again to
+quote = "In A.A. we aim not only for sobriety—we try again to
 become citizens of the world that we rejected, and of the
 world that once rejected us. This is the ultimate
 demonstration toward which Twelfth Step work is the first
