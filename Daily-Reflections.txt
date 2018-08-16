@@ -1,7 +1,7 @@
 {
 "month": "JANUARY",
 "day": "1",
-'I AM A MIRACLE'
+"title": "'I AM A MIRACLE'",
 The central fact of our lives today is the absolute certainty
 that our Creator has entered into our hearts and lives in a
 way which is indeed miraculous. He has commenced to
@@ -21,7 +21,7 @@ alone. I now believe in miracles because I am one!
 {
 "month": "JANUARY",
 "day": "2",
-FIRST, THE FOUNDATION
+"title": "FIRST, THE FOUNDATION",
 Is sobriety all that we can expect of a spiritual awakening?
 No, sobriety is only a bare beginning.
 AS BILL SEES IT, p. 8
@@ -42,7 +42,7 @@ home I now have to live in.
 {
 "month": "JANUARY",
 "day": "3",
-POWERLESS
+"title": "POWERLESS",
 We admitted we were powerless over alcohol—that our
 lives had become unmanageable.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 21
@@ -65,7 +65,7 @@ ones, and the world in which I live.
 {
 "month": "JANUARY",
 "day": "4",
-BEGIN WHERE YOU ARE
+"title": "BEGIN WHERE YOU ARE",
 We feel that elimination of our drinking is but a beginning.
 A much more important demonstration of our principles
 lies before us in our respective homes, occupations and
@@ -89,7 +89,7 @@ Twelve Steps.
 {
 "month": "JANUARY",
 "day": "5",
-TOTAL ACCEPTANCE
+"title": "TOTAL ACCEPTANCE",
 He cannot picture life without alcohol Some day he will be
 unable to imagine life either with alcohol or without it.
 Then he will know loneliness such as few do. He will be at
@@ -112,7 +112,7 @@ a necessary one if I was to succeed in this program.
 {
 "month": "JANUARY",
 "day": "6",
-THE VICTORY OF SURRENDER
+"title": "THE VICTORY OF SURRENDER",
 We perceive that only through utter defeat are we able to
 take our first steps toward liberation and strength. Our
 admissions of personal powerlessness finally turn out to be
@@ -134,7 +134,7 @@ started on the path to sobriety, serenity and peace.
 {
 "month": "JANUARY",
 "day": "7",
-AT THE TURNING POINT
+"title": "AT THE TURNING POINT",
 Half measures availed us nothing. We stood at the turning
 point. We asked His protection and care with complete
 abandon.
@@ -162,7 +162,7 @@ willing—and able—to change.
 {
 "month": "JANUARY",
 "day": "8",
-DO I HAVE A CHOICE?
+"title": "DO I HAVE A CHOICE?",
 The fact is that most alcoholics, for reasons yet obscure,
 have lost the power of choice in drink. Our so-called will
 power becomes practically nonexistent.
@@ -181,7 +181,7 @@ A.A. or a Higher Power?
 {
 "month": "JANUARY",
 "day": "9",
-AN ACT OF PROVIDENCE
+"title": "AN ACT OF PROVIDENCE",
 It is truly awful to admit that, glass in hand, we have
 warped our minds into such an obsession for destructive
 drinking that only an act of Providence can remove it from
@@ -207,7 +207,7 @@ Fellowship of Alcoholics Anonymous.
 {
 "month": "JANUARY",
 "day": "10",
-UNITED WE STAND
+"title": "UNITED WE STAND",
 We learned that we had to fully concede to our innermost
 selves that we were alcoholics. This is the first step in
 recovery. The delusion that we are like other people, or
@@ -229,7 +229,7 @@ at sea. If we all work together, we can get safely to shore.
 {
 "month": "JANUARY",
 "day": "11",
-THE 100% STEP
+"title": "THE 100% STEP",
 Only Step One, where we made the 100 percent admission
 we were powerless over alcohol can be practiced with
 absolute perfection.
@@ -252,7 +252,7 @@ and I haven't had to take Step One again.
 {
 "month": "JANUARY",
 "day": "12",
-ACCEPTING OUR PRESENT
+"title": "ACCEPTING OUR PRESENT",
 CIRCUMSTANCES
 Our very first problem is to accept our present circumstances 
 as they are, ourselves as we are, and the people
@@ -278,7 +278,7 @@ perfect, and to regain my peace of mind.
 {
 "month": "JANUARY",
 "day": "13",
-IT DOESN'T HAPPEN OVERNIGHT
+"title": "IT DOESN'T HAPPEN OVERNIGHT",
 We are not cured of alcoholism. What we really have is a
 daily reprieve contingent on the maintenance of our
 spiritual condition.
@@ -302,7 +302,7 @@ to face.
 {
 "month": "JANUARY",
 "day": "14",
-NO REGRETS
+"title": "NO REGRETS",
 We will not regret the past nor wish to shut the door on it.
 ALCOHOLICS ANONYMOUS, p. 83
 
@@ -324,7 +324,7 @@ Fellowship.
 {
 "month": "JANUARY",
 "day": "15",
-AN UNSUSPECTED INNER RESOURCE
+"title": "AN UNSUSPECTED INNER RESOURCE",
 With few exceptions our members find that they have
 tapped an unsuspected inner resource which they presently
 identify with their own conception of a Power greater than
@@ -347,7 +347,7 @@ A.A.'s Twelve Steps.
 {
 "month": "JANUARY",
 "day": "16",
-HITTING BOTTOM
+"title": "HITTING BOTTOM",
 Why all this insistence that every A.A. must hit bottom first?
 The answer is that few people will sincerely try to practice
 the A.A. program unless they have hit bottom. For
@@ -376,7 +376,7 @@ Alcoholics Anonymous.
 {
 "month": "JANUARY",
 "day": "17",
-HAPPINESS COMES QUIETLY
+"title": "HAPPINESS COMES QUIETLY",
 'The trouble with us alcoholics was this: We demanded that
 the world give us happiness and peace of mind in just the
 particular order we wanted to get it—by the alcohol route.
@@ -399,7 +399,7 @@ gratitude and happiness.
 {
 "month": "JANUARY",
 "day": "18",
-WOULD A DRINK HELP?
+"title": "WOULD A DRINK HELP?",
 By going back in our own drinking histories, we could show
 that years before we realized it we were out of control, that
 our drinking even then was no mere habit, that it was
@@ -420,7 +420,7 @@ life. Such a feeling of control is fatal to my recovery.
 {
 "month": "JANUARY",
 "day": "19",
-ROUND-THE-CLOCK FAITH
+"title": "ROUND-THE-CLOCK FAITH",
 Faith has to work twenty-four hours a day in and through
 us, or we perish.
 ALCOHOLICS ANONYMOUS, p. 16
@@ -441,7 +441,7 @@ again fall into the depths of my disease—and death.
 {
 "month": "JANUARY",
 "day": "20",
-'WE PAUSE . . . AND ASK'
+"title": "'WE PAUSE . . . AND ASK'",
 As we go through the day we pause, when agitated or
 doubtful, and ask for the right thought or action.
 ALCOHOLICS ANONYMOUS, p. 87
@@ -466,7 +466,7 @@ right thought or action today.
 {
 "month": "JANUARY",
 "day": "21",
-SERVING MY BROTHER
+"title": "SERVING MY BROTHER",
 The member talks to the newcomer not in a spirit of power
 but in a spirit of humility and weakness.
 ALCOHOLICS ANONYMOUS COMES OF AGE p. 279
@@ -491,7 +491,7 @@ sensibility.
 {
 "month": "JANUARY",
 "day": "22",
-'LET'S KEEP IT SIMPLE'
+"title": "'LET'S KEEP IT SIMPLE'",
 A few hours later I took my leave of Dr. Bob. . . . The
 wonderful, old, broad smile was on his face as he said
 almost jokingly, 'Remember, Bill, let's not louse this thing
@@ -512,7 +512,7 @@ works.
 {
 "month": "JANUARY",
 "day": "23",
-HAVING FUN YET?
+"title": "HAVING FUN YET?",
 . . . we aren't a glum lot. If newcomers could see no joy or
 fun in our existence, they wouldn't want it. We absolutely
 insist on enjoying life. We try not to indulge in cynicism
@@ -539,7 +539,7 @@ amends, whatever is appropriate—are well worth the effort.
 {
 "month": "JANUARY",
 "day": "24",
-GETTING INVOLVED
+"title": "GETTING INVOLVED",
 There is action and more action. 'Faith without works is
 dead.' . . . To be helpful is our only aim.
 ALCOHOLICS ANONYMOUS, pp. 88-89
@@ -560,7 +560,7 @@ available to me than I realized before.
 {
 "month": "JANUARY",
 "day": "25",
-WHAT WE NEED—EACH OTHER
+"title": "WHAT WE NEED—EACH OTHER",
 . . . A.A. is really saying to every serious drinker, 'You are
 an A.A. member if you say so . . . nobody can keep you
 out.'
@@ -587,7 +587,7 @@ need—each other.
 {
 "month": "JANUARY",
 "day": "26",
-RIGOROUS HONESTY
+"title": "RIGOROUS HONESTY",
 Who wishes to be rigorously honest and tolerant? Who
 wants to confess his faults to another and make restitution
 for harm done? Who cares anything about a Higher Power,
@@ -611,7 +611,7 @@ sober?
 {
 "month": "JANUARY",
 "day": "27",
-FREEDOM FROM GUILT
+"title": "FREEDOM FROM GUILT",
 Where other people were concerned, we had to drop the
 word 'blame' from our speech and thought.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 47
@@ -634,7 +634,7 @@ build a better life, free of guilt and the need for selfjustification.
 {
 "month": "JANUARY",
 "day": "28",
-THE TREASURE OF THE PAST
+"title": "THE TREASURE OF THE PAST",
 Showing others who suffer how we were given help is the
 very thing which makes life seem so worth while to us now.
 Cling to the thought that, in God's hands, the dark past is
@@ -655,7 +655,7 @@ available to me.
 {
 "month": "JANUARY",
 "day": "29",
-THE JOY OF SHARING
+"title": "THE JOY OF SHARING",
 Life will take on new meaning. To watch people recover, to
 see them help others, to watch loneliness vanish, to see a
 fellowship grow up about you, to have a host of friends—
@@ -675,7 +675,7 @@ program fully.
 {
 "month": "JANUARY",
 "day": "30",
-FREEDOM FROM . . . FREEDOM TO
+"title": "FREEDOM FROM . . . FREEDOM TO",
 We are going to know a new freedom. . . .
 ALCOHOLICS ANONYMOUS, p. 83
 
@@ -698,7 +698,7 @@ in my life. What a joy to be free!
 {
 "month": "JANUARY",
 "day": "31",
-OUR COMMON WELFARE COMES FIRST
+"title": "OUR COMMON WELFARE COMES FIRST",
 The unity of Alcoholics Anonymous is the most cherished
 quality our Society has . . . We stay whole, or A. A. dies
 TWELVE STEPS AND TWELVE TRADITIONS, p. 129
@@ -724,7 +724,7 @@ parts.
 {
 "month": "FEBRUARY",
 "day": "1",
-GOAL: SANITY
+"title": "GOAL: SANITY",
 '. . . Step Two gently and very gradually began to infiltrate
 my life. I can't say upon what occasion or upon what day I
 came to believe in a Power greater than myself, but I
@@ -747,7 +747,7 @@ me. I came to believe.
 {
 "month": "FEBRUARY",
 "day": "2",
-RESCUED BY SURRENDERING
+"title": "RESCUED BY SURRENDERING",
 Characteristic of the so-called typical alcoholic is a
 narcissistic egocentric core, dominated by feelings of
 omnipotence, intent on maintaining at all costs its inner
@@ -770,7 +770,7 @@ out to God and my fellows could I be rescued.
 {
 "month": "FEBRUARY",
 "day": "3",
-FILLING THE VOID
+"title": "FILLING THE VOID",
 We needed to ask ourselves but one short question. 'Do I
 now believe, or am I even willing to believe, that there is a
 Power greater than myself?' As soon as a man can say that
@@ -799,7 +799,7 @@ now: God is in A.A.
 {
 "month": "FEBRUARY",
 "day": "4",
-WHEN FAITH IS MISSING
+"title": "WHEN FAITH IS MISSING",
 Sometimes A.A. comes harder to those who have lost or
 rejected faith than to those who never had any faith at all,
 for they think they have tried faith and found it wanting.
@@ -820,7 +820,7 @@ coming back and gradually my faith was resurrected.
 {
 "month": "FEBRUARY",
 "day": "5",
-A GLORIOUS RELEASE
+"title": "A GLORIOUS RELEASE",
 'The minute I stopped arguing, I could begin to see and
 feel Right there, Step Two gently and very gradually began
 to infiltrate my life. I can't say upon what occasion or upon
@@ -843,7 +843,7 @@ with far broader shoulders than my own.
 {
 "month": "FEBRUARY",
 "day": "6",
-A RALLYING POINT
+"title": "A RALLYING POINT",
 Therefore, Step Two is the rallying point for all of us.
 Whether agnostic, atheist, or former believer, we can stand
 together on this Step.
@@ -864,7 +864,7 @@ my reward will be sanity and emotional sobriety.
 {
 "month": "FEBRUARY",
 "day": "7",
-A PATH TO FAITH
+"title": "A PATH TO FAITH",
 True humility and an open mind can lead us to faith, and
 every A.A. meeting is an assurance that God will restore us
 to sanity if we rightly relate ourselves to Him.
@@ -885,7 +885,7 @@ sane.
 {
 "month": "FEBRUARY",
 "day": "8",
-CONVINCING 'MR. HYDE'
+"title": "CONVINCING 'MR. HYDE'",
 Even then, as we hew away, peace and joy will still elude
 us. That's the place so many of us A. A. oldsters have come
 to. And it's a hell of a spot, literally. How shall our
@@ -908,7 +908,7 @@ Time.
 {
 "month": "FEBRUARY",
 "day": "9",
-GETTING THE 'SPIRITUAL ANGLE'
+"title": "GETTING THE 'SPIRITUAL ANGLE'",
 How often do we sit in AA meetings and hear the speaker
 declare, 'But I haven't yet got the spiritual angle.' Prior to
 this statement, he had described a miracle of
@@ -932,7 +932,7 @@ which was missing when I was drinking.
 {
 "month": "FEBRUARY",
 "day": "10",
-I DON'T RUN THE SHOW
+"title": "I DON'T RUN THE SHOW",
 When we became alcoholics, crushed by a self-imposed
 crisis we could not postpone or evade, we had to fearlessly
 face the proposition that either God is everything or else
@@ -954,7 +954,7 @@ thought for a complicated alcoholic.
 {
 "month": "FEBRUARY",
 "day": "11",
-THE LIMITS OF SELF-RELIANCE
+"title": "THE LIMITS OF SELF-RELIANCE",
 We asked ourselves why we had them [fears]. Wasn't it
 because self-reliance failed us?
 ALCOHOLICS ANONYMOUS, p. 68
@@ -974,7 +974,7 @@ separate myself from Him.
 {
 "month": "FEBRUARY",
 "day": "12",
-'THE ROOT OF OUR TROUBLES'
+"title": "'THE ROOT OF OUR TROUBLES'",
 Selfishness—self-centeredness! That, we think, is the root
 of our troubles.
 ALCOHOLICS ANONYMOUS, p. 62
@@ -993,7 +993,7 @@ must serve as the pathway to the center of my life.
 {
 "month": "FEBRUARY",
 "day": "13",
-WE CAN'T THINK OUR WAY SOBER
+"title": "WE CAN'T THINK OUR WAY SOBER",
 To the intellectually self-sufficient man or woman, many A.
 A.'s can say, 'Yes, we were like you—far too smart for our
 own good. . . . Secretly, we felt we could float above the
@@ -1013,7 +1013,7 @@ sanity—not a high IQ or a college degree.
 {
 "month": "FEBRUARY",
 "day": "14",
-EXPECTATIONS vs. DEMANDS
+"title": "EXPECTATIONS vs. DEMANDS",
 Burn the idea into the consciousness of ever, man that he
 can get well regardless of anyone. The only condition is
 that he trust in God and clean house.
@@ -1037,7 +1037,7 @@ time to share my faith and blessings with others?
 {
 "month": "FEBRUARY",
 "day": "15",
-TAKING ACTION
+"title": "TAKING ACTION",
 Are these extravagant promises? We think not They are
 being fulfilled among us—sometimes quickly, sometimes
 slowly. They will always materialize if we work for them.
@@ -1056,7 +1056,7 @@ have a life beyond my wildest dreams.
 {
 "month": "FEBRUARY",
 "day": "16",
-COMMITMENT
+"title": "COMMITMENT",
 Understanding is the key to right principles and attitudes,
 and right action is the key to good living.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 125
@@ -1077,7 +1077,7 @@ effort of commitment, discipline, and responsibility.
 {
 "month": "FEBRUARY",
 "day": "17",
-THE LOVE IN THEIR EYES
+"title": "THE LOVE IN THEIR EYES",
 Some of us won't believe in God, others can't, and still
 others who do believe that God exists have no faith
 whatever He will perform this miracle.
@@ -1101,7 +1101,7 @@ was the one who led me to A.A. and that I am a miracle.
 {
 "month": "FEBRUARY",
 "day": "18",
-OUR PATHS ARE OUR OWN
+"title": "OUR PATHS ARE OUR OWN",
 . . . there was nothing left for us but to pick up the simple
 kit of spiritual tools laid at our feet.
 ALCOHOLICS ANONYMOUS, p. 25
@@ -1126,7 +1126,7 @@ with God, has been transformed and improved.
 {
 "month": "FEBRUARY",
 "day": "19",
-I'M NOT DIFFERENT
+"title": "I'M NOT DIFFERENT",
 In the beginning, it was four whole years before A. A.
 brought permanent sobriety to even one alcoholic woman.
 Like the 'high bottoms,' the women said they were
@@ -1151,7 +1151,7 @@ Fellowship of Alcoholics Anonymous.
 {
 "month": "FEBRUARY",
 "day": "20",
-THE GIFT OF LAUGHTER
+"title": "THE GIFT OF LAUGHTER",
 At this juncture, his A.A. sponsor usually laughs.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 26
 
@@ -1172,7 +1172,7 @@ help me stop taking myself too seriously.
 {
 "month": "FEBRUARY",
 "day": "21",
-I'M PART OF THE WHOLE
+"title": "I'M PART OF THE WHOLE",
 At once, I became a part—if only a tiny part—of a cosmos.
 ...
 AS BILL SEES IT, p. 225
@@ -1197,7 +1197,7 @@ attracted me and I wanted what they had. Suddenly the
 {
 "month": "FEBRUARY",
 "day": "22",
-GUIDANCE
+"title": "GUIDANCE",
 . . . this means a belief in a Creator who is all power,
 justice, and love; a God who intends for me a purpose, a
 meaning, and a destiny to grow, however . . . haltingly,
@@ -1219,7 +1219,7 @@ quickly, I grow toward His own image and likeness.
 {
 "month": "FEBRUARY",
 "day": "23",
-MYSTERIOUS PARADOXES
+"title": "MYSTERIOUS PARADOXES",
 Such is the paradox of A.A. regeneration: strength arising
 out of complete defeat and weakness, the loss of one's old
 life as a condition for finding a new one.
@@ -1242,7 +1242,7 @@ the gifts of the program is to pass them on.
 {
 "month": "FEBRUARY",
 "day": "24",
-A THANKFUL HEART
+"title": "A THANKFUL HEART",
 / try to hold fast to the truth that a full and thankful heart
 cannot entertain great conceits. When brimming with
 gratitude, one's heartbeat must surely result in outgoing
@@ -1266,7 +1266,7 @@ something I live.
 {
 "month": "FEBRUARY",
 "day": "25",
-THE CHALLENGE OF FAILURE
+"title": "THE CHALLENGE OF FAILURE",
 In God's economy, nothing is wasted. Through failure, we
 learn a lesson in humility which is probably needed,
 painful though it is.
@@ -1284,7 +1284,7 @@ came peace of mind—living in and sharing sobriety.
 {
 "month": "FEBRUARY",
 "day": "26",
-NO ORDINARY SUCCESS STORY
+"title": "NO ORDINARY SUCCESS STORY",
 A.A. is no success story in the ordinary sense of the word. It
 is a story of suffering transmuted, under grace, into
 spiritual progress.
@@ -1306,7 +1306,7 @@ of A.A. is that this new reality is available to me.
 {
 "month": "FEBRUARY",
 "day": "27",
-A UNIQUE STABILITY
+"title": "A UNIQUE STABILITY",
 Where does A.A. get its direction? . . . These practical folk
 then read Tradition Two, and learn that the sole authority
 in A.A. is a loving God as He may express Himself in the
@@ -1335,7 +1335,7 @@ truly exists for the good of all members.
 {
 "month": "FEBRUARY",
 "day": "28",
-WHAT? NO PRESIDENT?
+"title": "WHAT? NO PRESIDENT?",
 When told that our Society has no president having
 authority to govern it, no treasurer who can compel the
 payment of any dues, . . . our friends gasp and exclaim,
@@ -1358,7 +1358,7 @@ alcoholic's disdain for being manipulated.
 {
 "month": "FEBRUARY",
 "day": "29",
-ONE A.A. MIRACLE
+"title": "ONE A.A. MIRACLE",
 Slave for a few brief moments of temptation the thought of
 drink has never returned; and at such times a great
 revulsion has risen up in him. Seemingly he could not drink
@@ -1385,7 +1385,7 @@ purpose.
 {
 "month": "MARCH",
 "day": "1",
-IT WORKS
+"title": "IT WORKS",
 It works—it really does.
 ALCOHOLICS ANONYMOUS, p. 88
 
@@ -1408,7 +1408,7 @@ really does.
 {
 "month": "MARCH",
 "day": "2",
-HOPE
+"title": "HOPE",
 Do not be discouraged.
 ALCOHOLICS ANONYMOUS, p. 60
 
@@ -1433,7 +1433,7 @@ patience, for I am on the right road.
 {
 "month": "MARCH",
 "day": "3",
-OVERCOMING SELF-WILL
+"title": "OVERCOMING SELF-WILL",
 So our troubles, we think, are basically of our own making.
 They arise out of ourselves, and the alcoholic is an extreme
 example of self-will run riot, though he usually doesn't
@@ -1459,7 +1459,7 @@ them, I could not experience serenity and sound sobriety.
 {
 "month": "MARCH",
 "day": "4",
-WEEDING THE GARDEN
+"title": "WEEDING THE GARDEN",
 The essence of all growth is a willingness to make a
 change for the better and then an unremitting willingness
 to shoulder whatever responsibility this entails.
@@ -1481,7 +1481,7 @@ rewarded. My sobriety grows and bears fruit.
 {
 "month": "MARCH",
 "day": "5",
-A LIFELONG TASK
+"title": "A LIFELONG TASK",
 'But just how, in these circumstances, does a fellow 'take it
 easy?' That's what I want to know.'
 TWELVE STEPS AND TWELVE TRADITIONS, p. 26
@@ -1498,7 +1498,7 @@ Twelve Steps of A.A. is a lifelong undertaking.
 {
 "month": "MARCH",
 "day": "6",
-THE IDEA OF FAITH
+"title": "THE IDEA OF FAITH",
 Do not let any prejudice you may have against spiritual
 terms deter you from honestly asking yourself what they
 mean to you.
@@ -1522,7 +1522,7 @@ Higher Power.
 {
 "month": "MARCH",
 "day": "7",
-THE KEY IS WILLINGNESS
+"title": "THE KEY IS WILLINGNESS",
 Once we have placed the key of willingness in the lock and
 have the door ever so slightly open, we find that we can
 always open it some more.
@@ -1544,7 +1544,7 @@ serenity.
 {
 "month": "MARCH",
 "day": "8",
-TURNING IT OVER
+"title": "TURNING IT OVER",
 Every man and woman who has joined A.A. and intends to
 stick has, without realizing it, made a beginning on Step
 Three. Isn't it true that in all matters touching upon alcohol,
@@ -1572,7 +1572,7 @@ by giving away what I receive.
 {
 "month": "MARCH",
 "day": "9",
-SURRENDERING SELF-WILL
+"title": "SURRENDERING SELF-WILL",
 Made a decision to turn our will and our lives over to the
 care of God as we understood Him.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 34
@@ -1600,7 +1600,7 @@ peace within.
 {
 "month": "MARCH",
 "day": "10",
-TODAY, IT'S MY CHOICE
+"title": "TODAY, IT'S MY CHOICE",
 . . . we invariably find that at some time in the past we have
 made decisions based on self which later placed us in a
 position to be hurt.
@@ -1621,7 +1621,7 @@ whatever the consequences may be.
 {
 "month": "MARCH",
 "day": "11",
-GOOD ORDERLY DIRECTION
+"title": "GOOD ORDERLY DIRECTION",
 It is when we try to make our will conform with God's that
 we begin to use it rightly. To all of us, this was a most
 wonderful revelation. Our whole trouble had been the
@@ -1651,7 +1651,7 @@ I let Him.
 {
 "month": "MARCH",
 "day": "12",
-A DAY'S PLAN
+"title": "A DAY'S PLAN",
 On awakening let us think about the twenty-four hours
 ahead. We consider our plans for the day. Before we begin,
 we ask God to direct our thinking, especially asking that it
@@ -1670,7 +1670,7 @@ choose; a hundred times, if necessary.
 {
 "month": "MARCH",
 "day": "13",
-A WORLD OF THE SPIRIT
+"title": "A WORLD OF THE SPIRIT",
 We have entered the world of the Spirit. Our next function is
 to grow in understanding and effectiveness. This is not an
 overnight matter. It should continue for our lifetime.
@@ -1696,7 +1696,7 @@ I'll never have spiritual perfection.
 {
 "month": "MARCH",
 "day": "14",
-THE KEYSTONE
+"title": "THE KEYSTONE",
 He is the Father, and we are His children. Most good ideas
 are simple, and this concept was the keystone of the new
 and triumphant arch through which we passed to freedom.
@@ -1718,7 +1718,7 @@ freedom.
 {
 "month": "MARCH",
 "day": "15",
-THE GOD IDEA
+"title": "THE GOD IDEA",
 When we saw others solve their problems by a simple
 reliance upon the Spirit of the Universe, we had to stop
 doubting the power of God. Our ideas did not work. But the
@@ -1739,7 +1739,7 @@ from a Power far greater than myself.
 {
 "month": "MARCH",
 "day": "16",
-AS WE UNDERSTAND HIM
+"title": "AS WE UNDERSTAND HIM",
 My friend suggested what then seemed a novel idea. . . .
 'Why don't you choose your own conception of God?'
 That statement hit me hard. It melted the icy intellectual
@@ -1768,7 +1768,7 @@ sobriety.
 {
 "month": "MARCH",
 "day": "17",
-MYSTERIOUS WAYS
+"title": "MYSTERIOUS WAYS",
 . . . out of every season of grief or suffering when the hand
 of God seemed heavy or even unjust, new lessons for living
 were learned, new resources of courage were uncovered,
@@ -1796,7 +1796,7 @@ Today my son and I thank God for His intervention.
 {
 "month": "MARCH",
 "day": "18",
-REAL INDEPENDENCE
+"title": "REAL INDEPENDENCE",
 The more we become willing to depend upon a Higher
 Power, the more independent we actually are.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 36
@@ -1820,7 +1820,7 @@ independence.
 {
 "month": "MARCH",
 "day": "19",
-PRAYER: IT WORKS
+"title": "PRAYER: IT WORKS",
 It has been well said that 'almost the only scoffers at
 prayer are those who never tried it enough.'
 TWELVE STEPS AND TWELVE TRADITIONS, p. 97
@@ -1842,7 +1842,7 @@ them for the simple reason that they work.
 {
 "month": "MARCH",
 "day": "20",
-LOVE AND TOLERANCE
+"title": "LOVE AND TOLERANCE",
 Love and tolerance of others is our code.
 ALCOHOLICS ANONYMOUS, p. 84
 
@@ -1863,7 +1863,7 @@ problem.
 {
 "month": "MARCH",
 "day": "21",
-MATERIAL AND SPIRITUAL WELL-BEING
+"title": "MATERIAL AND SPIRITUAL WELL-BEING",
 Fear . . . of economic insecurity will leave us.
 ALCOHOLICS ANONYMOUS, p. 84
 
@@ -1890,7 +1890,7 @@ to possess.
 {
 "month": "MARCH",
 "day": "22",
-NO MORE STRUGGLE. . .
+"title": "NO MORE STRUGGLE. . .",
 And we have ceased fighting anything or anyone— even
 alcohol.
 ALCOHOLICS ANONYMOUS, p. 84
@@ -1911,7 +1911,7 @@ will, but His, that needs doing.
 {
 "month": "MARCH",
 "day": "23",
-. . . AND NO MORE RESERVATIONS
+"title": ". . . AND NO MORE RESERVATIONS",
 We have seen the truth again and again: 'Once an alcoholic,
 always an alcoholic.'. . . If we are planning to stop
 drinking, there must be no reservation of any kind, nor any
@@ -1935,7 +1935,7 @@ mine.
 {
 "month": "MARCH",
 "day": "24",
-ACTIVE, NOT PASSIVE
+"title": "ACTIVE, NOT PASSIVE",
 Man is supposed to think, and act He wasn't made in God's
 image to be an automaton.
 AS BILL SEES IT, p. 55
@@ -1958,7 +1958,7 @@ A.A., then I can be an open channel for God's expression.
 {
 "month": "MARCH",
 "day": "25",
-A FULL AND THANKFUL HEART
+"title": "A FULL AND THANKFUL HEART",
 / try hard to hold fast to the truth that a full and thankful
 heart cannot entertain great conceits. When brimming with
 gratitude, one's heartbeat must surely result in outgoing
@@ -1982,7 +1982,7 @@ this, I have 'a full and thankful heart.'
 {
 "month": "MARCH",
 "day": "26",
-THE TEACHING IS NEVER OVER
+"title": "THE TEACHING IS NEVER OVER",
 Abandon yourself to God as you understand God. Admit
 your faults to Him and to your fellows. Clear away the
 wreckage of your past Give freely of what you find and join
@@ -2005,7 +2005,7 @@ and every day is brand new.
 {
 "month": "MARCH",
 "day": "27",
-A.A.'s FREEDOMS
+"title": "A.A.'s FREEDOMS",
 We trust that we already know what our several freedoms
 truly are; that no future generation of AAs will ever feel
 compelled to limit them. Our AA freedoms create the soil in
@@ -2027,7 +2027,7 @@ sobriety.
 {
 "month": "MARCH",
 "day": "28",
-EQUALITY
+"title": "EQUALITY",
 Our membership ought to include all who suffer from
 alcoholism Hence we may refuse none who wish to recover.
 Nor ought A.A. membership ever depend upon money or
@@ -2050,7 +2050,7 @@ alcoholism.
 {
 "month": "MARCH",
 "day": "29",
-TRUSTED SERVANTS
+"title": "TRUSTED SERVANTS",
 They are servants. Theirs is the sometimes thankless
 privilege of doing the group's chores
 TWELVE STEPS AND TWELVE TRADITIONS, p. 134
@@ -2079,7 +2079,7 @@ others who must plant and harvest.
 {
 "month": "MARCH",
 "day": "30",
-OUR GROUP CONSCIENCE
+"title": "OUR GROUP CONSCIENCE",
 '. . . sometimes the good is the enemy of the best'
 ALCOHOLICS ANONYMOUS COMES OF AGE P- 101
 
@@ -2106,7 +2106,7 @@ program.
 {
 "month": "MARCH",
 "day": "31",
-NO ONE DENIED ME LOVE
+"title": "NO ONE DENIED ME LOVE",
 On the A. A. calendar it was Year Two. . . . A newcomer
 appeared at one of these groups. . . . He soon proved that
 his was a desperate case, and that above all he wanted to
@@ -2130,7 +2130,7 @@ member of good standing in Alcoholics Anonymous.
 {
 "month": "APRIL",
 "day": "1",
-LOOKING WITHIN
+"title": "LOOKING WITHIN",
 Made a searching and fearless moral inventory of
 ourselves.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 42
@@ -2154,7 +2154,7 @@ trying to resolve them, they become fewer and fewer.
 {
 "month": "APRIL",
 "day": "2",
-CHARACTER BUILDING
+"title": "CHARACTER BUILDING",
 Demands made upon other people for too much attention,
 protection, and love can only invite domination or
 revulsion. . . .
@@ -2179,7 +2179,7 @@ the A.A. program, my aim is to improve my character.
 {
 "month": "APRIL",
 "day": "3",
-ACCEPTING OUR HUMANNESS
+"title": "ACCEPTING OUR HUMANNESS",
 We finally saw that the inventory should be ours, not the
 other man's So we admitted our wrongs honestly and
 became willing to set these matters straight.
@@ -2202,7 +2202,7 @@ ahead.
 {
 "month": "APRIL",
 "day": "4",
-CRYING FOR THE MOON
+"title": "CRYING FOR THE MOON",
 'This very real feeling of inferiority is magnified by his
 childish sensitivity and it is this state of affairs which
 generates in him that insatiable, abnormal craving for selfapproval and success in the eyes of the world. Still a child,
@@ -2224,7 +2224,7 @@ and my vision is clearer.
 {
 "month": "APRIL",
 "day": "5",
-TRUE BROTHERHOOD
+"title": "TRUE BROTHERHOOD",
 We have not once sought to be one in a family, to be a friend
 among friends, to be a worker among workers, to be a
 useful member of society. Always we tried to struggle to the
@@ -2247,7 +2247,7 @@ lesson.
 {
 "month": "APRIL",
 "day": "6",
-A LIFETIME PROCESS
+"title": "A LIFETIME PROCESS",
 We were having trouble with personal relationships, we
 couldn't control our emotional natures, we were a prey to
 misery and depression, we couldn't make a living, we had a
@@ -2275,7 +2275,7 @@ human family.
 {
 "month": "APRIL",
 "day": "7",
-A WIDE ARC OF GRATITUDE
+"title": "A WIDE ARC OF GRATITUDE",
 And, speaking for Dr. Bob and myself, I gratefully declare
 that had it not been for our wives, Anne and Lois, neither of
 us could have lived to see A.A.'s beginning.
@@ -2291,7 +2291,7 @@ which links our lives together.
 {
 "month": "APRIL",
 "day": "8",
-AN INSIDE LOOK
+"title": "AN INSIDE LOOK",
 We want to find exactly how, when, and where our natural
 desires have warped us We wish to look squarely at the
 unhappiness this has caused others and ourselves By
@@ -2314,7 +2314,7 @@ free. I ask God daily to show me such a freedom!
 {
 "month": "APRIL",
 "day": "9",
-FREEDOM FROM 'KING ALCOHOL'
+"title": "FREEDOM FROM 'KING ALCOHOL'",
 . . . let us not suppose even for an instant that we are not
 under constraint. . . . Our former tyrant, King Alcohol,
 always stands ready again to clutch us to him Therefore,
@@ -2338,7 +2338,7 @@ daily probation—that need never end.
 {
 "month": "APRIL",
 "day": "10",
-GROWING UP
+"title": "GROWING UP",
 The essence of all growth is a willingness to change for the
 better and then an unremitting willingness to shoulder
 whatever responsibility this entails.
@@ -2358,7 +2358,7 @@ more loving makes my life better— day by day.
 {
 "month": "APRIL",
 "day": "11",
-A WORD TO DROP: 'BLAME'
+"title": "A WORD TO DROP: 'BLAME'",
 To see how erratic emotions victimized us often took a long
 time. We could perceive them quickly in others, but only
 slowly in ourselves First of all, we had to admit that we had
@@ -2382,7 +2382,7 @@ anyone.
 {
 "month": "APRIL",
 "day": "12",
-GIVING UP INSANITY
+"title": "GIVING UP INSANITY",
 . . . where alcohol has been involved, we have been
 strangely insane.
 ALCOHOLICS ANONYMOUS, p. 38
@@ -2400,7 +2400,7 @@ meaning of the disease of alcoholism.
 {
 "month": "APRIL",
 "day": "13",
-THE FALSE COMFORT OF SELF-PITY
+"title": "THE FALSE COMFORT OF SELF-PITY",
 Self-pity is one of the most unhappy and consuming defects
 that we know. It is a bar to all spiritual progress and can
 cut off all effective communication with our fellows because
@@ -2422,7 +2422,7 @@ suffering.
 {
 "month": "APRIL",
 "day": "14",
-THE 'NUMBER ONE OFFENDER'
+"title": "THE 'NUMBER ONE OFFENDER'",
 Resentment is the 'number one' offender. It destroys more
 alcoholics than anything else. From it stem all forms of
 spiritual disease, for we have been not only mentally and
@@ -2443,7 +2443,7 @@ them.
 {
 "month": "APRIL",
 "day": "15",
-THE BONDAGE OF RESENTMENTS
+"title": "THE BONDAGE OF RESENTMENTS",
 . . . harboring resentment is infinitely grave. For then we
 shut ourselves off from the sunlight of the spirit.
 AS BILL SEES IT, p. 5
@@ -2466,7 +2466,7 @@ cleanse the spirit within me.
 {
 "month": "APRIL",
 "day": "16",
-ANGER: A 'DUBIOUS LUXURY'
+"title": "ANGER: A 'DUBIOUS LUXURY'",
 If we were to live, we had to be free of anger. The grouch
 and the brainstorm were not for us. They may be the
 dubious luxury of the normal men, but for alcoholics these
@@ -2487,7 +2487,7 @@ in them.
 {
 "month": "APRIL",
 "day": "17",
-LOVE AND FEAR AS OPPOSITES
+"title": "LOVE AND FEAR AS OPPOSITES",
 All these failings generate fear, a soul-sickness in its own
 right.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 49
@@ -2511,7 +2511,7 @@ God, I also learned to experience joy.
 {
 "month": "APRIL",
 "day": "18",
-SELF-HONESTY
+"title": "SELF-HONESTY",
 The deception of others is nearly always rooted in the
 deception of ourselves. . . . When we are honest with
 another person, it confirms that we have been honest with
@@ -2535,7 +2535,7 @@ with self and with others.
 {
 "month": "APRIL",
 "day": "19",
-BROTHERS IN OUR DEFECTS
+"title": "BROTHERS IN OUR DEFECTS",
 We recovered alcoholics are not so much brothers in virtue
 as we are brothers in our defects, and in our common
 strivings to overcome them
@@ -2557,7 +2557,7 @@ me how to care about others.
 {
 "month": "APRIL",
 "day": "20",
-SELF-EXAMINATION
+"title": "SELF-EXAMINATION",
 . . . we ask God to direct our thinking, especially asking
 that it be divorced from self-pity, dishonest or self-seeking
 motives.
@@ -2577,7 +2577,7 @@ with God, my neighbor and myself.
 {
 "month": "APRIL",
 "day": "21",
-CULTIVATING FAITH
+"title": "CULTIVATING FAITH",
 'I don't think we can do anything very well in this world
 unless we practice it And I don't believe we do A.A. too well
 unless we practice it. . . . We should practice . . . acquiring
@@ -2598,7 +2598,7 @@ of beauty, tolerance, forgiveness, service, and serenity.
 {
 "month": "APRIL",
 "day": "22",
-NEW SOIL . . . NEW ROOTS
+"title": "NEW SOIL . . . NEW ROOTS",
 Moments of perception can build into a lifetime of spiritual
 serenity, as I have excellent reason to know, loots of
 reality, supplanting the neurotic underbrush, will hold fast
@@ -2623,7 +2623,7 @@ p. 12).
 {
 "month": "APRIL",
 "day": "23",
-A.A. IS NOT A CURE-ALL
+"title": "A.A. IS NOT A CURE-ALL",
 It would be a product of false pride to claim that A. A. is a
 cure-all, even for alcoholism
 AS BILL SEES IT, p. 285
@@ -2645,7 +2645,7 @@ everything, but it is the center of my sober living.
 {
 "month": "APRIL",
 "day": "24",
-LEARNING TO LOVE OURSELVES
+"title": "LEARNING TO LOVE OURSELVES",
 Alcoholism was a lonely business, even though we were
 surrounded by people who loved us . . . We were trying to
 find emotional security either by dominating or by being
@@ -2667,7 +2667,7 @@ love myself, I could reach out and love others.
 {
 "month": "APRIL",
 "day": "25",
-ENTERING A NEW DIMENSION
+"title": "ENTERING A NEW DIMENSION",
 In the late stages of our drinking the will to resist has fled.
 Yet when we admit complete defeat and when we become
 entirely ready to try A. A. principles, our obsession leaves
@@ -2690,7 +2690,7 @@ over alcohol is no big deal.' I'm free and I'm grateful!
 {
 "month": "APRIL",
 "day": "26",
-HAPPINESS IS NOT THE POINT
+"title": "HAPPINESS IS NOT THE POINT",
 / don't think happiness or unhappiness is the point. How do
 we meet the problems we face? How do we best learn from
 them and transmit what we have learned to others, if they
@@ -2713,7 +2713,7 @@ God for it.' (As Bill Sees It, p. 306)
 {
 "month": "APRIL",
 "day": "27",
-JOYFUL DISCOVERIES
+"title": "JOYFUL DISCOVERIES",
 We realize we know only a little. God will constantly
 disclose more to you and to us. Ask Him in your morning
 meditation what you can do each day for the man who is
@@ -2736,7 +2736,7 @@ God's grace.
 {
 "month": "APRIL",
 "day": "28",
-TWO 'MAGNIFICENT STANDARDS'
+"title": "TWO 'MAGNIFICENT STANDARDS'",
 All A.A. progress can be reckoned in terms of just two
 words: humility and responsibility. Our whole spiritual
 development can be accurately measured by our degree of
@@ -2760,7 +2760,7 @@ brother.
 {
 "month": "APRIL",
 "day": "29",
-GROUP AUTONOMY
+"title": "GROUP AUTONOMY",
 Some may think that we have carried the principle of group
 autonomy to extremes. For example, in its original 'long
 form,' Tradition Four declares: 'Any two or three gathered
@@ -2784,7 +2784,7 @@ Tradition Four.
 {
 "month": "APRIL",
 "day": "30",
-A GREAT PARADOX
+"title": "A GREAT PARADOX",
 These legacies of suffering and of recovery are easily
 passed among alcoholics, one to the other. This is our gift
 from God, and its bestowal upon others like us is the one
@@ -2806,7 +2806,7 @@ road to a happy destiny.
 {
 "month": "MAY",
 "day": "1",
-HEALING HEART AND MIND
+"title": "HEALING HEART AND MIND",
 Admitted to God, to ourselves, and to another human being
 the exact nature of our wrongs.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 55
@@ -2832,7 +2832,7 @@ think today.
 {
 "month": "MAY",
 "day": "2",
-LIGHTING THE DARK PAST
+"title": "LIGHTING THE DARK PAST",
 Cling to the thought that, in God's hands, the dark past is
 the greatest possession you have—the key to life and
 happiness for others. With it you can avert death and
@@ -2852,7 +2852,7 @@ lock.
 {
 "month": "MAY",
 "day": "3",
-CLEANING HOUSE
+"title": "CLEANING HOUSE",
 Somehow, being alone with God doesn't seem as embarrassing as facing up to another person. Until we
 actually sit down and talk aloud about what we have so
 long hidden, our willingness to clean house is still largely
@@ -2873,7 +2873,7 @@ remaining seven Steps.
 {
 "month": "MAY",
 "day": "4",
-'ENTIRELY HONEST'
+"title": "'ENTIRELY HONEST'",
 We must be entirely honest with somebody if we expect to
 live long or happily in this world.
 ALCOHOLICS ANONYMOUS, p. 73-74
@@ -2890,7 +2890,7 @@ through honest openness and willingness.
 {
 "month": "MAY",
 "day": "5",
-THE FOREST AND THE TREES
+"title": "THE FOREST AND THE TREES",
 . . . what comes to us alone may be garbled by our own
 rationalization and wishful thinking. The benefit of talking
 to another person is that we can get his direct comment and
@@ -2911,7 +2911,7 @@ to call upon a member of A.A.
 {
 "month": "MAY",
 "day": "6",
-'HOLD BACK NOTHING'
+"title": "'HOLD BACK NOTHING'",
 The real tests of the situation are your own willingness to
 confide and your full confidence in the one with whom you
 share your first accurate self-survey. . . . Provided you hold
@@ -2935,7 +2935,7 @@ and I ask Him daily to assist me in living a sober life.
 {
 "month": "MAY",
 "day": "7",
-RESPECT FOR OTHERS
+"title": "RESPECT FOR OTHERS",
 Such parts of our story we tell to someone who will
 understand, yet be unaffected. The rule is we must be hard
 on ourself, but always considerate of others.
@@ -2982,7 +2982,7 @@ resting place where I could prepare myself for the remaining Steps toward a full
 {
 "month": "MAY",
 "day": "9",
-WALKING THROUGH FEAR
+"title": "WALKING THROUGH FEAR",
 If we still cling to something we will not let go, we ask God
 to help us be willing.
 ALCOHOLICS ANONYMOUS, p. 76
@@ -3029,7 +3029,7 @@ couldn't do for myself.
 {
 "month": "MAY",
 "day": "11",
-A NEW SENSE OF BELONGING
+"title": "A NEW SENSE OF BELONGING",
 Until we had talked with complete candor of our conflicts,
 and had listened to someone else do the same thing, we still
 didn't belong.
@@ -3047,7 +3047,7 @@ Five.
 {
 "month": "MAY",
 "day": "12",
-THE PAST IS OVER
+"title": "THE PAST IS OVER",
 A.A. experience has taught us we cannot live alone with
 our pressing problems and the character defects which
 cause or aggravate them. If. . . Step Four . . . has revealed
@@ -3070,7 +3070,7 @@ alcoholics.
 {
 "month": "MAY",
 "day": "13",
-THE EASIER, SOFTER WAY
+"title": "THE EASIER, SOFTER WAY",
 If we skip this vital step, we may not overcome drinking.
 ALCOHOLICS ANONYMOUS, p. 72
 
@@ -3087,7 +3087,7 @@ our faith in the Fellowship and our Higher Power.
 {
 "month": "MAY",
 "day": "14",
-IT'S OKAY TO BE ME
+"title": "IT'S OKAY TO BE ME",
 Time after time newcomers have tried to keep to themselves
 certain facts about their lives. . . . they have turned to
 easier methods. . . . But they had not learned enough
@@ -3109,7 +3109,7 @@ Easier methods do not work.
 {
 "month": "MAY",
 "day": "15",
-KNOW GOD; KNOW PEACE
+"title": "KNOW GOD; KNOW PEACE",
 It is plain that a life which includes deep resentment leads
 only to futility and unhappiness. . . . But with the alcoholic,
 whose hope is the maintenance and growth of a spiritual
@@ -3125,7 +3125,7 @@ peace.
 {
 "month": "MAY",
 "day": "16",
-WE FORGIVE . . .
+"title": "WE FORGIVE . . .",
 Often it was while working on this Step with our sponsors
 or spiritual advisers that we first felt truly able to forgive
 others, no matter how deeply we felt hey had wronged us.
@@ -3143,7 +3143,7 @@ All it takes is willingness to forgive; 5od will do the rest.
 {
 "month": "MAY",
 "day": "17",
-. . . AND FORGIVE
+"title": ". . . AND FORGIVE",
 Under very trying conditions I have had, again and again,
 to forgive others—also myself
 AS BILL SEES IT, p. 268
@@ -3162,7 +3162,7 @@ that I can find the necessary grace which enables me to forgive myself and other
 {
 "month": "MAY",
 "day": "18",
-FREEDOM TO BE ME
+"title": "FREEDOM TO BE ME",
 If we are painstaking about this phase of our development,
 we will be amazed before we are half way through. We are
 going to know a new freedom and a new happiness
@@ -3180,7 +3180,7 @@ me. I have the freedom to be the best me I have ever been.
 {
 "month": "MAY",
 "day": "19",
-GIVING WITHOUT STRINGS
+"title": "GIVING WITHOUT STRINGS",
 And he well knows that his own life has been made richer,
 as an extra dividend of giving to another without any
 demand for a return.
@@ -3202,7 +3202,7 @@ feel a special richness that is hard to explain.
 {
 "month": "MAY",
 "day": "20",
-ONE DAY AT A TIME
+"title": "ONE DAY AT A TIME",
 Above all, take it one day at a time.
 AS BILL SEES IT, p. 11
 
@@ -3223,7 +3223,7 @@ Achievement feels good and that makes me want more!
 {
 "month": "MAY",
 "day": "21",
-A LIST OF BLESSINGS
+"title": "A LIST OF BLESSINGS",
 One exercise that I practice is to try for a full inventory of
 my blessings. . . .
 AS BILL SEES IT, p. 37
@@ -3244,7 +3244,7 @@ conclude that God is picking on me.
 {
 "month": "MAY",
 "day": "22",
-STEP ONE
+"title": "STEP ONE",
 WE . . . (The first word of the First Step)
 TWELVE STEPS AND TWELVE TRADITIONS, p. 21
 
@@ -3265,7 +3265,7 @@ become a channel for God's healing love.
 {
 "month": "MAY",
 "day": "23",
-SPIRITUAL HEALTH
+"title": "SPIRITUAL HEALTH",
 When the spiritual malady is overcome, we straighten out
 mentally and physically.
 ALCOHOLICS ANONYMOUS, p. 64
@@ -3289,7 +3289,7 @@ others.
 {
 "month": "MAY",
 "day": "24",
-'HAPPY, JOYOUS AND FREE'
+"title": "'HAPPY, JOYOUS AND FREE'",
 We are sure God wants us to be happy, joyous, and free.
 We cannot subscribe to the belief that this life is vale of
 tears, though it once was just that for many f us. But it is
@@ -3312,7 +3312,7 @@ nil.'
 {
 "month": "MAY",
 "day": "25",
-PROGRESSIVE GRATITUDE
+"title": "PROGRESSIVE GRATITUDE",
 Gratitude should go forward, rather than backward.
 AS BILL SEES IT, p. 29
 
@@ -3336,7 +3336,7 @@ carry the message today!
 {
 "month": "MAY",
 "day": "26",
-TURNING NEGATIVE TO POSITIVE
+"title": "TURNING NEGATIVE TO POSITIVE",
 Our spiritual and emotional growth in A.A. does not depend
 so deeply upon success as it does upon our failures and
 setbacks. If you will bear this in mind, I think that your slip
@@ -3358,7 +3358,7 @@ when I become ego driven.
 {
 "month": "MAY",
 "day": "27",
-NO MAUDLIN GUILT
+"title": "NO MAUDLIN GUILT",
 Day by day, we try to move a little toward God's perfection.
 So we need not be consumed by maudlin guilt. . . .
 AS BILL SEES IT, p. 15
@@ -3378,7 +3378,7 @@ making today.
 {
 "month": "MAY",
 "day": "28",
-EQUAL RIGHTS
+"title": "EQUAL RIGHTS",
 At one time or another most A.A. groups go on rulemaking
 benders. . . . After a time fear and intolerance subside, [and
 we realize] We do not wish to deny anyone his chance to
@@ -3406,7 +3406,7 @@ clear how my self-righteousness caused me spiritual harm.
 {
 "month": "MAY",
 "day": "29",
-TRUE TOLERANCE
+"title": "TRUE TOLERANCE",
 The only requirement for A.A. membership is a desire to
 stop drinking.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 139
@@ -3426,7 +3426,7 @@ me. I feel acceptance is love and love is God's will for us.
 {
 "month": "MAY",
 "day": "30",
-OUR PRIMARY PURPOSE
+"title": "OUR PRIMARY PURPOSE",
 The more A.A. sticks to its primary purpose, the greater
 will be its helpful influence everywhere.
 A.A. COMES OF AGE, p. 109
@@ -3446,7 +3446,7 @@ grateful to a loving God who made A.A. possible.
 {
 "month": "MAY",
 "day": "31",
-READINESS TO SERVE OTHERS
+"title": "READINESS TO SERVE OTHERS",
 . . . our Society has concluded that it has but one high
 mission—to carry the A.A. message to those who don't
 know there's a way out
@@ -3469,7 +3469,7 @@ readiness to serve others.
 {
 "month": "JUNE",
 "day": "1",
-A CHANGED OUTLOOK
+"title": "A CHANGED OUTLOOK",
 Our whole attitude and outlook upon life will change.
 ALCOHOLICS ANONYMOUS, p. 84
 
@@ -3489,7 +3489,7 @@ I am willing to go to any length to stay sober!
 {
 "month": "JUNE",
 "day": "2",
-THE UPWARD PATH
+"title": "THE UPWARD PATH",
 Here are the steps we took. . . .
 ALCOHOLICS ANONYMOUS, p. 59
 
@@ -3512,7 +3512,7 @@ experience, strength and hope with others.
 {
 "month": "JUNE",
 "day": "3",
-ON A WING AND A PRAYER
+"title": "ON A WING AND A PRAYER",
 . . . we then look at Step Six. We have emphasized
 willingness as being indispensable.
 ALCOHOLICS ANONYMOUS, p. 76
@@ -3539,7 +3539,7 @@ His will and the power and courage to carry it out—today.
 {
 "month": "JUNE",
 "day": "4",
-LETTING GO OF OUR OLD SELVES
+"title": "LETTING GO OF OUR OLD SELVES",
 Carefully reading the first five proposals we ask if we have
 omitted anything for we are building an arch through
 which we shall walk a free man at last. . . . Are we now
@@ -3568,7 +3568,7 @@ p. 76)
 {
 "month": "JUNE",
 "day": "5",
-ENTIRELY READY?
+"title": "ENTIRELY READY?",
 'This is the Step that separates the men from the boys
 ' . . . the difference between 'the boys and the men' is
 the difference between striving for a self-determined
@@ -3591,7 +3591,7 @@ I am ready to embrace God's will for my life.
 {
 "month": "JUNE",
 "day": "6",
-ALL WE DO IS TRY
+"title": "ALL WE DO IS TRY",
 Can He now take them all—every one?
 ALCOHOLICS ANONYMOUS, p. 76
 
@@ -3610,7 +3610,7 @@ happier with myself and maintain my serenity.
 {
 "month": "JUNE",
 "day": "7",
-LONG-TERM HOPE
+"title": "LONG-TERM HOPE",
 Since most of us are born with an abundance of natural
 desires, it isn't strange that we often let these far exceed
 their intended purpose. When they drive us blindly, or we
@@ -3634,7 +3634,7 @@ presence of God.
 {
 "month": "JUNE",
 "day": "8",
-OPENING UP TO CHANGE
+"title": "OPENING UP TO CHANGE",
 Self-searching is the means by which we bring new vision,
 action, and grace to bear upon the dark and negative side
 of our natures With it comes the development of that kind of
@@ -3663,7 +3663,7 @@ love, and I am ready to face each day with hope.
 {
 "month": "JUNE",
 "day": "9",
-LIVING IN THE NOW
+"title": "LIVING IN THE NOW",
 First, we try living in the now just in order to stay sober—
 and it works Once the idea has become a part of our
 thinking we find that living life in 24-hour segments is an
@@ -3687,7 +3687,7 @@ and this brings serenity.
 {
 "month": "JUNE",
 "day": "10",
-IMPATIENT? TRY LEVITATING
+"title": "IMPATIENT? TRY LEVITATING",
 We reacted more strongly to frustrations than normal
 people.
 AS BILL SEES IT, p. I l l
@@ -3713,7 +3713,7 @@ can be very relaxing.
 {
 "month": "JUNE",
 "day": "11",
-FAMILY OBLIGATIONS
+"title": "FAMILY OBLIGATIONS",
 . . . a spiritual life which does not include . . . family
 obligations may not be so perfect after all.
 ALCOHOLICS ANONYMOUS, p. 129
@@ -3735,7 +3735,7 @@ live it' (Alcoholics Anonymous, p. 83).
 {
 "month": "JUNE",
 "day": "12",
-FORMING TRUE PARTNERSHIPS
+"title": "FORMING TRUE PARTNERSHIPS",
 But it is from our twisted relations with family, friends, and
 society at large that many of us have suffered the most. We
 have been especially stupid and stubborn about them. The
@@ -3753,7 +3753,7 @@ may be a trusted friend and companion.
 {
 "month": "JUNE",
 "day": "13",
-LIVING OUR AMENDS
+"title": "LIVING OUR AMENDS",
 'Years of living with an alcoholic is almost sure to make
 any wife or child neurotic. The entire family is, to some
 extent, ill.'
@@ -3771,7 +3771,7 @@ others hope, and faith to help themselves.
 {
 "month": "JUNE",
 "day": "14",
-WHEN THE GOING GETS ROUGH It is a design
+"title": "WHEN THE GOING GETS ROUGH It is a design",
 for living that works in rough going.
 ALCOHOLICS ANONYMOUS, p. 15
 
@@ -3793,7 +3793,7 @@ as it unfolded.
 {
 "month": "JUNE",
 "day": "15",
-MAKING A.A. YOUR HIGHER POWER
+"title": "MAKING A.A. YOUR HIGHER POWER",
 '. . . You can . . . make A.A. itself your 'higher power.'
 Here's a very large group of people who have solved their
 alcohol problem. . . . many members . . . have crossed the
@@ -3818,7 +3818,7 @@ me the strength to live a happy, sober life.
 {
 "month": "JUNE",
 "day": "16",
-OPEN-MINDEDNESS
+"title": "OPEN-MINDEDNESS",
 We have found that God does not make too hard terms with
 those who seek Him. To us, the realm of spirit is broad,
 roomy, all inclusive, never exclusive or forbidding to those
@@ -3835,7 +3835,7 @@ brings me closer to God, as I understand Him.
 {
 "month": "JUNE",
 "day": "17",
-'DEEP DOWN WITHIN US'
+"title": "'DEEP DOWN WITHIN US'",
 We found the Great Reality deep down within us. In the last
 analysis it is only there that He may be found. . . . search
 diligently within yourself. . . . With this attitude you cannot
@@ -3858,7 +3858,7 @@ process, I met my God, as I understand Him.
 {
 "month": "JUNE",
 "day": "18",
-A FELLOWSHIP OF FREEDOM
+"title": "A FELLOWSHIP OF FREEDOM",
 . . . if only men were granted absolute liberty, and were
 compelled to obey no one, they would then voluntarily
 associate themselves in the common interest
@@ -3881,7 +3881,7 @@ freedom.
 {
 "month": "JUNE",
 "day": "19",
-'A.A. REGENERATION'
+"title": "'A.A. REGENERATION'",
 Such is the paradox of A.A. regeneration: strength arising
 out of complete defeat and weakness, the loss of one's old
 life as a condition for finding a new one.
@@ -3902,7 +3902,7 @@ where my thoughts had held me in bondage. I am grateful.
 {
 "month": "JUNE",
 "day": "20",
-RELEASE FROM FEAR
+"title": "RELEASE FROM FEAR",
 The problem of resolving fear has two aspects. We shall
 have to try for all the freedom from fear that is possible for
 us to attain. Then we shall need to find both the courage
@@ -3924,7 +3924,7 @@ for that, I am deeply grateful.
 {
 "month": "JUNE",
 "day": "21",
-The achievement of freedom from fear is a lifetime
+"title": "The achievement of freedom from fear is a lifetime",
 undertaking, one that can never be wholly completed. When
 under heavy attack, acute illness, or in other conditions of
 serious insecurity, we shall all act to this emotion—well or
@@ -3943,7 +3943,7 @@ Higher Power, I will be free.
 {
 "month": "JUNE",
 "day": "22",
-TODAY, I'M FREE
+"title": "TODAY, I'M FREE",
 This brought me to the good healthy realization that there
 were plenty of situations left in the world over which I had
 no personal power—that if I was so ready to admit that to
@@ -3965,7 +3965,7 @@ free. I do not have to fight anybody or anything anymore.
 {
 "month": "JUNE",
 "day": "23",
-TRUSTING OTHERS
+"title": "TRUSTING OTHERS",
 But does trust require that we be blind to other people's
 motives or, indeed, to our own? Not at all; this would be
 folly. Most certainly, we should assess the capacity for
@@ -3990,7 +3990,7 @@ harmful.
 {
 "month": "JUNE",
 "day": "24",
-A SPIRITUAL KINDERGARTEN
+"title": "A SPIRITUAL KINDERGARTEN",
 We are only operating a spiritual kindergarten in which
 people are enabled to get over drinking and find the grace
 to go on living to better effect
@@ -4013,7 +4013,7 @@ learned how to five sober.
 {
 "month": "JUNE",
 "day": "25",
-A TWO-WAY STREET
+"title": "A TWO-WAY STREET",
 If we ask, God will certainly forgive our derelictions. But in
 no case does He render us white as snow and keep us that
 way without our cooperation.
@@ -4035,7 +4035,7 @@ responsibility.
 {
 "month": "JUNE",
 "day": "26",
-A GIFT THAT GROWS WITH TIME
+"title": "A GIFT THAT GROWS WITH TIME",
 For most normal folks, drinking means conviviality,
 companionship and colorful imagination. It means release
 from care, boredom and worry. It is joyous intimacy with
@@ -4055,7 +4055,7 @@ Sobriety is a gift that grows with time.
 {
 "month": "JUNE",
 "day": "27",
-CONFORMING TO THE A.A. WAY
+"title": "CONFORMING TO THE A.A. WAY",
 We obey A.A. 's Steps and Traditions because we really
 want them for ourselves. It is no longer a question of good
 or evil; we conform because we genuinely want to conform
@@ -4074,7 +4074,7 @@ member of Alcoholics Anonymous.
 {
 "month": "JUNE",
 "day": "28",
-THE DETERMINATION OF OUR FOUNDERS
+"title": "THE DETERMINATION OF OUR FOUNDERS",
 A year and six months later these three had succeeded with
 seven more.
 ALCOHOLICS ANONYMOUS, p. 159
@@ -4093,7 +4093,7 @@ way of life.
 {
 "month": "JUNE",
 "day": "29",
-A RIPPLING EFFECT
+"title": "A RIPPLING EFFECT",
 Having learned to live so happily, we'd show everyone else
 how. . . . Yes, we of A.A. did dream those dreams. How
 natural that was, since most alcoholics are bankrupt
@@ -4115,7 +4115,7 @@ sobriety.
 {
 "month": "JUNE",
 "day": "30",
-SACRIFICE = UNITY = SURVIVAL
+"title": "SACRIFICE = UNITY = SURVIVAL",
 The unity, the effectiveness, and even the survival of A.A.
 will always depend upon our continued willingness to give
 up some of our personal ambitions and desires for the
@@ -4138,7 +4138,7 @@ be here, healthy and strong for generations to come.
 {
 "month": "JULY",
 "day": "1",
-THE BEST FOR TODAY
+"title": "THE BEST FOR TODAY",
 The principles we have set down are guides to progress
 ALCOHOLICS ANONYMOUS, p. 60
 
@@ -4157,7 +4157,7 @@ that we can for today, we are doing all that God asks of us.'
 {
 "month": "JULY",
 "day": "2",
-THE HEART OF TRUE SOBRIETY
+"title": "THE HEART OF TRUE SOBRIETY",
 We find that no one need have difficulty with the spirituality
 of the program. Willingness, honesty and open-mindedness
 are the essentials of recovery. But these are indispensable.
@@ -4179,7 +4179,7 @@ God as I understand Him.
 {
 "month": "JULY",
 "day": "3",
-EXPERIENCE: THE BEST TEACHER
+"title": "EXPERIENCE: THE BEST TEACHER",
 Being still inexperienced and having just made conscious
 contact with God, it is not probable that we are going to be
 inspired at all times.
@@ -4198,7 +4198,7 @@ He has a path for me.
 {
 "month": "JULY",
 "day": "4",
-A NATURAL FAITH
+"title": "A NATURAL FAITH",
 . . . deep down in every man, woman and child, is the
 fundamental idea of God. It may be obscured by calamity,
 by pomp, by worship of other things, but in some form or
@@ -4220,7 +4220,7 @@ Power.
 {
 "month": "JULY",
 "day": "5",
-A NEW DIRECTION
+"title": "A NEW DIRECTION",
 Our human resources, as marshaled by the will, were not
 sufficient; they failed utterly. . . . Every day is a day when
 we must carry the vision of God's will into all our activities.
@@ -4240,7 +4240,7 @@ program become my daily reality.
 {
 "month": "JULY",
 "day": "6",
-IDENTIFYING FEAR . . .
+"title": "IDENTIFYING FEAR . . .",
 The chief activator of our defects has been self-centered
 fear. . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 76
@@ -4262,7 +4262,7 @@ of my life in Alcoholics Anonymous.
 {
 "month": "JULY",
 "day": "7",
-. . . AND LETTING GO OF IT
+"title": ". . . AND LETTING GO OF IT",
 . . . primarily fear that we would lose something we already
 possessed or would fail to get something we demanded.
 Living upon a basis of unsatisfied demands, we were in a
@@ -4284,7 +4284,7 @@ spiritual security.
 {
 "month": "JULY",
 "day": "8",
-AN EVER-GROWING FREEDOM
+"title": "AN EVER-GROWING FREEDOM",
 The Seventh Step is where we make the change in our
 attitude which permits us, with humility as our guide, to
 move out from ourselves toward others and toward God.
@@ -4307,7 +4307,7 @@ be useful today.
 {
 "month": "JULY",
 "day": "9",
-I AM AN INSTRUMENT Humbly asked Him
+"title": "I AM AN INSTRUMENT Humbly asked Him",
 to remove our shortcomings.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 70
 
@@ -4328,7 +4328,7 @@ and service.'
 {
 "month": "JULY",
 "day": "10",
-TOWARD PEACE AND SERENITY
+"title": "TOWARD PEACE AND SERENITY",
 . . . when we have taken a square look at some of these
 defects, have discussed them with another, and have
 become willing to have them removed, our thinking about
@@ -4351,7 +4351,7 @@ power greater than myself.
 {
 "month": "JULY",
 "day": "11",
-A TURNING POINT
+"title": "A TURNING POINT",
 A great turning point in our lives came when we sought for
 humility as something we really wanted, rather than as
 something we must have.
@@ -4374,7 +4374,7 @@ myself and God. It is then that humility is something I
 {
 "month": "JULY",
 "day": "12",
-GIVING UP CENTER STAGE
+"title": "GIVING UP CENTER STAGE",
 For without some degree of humility, no alcoholic can stay
 sober at all . . . Without it, they cannot live to much useful
 purpose, or, in adversity, be able to summon the faith that
@@ -4402,7 +4402,7 @@ to play God myself.
 {
 "month": "JULY",
 "day": "13",
-HUMILITY IS A GIFT
+"title": "HUMILITY IS A GIFT",
 As long as we placed self-reliance first, a genuine reliance
 upon a Higher Power was out of the question. That basic
 ingredient of all humility, a desire to seek and do God's
@@ -4425,7 +4425,7 @@ it has found me.
 {
 "month": "JULY",
 "day": "14",
-A NOURISHING INGREDIENT
+"title": "A NOURISHING INGREDIENT",
 Where humility had formerly stood for a forced feeding on
 humble pie, it now begins to mean the nourishing
 ingredient which can give us serenity.
@@ -4448,7 +4448,7 @@ me to accept my humanness joyously.
 {
 "month": "JULY",
 "day": "15",
-PRIDE
+"title": "PRIDE",
 For thousands of years we have been demanding more than
 our share of security, prestige, and romance. When we
 seemed to be succeeding, we drank to dream still greater
@@ -4477,7 +4477,7 @@ the fall,' and I eliminated pride from my life.
 {
 "month": "JULY",
 "day": "16",
-'A MEASURE OF HUMILITY'
+"title": "'A MEASURE OF HUMILITY'",
 In every case, pain had been the price of admission into a
 new life. But this admission price had purchased more than
 we expected It brought a measure of humility, which we
@@ -4499,7 +4499,7 @@ that I have received the spiritual strength to survive.
 {
 "month": "JULY",
 "day": "17",
-SURRENDER AND SELF-EXAMINATION
+"title": "SURRENDER AND SELF-EXAMINATION",
 My stability came out of trying to give, not out of
 demanding that I receive.
 Thus I think it can work out with emotional sobriety. If
@@ -4522,7 +4522,7 @@ sharing with newcomers helped me to ask humbly for help.
 {
 "month": "JULY",
 "day": "18",
-GRATEFUL FOR WHAT I HAVE
+"title": "GRATEFUL FOR WHAT I HAVE",
 During this process of learning more about humility, the
 most profound result of all was the change in our attitude
 toward God.
@@ -4542,7 +4542,7 @@ me.
 {
 "month": "JULY",
 "day": "19",
-FALSE PRIDE
+"title": "FALSE PRIDE",
 Many of us who had thought ourselves religious awoke to
 the limitations of this attitude. Refusing to place God first,
 we had deprived ourselves of His help.
@@ -4565,7 +4565,7 @@ Believe.' I ask my Higher Power to help my unbelief.
 {
 "month": "JULY",
 "day": "20",
-SHORTCOMINGS REMOVED
+"title": "SHORTCOMINGS REMOVED",
 But now the words 'Of myself I am nothing, the Father
 doeth the works' began to carry bright promise and
 meaning.
@@ -4586,7 +4586,7 @@ works.'
 {
 "month": "JULY",
 "day": "21",
-A PRICELESS GIFT
+"title": "A PRICELESS GIFT",
 By this time in all probability we have gained some
 measure of release from our more devastating handicaps.
 We enjoy moments in which there is something like real
@@ -4607,7 +4607,7 @@ faith means freedom and victory.
 {
 "month": "JULY",
 "day": "22",
-'THE GOOD AND THE BAD'
+"title": "'THE GOOD AND THE BAD'",
 'My Creator, I am now willing that you should have all of
 me, good and bad.'
 ALCOHOLICS ANONYMOUS, p. 76
@@ -4625,7 +4625,7 @@ good.
 {
 "month": "JULY",
 "day": "23",
-I ASK GOD TO DECIDE
+"title": "I ASK GOD TO DECIDE",
 'I pray that you now remove from me every single defect of
 character which stands in the way of my usefulness to you
 and my fellows '
@@ -4643,7 +4643,7 @@ and to others, and then I humbly ask Him to remove them.
 {
 "month": "JULY",
 "day": "24",
-HELPING OTHERS
+"title": "HELPING OTHERS",
 Our very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
 needs.
@@ -4664,7 +4664,7 @@ longer do I need to drink.
 {
 "month": "JULY",
 "day": "25",
-THOSE WHO STILL SUFFER
+"title": "THOSE WHO STILL SUFFER",
 For us, if we neglect those who are still sick, there is
 unremitting danger to our own lives and sanity.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 151
@@ -4682,7 +4682,7 @@ do with others what I cannot do alone.
 {
 "month": "JULY",
 "day": "26",
-THE 'WORTH' OF SOBRIETY
+"title": "THE 'WORTH' OF SOBRIETY",
 Every A.A. group ought to be fully self-supporting,
 declining outside contributions.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 160
@@ -4708,7 +4708,7 @@ peace worth?
 {
 "month": "JULY",
 "day": "27",
-GIVING FREELY
+"title": "GIVING FREELY",
 We will make every personal sacrifice necessary to
 insure the unity of Alcoholics Anonymous. We will
 do this because we have learned to love God and one
@@ -4734,7 +4734,7 @@ expressing Himself through me.
 {
 "month": "JULY",
 "day": "28",
-THOSE WHO STILL SUFFER
+"title": "THOSE WHO STILL SUFFER",
 Let us resist the proud assumption that since God has
 enabled us to do well in one area we are destined to be a
 channel of saving grace for everybody.
@@ -4755,7 +4755,7 @@ depend on my determination to put first things first.
 {
 "month": "JULY",
 "day": "29",
-ANONYMOUS GIFTS OF KINDNESS
+"title": "ANONYMOUS GIFTS OF KINDNESS",
 As active alcoholics we were always looking for a handout
 in one way or another.
 'THE TWELVE TRADITIONS ILLUSTRATED,' p. 14
@@ -4774,7 +4774,7 @@ never had it so good.
 {
 "month": "JULY",
 "day": "30",
-GIVING BACK
+"title": "GIVING BACK",
 . . . he has struck something better than gold. . . . He may
 not see at once that he has barely scratched a limitless lode
 which will pay dividends only if he mines it for the rest of
@@ -4796,7 +4796,7 @@ here for my grandchildren.
 {
 "month": "JULY",
 "day": "31",
-A PRAYER FOR ALL SEASONS
+"title": "A PRAYER FOR ALL SEASONS",
 God grant us the serenity to accept the things we cannot
 change, Courage to change the things we can. And wisdom
 to know the difference.
@@ -4819,7 +4819,7 @@ forward. Alcoholics Anonymous is the easier, softer way.
 {
 "month": "AUGUST",
 "day": "1",
-LIVING IT
+"title": "LIVING IT",
 The spiritual life is not a theory. We have to live it.
 ALCOHOLICS ANONYMOUS, p. 83
 
@@ -4837,7 +4837,7 @@ felt only fear.
 {
 "month": "AUGUST",
 "day": "2",
-WE BECOME WILLING . . .
+"title": "WE BECOME WILLING . . .",
 At the moment we are trying to put our lives in order. But
 this is not an end in itself.
 ALCOHOLICS ANONYMOUS, p. 77
@@ -4857,7 +4857,7 @@ will for me.
 {
 "month": "AUGUST",
 "day": "3",
-. . . TO BE OF SERVICE
+"title": ". . . TO BE OF SERVICE",
 Our real purpose is to fit ourselves to be of maximum
 service to God and the people about us.
 ALCOHOLICS ANONYMOUS, p. 77
@@ -4873,7 +4873,7 @@ through my love for others.
 {
 "month": "AUGUST",
 "day": "4",
-SEEDS OF FAITH
+"title": "SEEDS OF FAITH",
 Faith, to be sure, is necessary, but faith alone can avail
 nothing. We can have faith, yet keep God out of our lives.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 34
@@ -4896,7 +4896,7 @@ I ask God to grant me the willingness to do His will.
 {
 "month": "AUGUST",
 "day": "5",
-LISTENING DEEPLY
+"title": "LISTENING DEEPLY",
 How persistently we claim the right to decide all by
 ourselves just what we shall think and just how we shall act
 TWELVE STEPS AND TWELVE TRADITIONS, p. 37
@@ -4923,7 +4923,7 @@ necessary.
 {
 "month": "AUGUST",
 "day": "6",
-DRIVEN
+"title": "DRIVEN",
 Driven by a hundred forms of fear, self-delusion, selfseeking, and self-pity, we step on the toes of our fellows and
 they retaliate.
 ALCOHOLICS ANONYMOUS, p. 62
@@ -4940,7 +4940,7 @@ my A.A. group?
 {
 "month": "AUGUST",
 "day": "7",
-A 'DESIGN FOR LIVING'
+"title": "A 'DESIGN FOR LIVING'",
 We in our turn, sought the same escape with all the
 desperation of drowning men. What seemed at first a flimsy
 reed, has proved to be the loving and powerful hand of
@@ -4960,7 +4960,7 @@ for my being. I am truly, truly blessed in the Fellowship.
 {
 "month": "AUGUST",
 "day": "8",
-'MADE A LIST . . .' Made a list of all
+"title": "'MADE A LIST . . .' Made a list of all",
 persons we had harmed, . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 77
 
@@ -4980,7 +4980,7 @@ myself, I can cleanse my mind of these feelings.
 {
 "month": "AUGUST",
 "day": "9",
-'. . . OF ALL PERSONS WE HAD HARMED'
+"title": "'. . . OF ALL PERSONS WE HAD HARMED'",
 . . . and became willing to make amends to them all.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 77
 
@@ -5007,7 +5007,7 @@ spirit of forgiveness.
 {
 "month": "AUGUST",
 "day": "10",
-REDOUBLING OUR EFFORTS
+"title": "REDOUBLING OUR EFFORTS",
 To a degree, he has already done this when taking moral
 inventory, but now the time has come when he ought to
 redouble his efforts to see how many people he has hurt,
@@ -5029,7 +5029,7 @@ sobriety.
 {
 "month": "AUGUST",
 "day": "11",
-REMOVING 'THE GROUND GLASS'
+"title": "REMOVING 'THE GROUND GLASS'",
 The moral inventory is a cool examination of the damages
 that occurred to us during life and a sincere effort to look
 at them in a true perspective. This has the effect of taking
@@ -5054,7 +5054,7 @@ character and to set me free.
 {
 "month": "AUGUST",
 "day": "12",
-A LOOK BACKWARD
+"title": "A LOOK BACKWARD",
 First, we take a look backward and try to discover where
 we have been at fault; next we make a vigorous attempt to
 repair the damage we have done; . . .
@@ -5080,7 +5080,7 @@ Only then could my journey of the spirit resume.
 {
 "month": "AUGUST",
 "day": "13",
-A CLEAN SWEEP
+"title": "A CLEAN SWEEP",
 . . . and third, having thus cleaned away the debris of the
 past, we consider how, with our newfound knowledge of
 ourselves, we may develop the best possible relations with
@@ -5105,7 +5105,7 @@ growth.
 {
 "month": "AUGUST",
 "day": "14",
-REPAIRING THE DAMAGE
+"title": "REPAIRING THE DAMAGE",
 We attempt to sweep away the debris which has accumulated out of our effort to live on self-will and run the
 show ourselves. If we haven't the will to do this, we ask
 until it comes. Remember it was agreed at the beginning
@@ -5126,7 +5126,7 @@ have done what I can to repair the damage I have done.
 {
 "month": "AUGUST",
 "day": "15",
-DIDN'T WE HURT ANYBODY?
+"title": "DIDN'T WE HURT ANYBODY?",
 Some of us, though, tripped over a very different snag. We
 clung to the claim that when drinking we never hurt
 anybody but ourselves.
@@ -5149,7 +5149,7 @@ feel clean and light.
 {
 "month": "AUGUST",
 "day": "16",
-'I HAD DROPPED OUT'
+"title": "'I HAD DROPPED OUT'",
 We might next ask ourselves what we mean when we say
 that we have 'harmed' other people. What kinds of 'harm'
 do people do one another, anyway? To define the word
@@ -5177,7 +5177,7 @@ relationships.
 {
 "month": "AUGUST",
 "day": "17",
-RIGHTING THE HARM
+"title": "RIGHTING THE HARM",
 In many instances we shall find that though the harm done
 others has not been great, the emotional harm we have
 done ourselves has.
@@ -5198,7 +5198,7 @@ of my recovery is accomplished.
 {
 "month": "AUGUST",
 "day": "18",
-GETTING WELL
+"title": "GETTING WELL",
 Very deep, sometimes quite forgotten, damaging emotional
 conflicts persist below the level of consciousness.
 TWELVE STEPS AND TWELVE TRADITIONS, pp. 79-80
@@ -5217,7 +5217,7 @@ myself of burdens, thus contributing to my healing.
 {
 "month": "AUGUST",
 "day": "19",
-A FRAME OF REFERENCE
+"title": "A FRAME OF REFERENCE",
 Referring to our list [inventory] again. Putting out of our
 minds the wrongs others had done, we resolutely looked for
 our own mistakes. Where had we been selfish, dishonest,
@@ -5235,7 +5235,7 @@ it was the correct thing to do.
 {
 "month": "AUGUST",
 "day": "20",
-TOWARD EMOTIONAL FREEDOM
+"title": "TOWARD EMOTIONAL FREEDOM",
 Since defective relations with other human beings have
 nearly always been the immediate cause of our woes,
 including our alcoholism, no field of investigation could
@@ -5264,7 +5264,7 @@ Step list.
 {
 "month": "AUGUST",
 "day": "21",
-WE JUST TRY
+"title": "WE JUST TRY",
 My stability came out of trying to give, not out of
 demanding that I receive.
 THE BEST OF BILL, pp. 46-47
@@ -5285,7 +5285,7 @@ Higher Power, whom I choose to call God.
 {
 "month": "AUGUST",
 "day": "22",
-SEEKING EMOTIONAL STABILITY
+"title": "SEEKING EMOTIONAL STABILITY",
 When we developed still more, we discovered the best
 possible source of emotional stability to be God Himself. We
 found that dependence upon His perfect justice, forgiveness,
@@ -5314,7 +5314,7 @@ emotional stability.
 {
 "month": "AUGUST",
 "day": "23",
-BRINGING THE MESSAGE HOME
+"title": "BRINGING THE MESSAGE HOME",
 Can we bring the same spirit of love and tolerance into our
 sometimes deranged family lives that we bring to our A.A.
 group?
@@ -5331,7 +5331,7 @@ practices for all areas of my life.
 {
 "month": "AUGUST",
 "day": "24",
-A RIDDLE THAT WORKS
+"title": "A RIDDLE THAT WORKS",
 It may be possible to find explanations of spiritual
 experiences such as ours, but I have often tried to explain
 my own and have succeeded only in giving the story of it. I
@@ -5358,7 +5358,7 @@ Steps and help others.
 {
 "month": "AUGUST",
 "day": "25",
-THE GIFT OF BONDING
+"title": "THE GIFT OF BONDING",
 Relieve me of the bondage of self, that I may better do Thy
 will
 ALCOHOLICS ANONYMOUS, p. 63
@@ -5375,7 +5375,7 @@ gift from God, I am forever grateful.
 {
 "month": "AUGUST",
 "day": "26",
-GIVING IT AWAY
+"title": "GIVING IT AWAY",
 Though they knew they must help other alcoholics if they
 would remain sober, that motive became secondary. It was
 transcended by the happiness they found in giving
@@ -5395,7 +5395,7 @@ me, I am granted a daily reprieve.
 {
 "month": "AUGUST",
 "day": "27",
-CENTERING OUR THOUGHTS
+"title": "CENTERING OUR THOUGHTS",
 When World War II broke out, our A. A. dependence on a
 Higher Power had its first major test. A.A.'s entered the
 services and were scattered all over the world. Would they
@@ -5418,7 +5418,7 @@ freely by this power greater than myself.
 {
 "month": "AUGUST",
 "day": "28",
-LIGHTENING THE BURDEN
+"title": "LIGHTENING THE BURDEN",
 Showing others who suffer how we were given help is the
 very thing which makes life seem so worth while to us now.
 . . . the dark past is . . . the key to life and happiness for
@@ -5436,7 +5436,7 @@ was told, both of us got up with lighter hearts.
 {
 "month": "AUGUST",
 "day": "29",
-I CHOOSE ANONYMITY
+"title": "I CHOOSE ANONYMITY",
 We are sure that humility, expressed by anonymity, is the
 greatest safeguard that Alcoholics Anonymous can ever
 have.
@@ -5458,7 +5458,7 @@ grow.
 {
 "month": "AUGUST",
 "day": "30",
-THE ONLY REQUIREMENT . . .
+"title": "THE ONLY REQUIREMENT . . .",
 'At one time . . . every A. A. group had many membership
 rules. Everybody was scared witless that something or
 somebody would capsize the boat. . . . The total list was a
@@ -5481,7 +5481,7 @@ sobriety, and to, please, keep me grateful!
 {
 "month": "AUGUST",
 "day": "31",
-A UNIQUE PROGRAM
+"title": "A UNIQUE PROGRAM",
 Alcoholics Anonymous will never have a professional class.
 We have gained some understanding of the ancient words
 'Freely ye have received, freely give.' We have discovered
@@ -5505,7 +5505,7 @@ generously paid for my labor.
 {
 "month": "SEPTEMBER",
 "day": "1",
-WILLINGNESS TO GROW
+"title": "WILLINGNESS TO GROW",
 If more gifts are to be received, our awakening has to go
 on.
 AS BILL SEES IT, p. 8
@@ -5525,7 +5525,7 @@ the willingness to grow. Today I am ready to grow.
 {
 "month": "SEPTEMBER",
 "day": "2",
-FINDING 'A REASON TO BELIEVE'
+"title": "FINDING 'A REASON TO BELIEVE'",
 The willingness to grow is the essence of all spiritual
 development.
 AS BILL SEES IT, p. 171
@@ -5548,7 +5548,7 @@ through my life.
 {
 "month": "SEPTEMBER",
 "day": "3",
-BUILDING A NEW LIFE
+"title": "BUILDING A NEW LIFE",
 We feel a man is unthinking when he says sobriety is
 enough.
 ALCOHOLICS ANONYMOUS, p. 82
@@ -5568,7 +5568,7 @@ benefits may be shown to those I know and love.
 {
 "month": "SEPTEMBER",
 "day": "4",
-RECONSTRUCTION
+"title": "RECONSTRUCTION",
 Yes, there is a long period of reconstruction ahead . . .
 ALCOHOLICS ANONYMOUS, p. 83
 
@@ -5593,7 +5593,7 @@ the power I need for reconstruction.
 {
 "month": "SEPTEMBER",
 "day": "5",
-EMOTIONAL BALANCE
+"title": "EMOTIONAL BALANCE",
 Made direct amends to such people wherever possible, . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 83
 
@@ -5611,7 +5611,7 @@ help me to live in emotional balance, at peace with myself.
 {
 "month": "SEPTEMBER",
 "day": "6",
-REMOVING THREATS TO SOBRIETY
+"title": "REMOVING THREATS TO SOBRIETY",
 . . . except when to do so would injure them or others.
 ALCOHOLICS ANONYMOUS, p. 59
 
@@ -5629,7 +5629,7 @@ past wreckage, lest it bring me down.
 {
 "month": "SEPTEMBER",
 "day": "7",
-'OUR SIDE OF THE STREET'
+"title": "'OUR SIDE OF THE STREET'",
 We are there to sweep off our side of the street, realizing
 that nothing worth while can be accomplished until we do
 so, never trying to tell him what he should do. His faults
@@ -5648,7 +5648,7 @@ for and— thanks to God and A.A.—it's clean for today.
 {
 "month": "SEPTEMBER",
 "day": "8",
-'WE ASKED HIS PROTECTION'
+"title": "'WE ASKED HIS PROTECTION'",
 We asked His protection and care with complete abandon.
 ALCOHOLICS ANONYMOUS, p. 59
 
@@ -5674,7 +5674,7 @@ life is beautiful!
 {
 "month": "SEPTEMBER",
 "day": "9",
-OPENING NEW DOORS
+"title": "OPENING NEW DOORS",
 They [the Promises] are being fulfilled among us—
 sometimes quickly, sometimes slowly.
 ALCOHOLICS ANONYMOUS, p. 84
@@ -5697,7 +5697,7 @@ of, and Step Nine always works, when I work it.
 {
 "month": "SEPTEMBER",
 "day": "10",
-RECOVERY BY PROXY?
+"title": "RECOVERY BY PROXY?",
 They [the Promises] will always materialize if we work for
 them.
 ALCOHOLICS ANONYMOUS, p. 84
@@ -5713,7 +5713,7 @@ happiness, friendship and harmony.
 {
 "month": "SEPTEMBER",
 "day": "11",
-MAKING AMENDS
+"title": "MAKING AMENDS",
 Above all, we should try to be absolutely sure that we are
 not delaying because we are afraid.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 87
@@ -5732,7 +5732,7 @@ that, for today, I am responsible.
 {
 "month": "SEPTEMBER",
 "day": "12",
-I AM RESPONSIBLE
+"title": "I AM RESPONSIBLE",
 For the readiness to take the full consequences of our past
 acts, and to take responsibility for the well-being of others
 at the same time, is the very spirit of Step Nine.
@@ -5752,7 +5752,7 @@ and sincerity, then I am free.
 {
 "month": "SEPTEMBER",
 "day": "13",
-REPAIRING THE DAMAGE
+"title": "REPAIRING THE DAMAGE",
 Good judgment, a careful sense of timing courage and
 prudence—these are the qualities we shall need when we
 take Step Nine.
@@ -5773,7 +5773,7 @@ making honest amends.
 {
 "month": "SEPTEMBER",
 "day": "14",
-PEACE OF MIND
+"title": "PEACE OF MIND",
 Do we lay the matter before our sponsor or spiritual
 adviser, earnestly asking God's help and guidance—
 meanwhile resolving to do the right thing when it becomes
@@ -5793,7 +5793,7 @@ mind, serenity, and a stronger faith are sure to follow.
 {
 "month": "SEPTEMBER",
 "day": "15",
-A NEW LIFE
+"title": "A NEW LIFE",
 Yes, there is a substitute and it is vastly more than that. It is
 a fellowship in Alcoholics Anonymous. . . . Life will mean
 something at last
@@ -5812,7 +5812,7 @@ by my Higher Power.
 {
 "month": "SEPTEMBER",
 "day": "16",
-WE STAND—OR FALL—TOGETHER
+"title": "WE STAND—OR FALL—TOGETHER",
 . . . no society of men and women ever had a more urgent
 need for continuous effectiveness and permanent unity. We
 alcoholics see that we must work together and hang
@@ -5840,7 +5840,7 @@ Traditions, the Fellowship, and my life.
 {
 "month": "SEPTEMBER",
 "day": "17",
-FREEDOM FROM FEAR
+"title": "FREEDOM FROM FEAR",
 When, with God's help, we calmly accepted our lot, then we
 found we could live at peace with ourselves and show
 others who still suffered the same fears that they could get
@@ -5863,7 +5863,7 @@ with other alcoholics.
 {
 "month": "SEPTEMBER",
 "day": "18",
-LOVED BACK TO RECOVERY
+"title": "LOVED BACK TO RECOVERY",
 Our whole treasured philosophy of self-sufficiency had to
 be cast aside. This had not been done with old-fashioned
 willpower; it was instead a matter of developing the
@@ -5882,7 +5882,7 @@ in me. I am sober . . . and I am grateful.
 {
 "month": "SEPTEMBER",
 "day": "19",
-ACCEPTANCE
+"title": "ACCEPTANCE",
 We admitted we couldn't lick alcohol with our own
 remaining resources, and so we accepted the further fact
 that dependence upon a Higher Power (if only our A.A
@@ -5905,7 +5905,7 @@ and have serenity and peace of mind.
 {
 "month": "SEPTEMBER",
 "day": "20",
-H.P. AS GUIDE
+"title": "H.P. AS GUIDE",
 See to it that your relationship with Him is right, and great
 events will come to pass for you and countless others. This
 is the Great Fact for us.
@@ -5926,7 +5926,7 @@ to happen, and I found the beginning of sobriety.
 {
 "month": "SEPTEMBER",
 "day": "21",
-THE LAST PROMISE
+"title": "THE LAST PROMISE",
 We will suddenly realize that God is doing for us what we
 could not do for ourselves.
 ALCOHOLICS ANONYMOUS, p. 84
@@ -5947,7 +5947,7 @@ through me successfully.
 {
 "month": "SEPTEMBER",
 "day": "22",
-A 'LIMITLESS LODE'
+"title": "A 'LIMITLESS LODE'",
 Like a gaunt prospector, belt drawn in over the last ounce
 of food, our pick struck gold. Joy at our release from a
 lifetime of frustration knew no bounds. Father feels he has
@@ -5968,7 +5968,7 @@ soul.
 {
 "month": "SEPTEMBER",
 "day": "23",
-'I WAS AN EXCEPTION'
+"title": "'I WAS AN EXCEPTION'",
 He [Bill W.] said to me, gently and simply, 'Do you think
 that you are one of us?'
 ALCOHOLICS ANONYMOUS, p. 413
@@ -5988,7 +5988,7 @@ just as much as anybody's.
 {
 "month": "SEPTEMBER",
 "day": "24",
-VIGILANCE
+"title": "VIGILANCE",
 We have seen the truth demonstrated again and again:
 'Once an alcoholic, always an alcoholic' Commencing to
 drink after a period of sobriety, we are in a short time as
@@ -6009,7 +6009,7 @@ no cure, only daily acceptance and vigilance.
 {
 "month": "SEPTEMBER",
 "day": "25",
-FIRST THINGS FIRST
+"title": "FIRST THINGS FIRST",
 Some of us have taken very hard knocks to learn this truth:
 Job or no job—wife or no wife—we simply do not stop
 drinking so long as we place dependence upon other
@@ -6028,7 +6028,7 @@ God, and A.A. today?
 {
 "month": "SEPTEMBER",
 "day": "26",
-OUR CHILDREN
+"title": "OUR CHILDREN",
 The alcoholic may find it hard to re-establish friendly
 relations with his children. . . . In time they will see that he
 is a new man and in their own way they will let him know
@@ -6051,7 +6051,7 @@ were tears of joy, not desperation.
 {
 "month": "SEPTEMBER",
 "day": "27",
-WITHOUT RESERVATION
+"title": "WITHOUT RESERVATION",
 When brimming with gratitude, one's heartbeat must surely
 result in outgoing love, . . .
 AS BILL SEES IT, p. 37
@@ -6067,7 +6067,7 @@ I receive much more in spirit.
 {
 "month": "SEPTEMBER",
 "day": "28",
-LOVE WITHOUT STRINGS
+"title": "LOVE WITHOUT STRINGS",
 Practical experience shows that nothing will so much
 insure immunity from drinking as intensive work with other
 alcoholics.
@@ -6090,7 +6090,7 @@ Gratitude for that gift has kept me sober many times.
 {
 "month": "SEPTEMBER",
 "day": "29",
-EXACTLY ALIKE
+"title": "EXACTLY ALIKE",
 Frequent contact with newcomers and with each other is
 the bright spot of our lives.
 ALCOHOLICS ANONYMOUS, p. 89
@@ -6112,7 +6112,7 @@ were exactly alike.
 {
 "month": "SEPTEMBER",
 "day": "30",
-THE CIRCLE AND THE TRIANGLE
+"title": "THE CIRCLE AND THE TRIANGLE",
 The circle stands for the whole world of A.A., and the
 triangle stands for A.A.'s Three Legacies of Recovery,
 Unity, and Service. Within our wonderful new world, we
@@ -6136,7 +6136,7 @@ life.
 {
 "month": "OCTOBER",
 "day": "1",
-LEST WE BECOME COMPLACENT
+"title": "LEST WE BECOME COMPLACENT",
 It is easy to let up on the spiritual program of action and
 rest on our laurels. We are headed for trouble if we do, for
 alcohol is a subtle foe.
@@ -6158,7 +6158,7 @@ honest and humble.
 {
 "month": "OCTOBER",
 "day": "2",
-'THE ACID TEST'
+"title": "'THE ACID TEST'",
 As we work the first nine Steps, we prepare ourselves for
 the adventure of a new life. But when we approach Step Ten
 we commence to put our A.A. way of living to practical use,
@@ -6186,7 +6186,7 @@ through the Twelve Steps, the pain gradually goes away.
 {
 "month": "OCTOBER",
 "day": "3",
-SERENITY AFTER THE STORM
+"title": "SERENITY AFTER THE STORM",
 Someone who knew what he was talking about once
 remarked that pain was the touchstone of all spiritual
 progress. How heartily we A.A. 's can agree with him. . . .
@@ -6205,7 +6205,7 @@ spiritual progress.
 {
 "month": "OCTOBER",
 "day": "4",
-A NECESSARY PRUNING
+"title": "A NECESSARY PRUNING",
 . . . we know that the pains of drinking had to come before
 sobriety, and emotional turmoil before serenity.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 94
@@ -6226,7 +6226,7 @@ time, so I can grow.
 {
 "month": "OCTOBER",
 "day": "5",
-YESTERDAY'S BAGGAGE
+"title": "YESTERDAY'S BAGGAGE",
 For the wise have always known that no one can make
 much of his life until self-searching becomes a regular
 habit, until he is able to admit and accept what he finds,
@@ -6246,7 +6246,7 @@ most of it need not if I make an honest daily inventory.
 {
 "month": "OCTOBER",
 "day": "6",
-FACING OURSELVES . . . and Fear says,
+"title": "FACING OURSELVES . . . and Fear says,",
 'You dare not look!'
 TWELVE STEPS AND TWELVE TRADITIONS, p. 49
 
@@ -6265,7 +6265,7 @@ to paper, I was arresting my growth based on an intangible.
 {
 "month": "OCTOBER",
 "day": "7",
-DAILY MONITORING Continued to take
+"title": "DAILY MONITORING Continued to take",
 personal inventory. . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 88
 
@@ -6288,7 +6288,7 @@ should thank that person.
 {
 "month": "OCTOBER",
 "day": "8",
-DAILY INVENTORY
+"title": "DAILY INVENTORY",
 . . . and when we were wrong promptly admitted it.
 ALCOHOLICS ANONYMOUS, p. 59
 
@@ -6315,7 +6315,7 @@ to interact more directly and effectively in the future.
 {
 "month": "OCTOBER",
 "day": "9",
-A SPIRITUAL AXIOM
+"title": "A SPIRITUAL AXIOM",
 It is a spiritual axiom that every time we are disturbed, no
 matter what the cause, there is something wrong with us.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 90
@@ -6341,7 +6341,7 @@ my spiritual condition is positive, I react positively.
 {
 "month": "OCTOBER",
 "day": "10",
-FIXING ME, NOT YOU
+"title": "FIXING ME, NOT YOU",
 If somebody hurts us and we are sore, we are in the wrong
 also.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 90
@@ -6359,7 +6359,7 @@ to remove my anger and truly set me free.
 {
 "month": "OCTOBER",
 "day": "11",
-SELF-RESTRAINT
+"title": "SELF-RESTRAINT",
 Our first objective will be the development of self-restraint.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 91
 
@@ -6385,7 +6385,7 @@ God for the chance to make progress that day.
 {
 "month": "OCTOBER",
 "day": "12",
-CURBING RASHNESS
+"title": "CURBING RASHNESS",
 When we speak or act hastily or rashly, the ability to be
 fair-minded and tolerant evaporates on the spot.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 91
@@ -6404,7 +6404,7 @@ and positive action for me.
 {
 "month": "OCTOBER",
 "day": "13",
-UNREMITTING INVENTORIES
+"title": "UNREMITTING INVENTORIES",
 Continue to watch for selfishness, dishonesty, resentment,
 and fear. When these crop up, we ask God at once to
 remove them. We discuss them with someone immediately
@@ -6428,7 +6428,7 @@ become more understanding and helpful to others.
 {
 "month": "OCTOBER",
 "day": "14",
-A PROGRAM FOR LIVING
+"title": "A PROGRAM FOR LIVING",
 When we retire at night, we constructively review our day. .
 . . On awakening let us think about the twenty-four hours
 ahead. . . . Before we begin, we ask God to direct our
@@ -6448,7 +6448,7 @@ my day. It worked! Slowly, but it worked!
 {
 "month": "OCTOBER",
 "day": "15",
-MY CHECKLIST, NOT YOURS
+"title": "MY CHECKLIST, NOT YOURS",
 Gossip barbed with our anger, a polite form of murder by
 character assassination, has its satisfactions for us, too.
 Here we are not trying to help those we criticize; we are
@@ -6476,7 +6476,7 @@ others to the Final Judge—Divine Providence.
 {
 "month": "OCTOBER",
 "day": "16",
-THROUGHOUT EACH DAY
+"title": "THROUGHOUT EACH DAY",
 This is not an overnight matter. It should continue for our
 lifetime.
 ALCOHOLICS ANONYMOUS, p. 84
@@ -6495,7 +6495,7 @@ day.
 {
 "month": "OCTOBER",
 "day": "17",
-A DAILY TUNE-UP
+"title": "A DAILY TUNE-UP",
 Every day is a day when we must carry the vision of God's
 will into all of our activities.
 ALCOHOLICS ANONYMOUS, p. 85
@@ -6514,7 +6514,7 @@ granted.
 {
 "month": "OCTOBER",
 "day": "18",
-AN OPEN MIND
+"title": "AN OPEN MIND",
 True humility and an open mind can lead us to faith, . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 33
 
@@ -6531,7 +6531,7 @@ person than I ever could have been without A.A.
 {
 "month": "OCTOBER",
 "day": "19",
-A.A'S 'MAIN TAPROOT'
+"title": "A.A'S 'MAIN TAPROOT'",
 The principle that we shall find no enduring strength until
 we first admit complete defeat is the main taproot from
 which our whole Society has sprung and flowered.
@@ -6550,7 +6550,7 @@ greatest event of my entire life.
 {
 "month": "OCTOBER",
 "day": "20",
-SOLACE FOR CONFUSION
+"title": "SOLACE FOR CONFUSION",
 Obviously, the dilemma of the wanderer from faith is that
 of profound confusion. He thinks himself lost to the comfort
 of any conviction at all He cannot attain in even a small
@@ -6575,7 +6575,7 @@ calming concept of God.
 {
 "month": "OCTOBER",
 "day": "21",
-NOTHING GROWS IN THE DARK
+"title": "NOTHING GROWS IN THE DARK",
 We will want the good that is in us all, even in the worst of
 us, to flower and to grow.
 AS BILL SEES IT, p. 10
@@ -6595,7 +6595,7 @@ sobriety and serenity.
 {
 "month": "OCTOBER",
 "day": "22",
-TRUE TOLERANCE
+"title": "TRUE TOLERANCE",
 Finally, we begin to see that all people, including
 ourselves, are to some extent emotionally ill as well as
 frequently wrong and then we approach true tolerance and
@@ -6613,7 +6613,7 @@ each other as we would be treated in similar circumstances? That is what love re
 {
 "month": "OCTOBER",
 "day": "23",
-WHAT WE KNOW BEST
+"title": "WHAT WE KNOW BEST",
 'Shoemaker, stick to thy last!' . . . better do one thing
 supremely well than many badly. That is the central theme
 of this Tradition [Five]. Around it our Society gathers in
@@ -6636,7 +6636,7 @@ to the still-suffering alcoholic.'
 {
 "month": "OCTOBER",
 "day": "24",
-'BY FAITH AND BY WORKS'
+"title": "'BY FAITH AND BY WORKS'",
 On anvils of experience, the structure of our Society was
 hammered out. . . . Thus has it been with A.A. By faith and
 by works we have been able to build upon the lessons of an
@@ -6655,7 +6655,7 @@ will remain as it is.
 {
 "month": "OCTOBER",
 "day": "25",
-A.A.'s HEARTBEAT
+"title": "A.A.'s HEARTBEAT",
 Without unity, the heart of A.A. would cease to beat; . . .
 AS BILL SEES IT, p. 125
 
@@ -6672,7 +6672,7 @@ oneness and yet the whole Fellowship is for all of us.
 {
 "month": "OCTOBER",
 "day": "26",
-ONE ULTIMATE AUTHORITY
+"title": "ONE ULTIMATE AUTHORITY",
 For our group purpose there is but one ultimate authority—
 a loving God as He may express Himself in our group
 conscience.
@@ -6691,7 +6691,7 @@ ultimate authority of 'running the show.'
 {
 "month": "OCTOBER",
 "day": "27",
-GLOBAL SHARING
+"title": "GLOBAL SHARING",
 The only thing that matters is that he is an alcoholic who
 has found a key to sobriety. These legacies of suffering and
 of recovery are easily passed among alcoholics, one to the
@@ -6713,7 +6713,7 @@ Anonymous.
 {
 "month": "OCTOBER",
 "day": "28",
-AN UNBROKEN TRADITION
+"title": "AN UNBROKEN TRADITION",
 We conceive the survival and spread of Alcoholics
 Anonymous to be something of far greater importance than
 the weight we could collectively throw back of any other
@@ -6740,7 +6740,7 @@ faith in sobriety in millions of hearts, including mine.
 {
 "month": "OCTOBER",
 "day": "29",
-OUR SURVIVAL
+"title": "OUR SURVIVAL",
 Since recovery from alcoholism is life itself to us, it is
 imperative that we preserve in full strength our means of
 survival.
@@ -6763,7 +6763,7 @@ know and seek His will.
 {
 "month": "OCTOBER",
 "day": "30",
-LIVE AND LET LIVE
+"title": "LIVE AND LET LIVE",
 Never since it began has Alcoholics Anonymous been
 divided by a major controversial issue. Nor has our
 Fellowship ever publicly taken sides on any question in an
@@ -6789,7 +6789,7 @@ controversial?
 {
 "month": "OCTOBER",
 "day": "31",
-AVOIDING CONTROVERSY
+"title": "AVOIDING CONTROVERSY",
 All history affords us the spectacle of striving nations and
 groups finally torn asunder because they were designed for,
 or tempted into, controversy. Others fell apart because of
@@ -6809,7 +6809,7 @@ Steps and Traditions help me in dealing with my life.
 {
 "month": "NOVEMBER",
 "day": "1",
-I CANNOT CHANGE THE WIND
+"title": "I CANNOT CHANGE THE WIND",
 is easy to let up on the spiritual program of action and
 rest on our laurels. We are headed for trouble if we do, for
 alcohol is a subtle foe.
@@ -6832,7 +6832,7 @@ graceful way of being right, and many ways to be wrong.
 {
 "month": "NOVEMBER",
 "day": "2",
-KEEPING OPTIMISM AFLOAT
+"title": "KEEPING OPTIMISM AFLOAT",
 The other Steps can keep most of us sober and somehow
 functioning. But Step Eleven can keep us growing . . .
 THE LANGUAGE OF THE HEART, p. 240
@@ -6854,7 +6854,7 @@ produces the substance of a more positive life.
 {
 "month": "NOVEMBER",
 "day": "3",
-FOCUSING AND LISTENING
+"title": "FOCUSING AND LISTENING",
 There is a direct linkage among self-examination,
 meditation, and prayer. Taken separately, these practices
 can bring much relief and benefit.
@@ -6877,7 +6877,7 @@ destination: a better life.
 {
 "month": "NOVEMBER",
 "day": "4",
-A DAILY DISCIPLINE
+"title": "A DAILY DISCIPLINE",
 . . . when they [self-examination, meditation and prayer]
 are logically related and interwoven, the result is an
 unshakable foundation for life.
@@ -6903,7 +6903,7 @@ day brings—without the thought of a drink.
 {
 "month": "NOVEMBER",
 "day": "5",
-'THE QUALITY OF FAITH'
+"title": "'THE QUALITY OF FAITH'",
 This . . . has to do with the quality of faith. . . . In no deep
 or meaningful sense had we ever taken stock of ourselves. .
 . . We had not even prayed rightly. We had always said,
@@ -6926,7 +6926,7 @@ my everyday affairs.
 {
 "month": "NOVEMBER",
 "day": "6",
-GOING WITH THE FLOW
+"title": "GOING WITH THE FLOW",
 Sought through prayer and meditation to improve our
 conscious contact with God as we understood Him. . . .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 96
@@ -6950,7 +6950,7 @@ interrupt the flow; my own negativity did.
 {
 "month": "NOVEMBER",
 "day": "7",
-LET GO AND LET GOD
+"title": "LET GO AND LET GOD",
 . . . praying only for knowledge of His will for us and the
 power to carry that out
 TWELVE STEPS AND TWELVE TRADITIONS, p. 96
@@ -6972,7 +6972,7 @@ victory over alcohol, in comfortable sobriety.
 {
 "month": "NOVEMBER",
 "day": "8",
-AN INDIVIDUAL ADVENTURE
+"title": "AN INDIVIDUAL ADVENTURE",
 Meditation is something which can always be further
 developed. It has no boundaries, either of width or height.
 Aided by such instruction and example as we can find, it is
@@ -6992,7 +6992,7 @@ life.
 {
 "month": "NOVEMBER",
 "day": "9",
-STEPPING INTO THE SUNLIGHT
+"title": "STEPPING INTO THE SUNLIGHT",
 But first of all we shall want sunlight; nothing much can
 grow in the dark. Meditation is our step out into the sun.
 AS BILL SEES IT, p. 10
@@ -7019,7 +7019,7 @@ my thoughts through silence.
 {
 "month": "NOVEMBER",
 "day": "10",
-A SENSE OF BELONGING
+"title": "A SENSE OF BELONGING",
 Perhaps one of the greatest rewards of meditation and
 prayer is the sense of belonging that comes to us.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 105
@@ -7037,7 +7037,7 @@ meditation are written right into our A.A. way of life.
 {
 "month": "NOVEMBER",
 "day": "11",
-SELF-ACCEPTANCE
+"title": "SELF-ACCEPTANCE",
 We know that God lovingly watches over us. We know that
 when we turn to Him, all will be well with us, here and
 hereafter.
@@ -7056,7 +7056,7 @@ caring for myself.
 {
 "month": "NOVEMBER",
 "day": "12",
-MORNING THOUGHTS
+"title": "MORNING THOUGHTS",
 Ask Him in your morning meditation what you can do each
 day for the man who is still sick
 ALCOHOLICS ANONYMOUS, p. 164
@@ -7075,7 +7075,7 @@ me in keeping my life in the context of the day at hand.
 {
 "month": "NOVEMBER",
 "day": "13",
-LOOKING OUTWARD
+"title": "LOOKING OUTWARD",
 We ask especially for freedom from self-will, and are
 careful to make no requests for ourselves only. We may ask
 for ourselves, however, if others will be helped We are
@@ -7095,7 +7095,7 @@ earthly attachments.
 {
 "month": "NOVEMBER",
 "day": "14",
-INTUITION AND INSPIRATION
+"title": "INTUITION AND INSPIRATION",
 . . we ask God for inspiration, an intuitive thought >r a
 decision. We relax and take it easy. We don't struggle.
 ALCOHOLICS ANONYMOUS, p. 86
@@ -7115,7 +7115,7 @@ compatible, a direct result of working Step Eleven.
 {
 "month": "NOVEMBER",
 "day": "15",
-VITAL SUSTENANCE
+"title": "VITAL SUSTENANCE",
 Those of us who have come to make regular use of prayer
 would no more do without it than we would refuse air, food,
 or sunshine. And for the same reason. When we refuse air,
@@ -7139,7 +7139,7 @@ become.
 {
 "month": "NOVEMBER",
 "day": "16",
-A DAILY REPRIEVE
+"title": "A DAILY REPRIEVE",
 What we really have is a daily reprieve contingent on the
 maintenance of our spiritual condition.
 ALCOHOLICS ANONYMOUS, p. 85
@@ -7164,7 +7164,7 @@ powerful illness.
 {
 "month": "NOVEMBER",
 "day": "17",
-OVERCOMING LONELINESS
+"title": "OVERCOMING LONELINESS",
 Almost without exception, alcoholics are tortured by
 loneliness Even before our drinking got bad and people
 began to cut us off, nearly all of us suffered the feeling that
@@ -7184,7 +7184,7 @@ through prayer and meditation.
 {
 "month": "NOVEMBER",
 "day": "18",
-A SAFETY NET
+"title": "A SAFETY NET",
 Occasionally. . . . We are seized with a rebellion so
 sickening that we simply won't pray. When these things
 happen we should not think too ill of ourselves. We should
@@ -7206,7 +7206,7 @@ letting go, to land in the net, and to pray.
 {
 "month": "NOVEMBER",
 "day": "19",
-'I WAS SLIPPING FAST'
+"title": "'I WAS SLIPPING FAST'",
 We A.A.'s are active folk, enjoying the satisfactions of
 dealing with the realities of life, . . . So it isn't surprising
 that we often tend to slight serious meditation and prayer as
@@ -7234,7 +7234,7 @@ compared to what I almost lost completely.
 {
 "month": "NOVEMBER",
 "day": "20",
-'THY WILL, NOT MINE'
+"title": "'THY WILL, NOT MINE'",
 . . . when making specific requests, it will be well to add to
 each one of them this qualification. '. . . if it be Thy will'
 TWELVE STEPS AND TWELVE TRADITIONS, p. 102
@@ -7256,7 +7256,7 @@ expectations.
 {
 "month": "NOVEMBER",
 "day": "21",
-A CLASSIC PRAYER
+"title": "A CLASSIC PRAYER",
 Lord, make me a channel for thy peace—that where there
 is hatred, I may bring love—that where there is wrong, I
 may bring the spirit of forgiveness—that where there is
@@ -7286,7 +7286,7 @@ will
 {
 "month": "NOVEMBER",
 "day": "22",
-ONLY TWO SINS
+"title": "ONLY TWO SINS",
 . . . there are only two sins; the first is to interfere with the
 growth of another human being, and the second is to
 interfere with one's own growth.
@@ -7308,7 +7308,7 @@ lack of growth today—or my own.
 {
 "month": "NOVEMBER",
 "day": "23",
-'HOLD YOUR FACE TO THE LIGHT'
+"title": "'HOLD YOUR FACE TO THE LIGHT'",
 Believe more deeply. Hold your face up to the Light, even
 though for the moment you do not see.
 AS BILL SEES IT, p. 3
@@ -7330,7 +7330,7 @@ Thank you, God, for the changing seasons and for my everchanging life.
 {
 "month": "NOVEMBER",
 "day": "24",
-A UNIVERSAL SEARCH
+"title": "A UNIVERSAL SEARCH",
 Be quick to see where religious people are right Make use
 of what they offer.
 ALCOHOLICS ANONYMOUS, p. 87
@@ -7349,7 +7349,7 @@ staying away from the first drink.
 {
 "month": "NOVEMBER",
 "day": "25",
-A POWERFUL TRADITION
+"title": "A POWERFUL TRADITION",
 In the years before the publication of the book, 'Alcoholics
 Anonymous,' we had no name. . . . By a narrow majority
 the verdict was for naming our book 'The Way Out' . . .
@@ -7379,7 +7379,7 @@ God was acting anonymously on our behalf.
 {
 "month": "NOVEMBER",
 "day": "26",
-THE HAZARDS OF PUBLICITY
+"title": "THE HAZARDS OF PUBLICITY",
 People who symbolize causes and ideas fill a deep human
 need. We of A.A. do not question that. But we do have to
 soberly face the fact that being in the public eye is
@@ -7404,7 +7404,7 @@ any I could make.
 {
 "month": "NOVEMBER",
 "day": "27",
-THE PERILS OF THE LIMELIGHT
+"title": "THE PERILS OF THE LIMELIGHT",
 In the beginning, the press could not understand our
 refusal of all personal publicity. They were genuinely
 baffled by our insistence upon anonymity. Then they got the
@@ -7432,7 +7432,7 @@ to the welfare of A.A. than self-promotion.
 {
 "month": "NOVEMBER",
 "day": "28",
-ATTRACTION, NOT PROMOTION
+"title": "ATTRACTION, NOT PROMOTION",
 Through many painful experiences, we think we have
 arrived at what that policy ought to be. It is the opposite in
 many ways of usual promotional practice. We found that we
@@ -7457,7 +7457,7 @@ through attraction, not promotion.
 {
 "month": "NOVEMBER",
 "day": "29",
-'ACTIVE GUARDIANS'
+"title": "'ACTIVE GUARDIANS'",
 To us, however, it represents far more than a sound public
 relations policy. It is more than a denial of self-seeking.
 This Tradition is a constant and practical reminder that
@@ -7480,7 +7480,7 @@ anonymous.
 {
 "month": "NOVEMBER",
 "day": "30",
-PROTECTION FOR ALL
+"title": "PROTECTION FOR ALL",
 At the personal level, anonymity provides protection or all
 members from identification as alcoholics, a safeguard
 often of special importance to newcomers, i t the level of
@@ -7505,7 +7505,7 @@ Anonymous is not anonymous, but its members should be.
 {
 "month": "DECEMBER",
 "day": "1",
-'SUGGESTED' STEPS
+"title": "'SUGGESTED' STEPS",
 Our Twelfth Step also says that as a result of practicing all
 the Steps, we have each found something called a spiritual
 awakening. . . . A. A.'s manner of making ready to receive
@@ -7527,7 +7527,7 @@ program of recovery based on all Twelve of the
 {
 "month": "DECEMBER",
 "day": "2",
-SERENITY
+"title": "SERENITY",
 Having had a spiritual awakening as the result of these steps, . .
 .
 TWELVE STEPS AND TWELVE TRADITIONS, p. 106
@@ -7548,7 +7548,7 @@ awareness that I am no longer alone.
 {
 "month": "DECEMBER",
 "day": "3",
-IN ALL OUR AFFAIRS
+"title": "IN ALL OUR AFFAIRS",
 . . . we tried to carry this message to alcoholics, and to
 practice these principles in all our affairs.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 106
@@ -7572,7 +7572,7 @@ situations and all people!
 {
 "month": "DECEMBER",
 "day": "4",
-INTO ACTION
+"title": "INTO ACTION",
 A. A. is more than a set of principles; it is a society of
 alcoholics in action. We must carry the message, else we
 ourselves can wither and those who haven't been given the
@@ -7601,7 +7601,7 @@ there—sober.
 {
 "month": "DECEMBER",
 "day": "5",
-A NEW STATE OF CONSCIOUSNESS
+"title": "A NEW STATE OF CONSCIOUSNESS",
 He has been granted a gift which amounts to a new state of
 consciousness and being.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 107
@@ -7620,7 +7620,7 @@ devotion with which I practice the Twelve Steps of A.A.
 {
 "month": "DECEMBER",
 "day": "6",
-WHEN THE CHIPS ARE DOWN
+"title": "WHEN THE CHIPS ARE DOWN",
 When we developed still more, we discovered the best
 possible source of emotional stability to be God Himself.
 We found that dependence upon His perfect justice,
@@ -7643,7 +7643,7 @@ my daily spiritual health.
 {
 "month": "DECEMBER",
 "day": "7",
-TRUE AMBITION
+"title": "TRUE AMBITION",
 True ambition is not what we thought it was. True ambition
 is the deep desire to live usefully and walk humbly under
 the grace of God.
@@ -7668,7 +7668,7 @@ to God, who has so generously shed His grace on me.
 {
 "month": "DECEMBER",
 "day": "8",
-SERVICE
+"title": "SERVICE",
 Life will take on new meaning. To watch people re-over, to
 see them help others, to watch loneliness vanish, to see a
 fellowship grow up about you, to have host of friends—this
@@ -7691,7 +7691,7 @@ truest sense, in open channel of sobriety.
 {
 "month": "DECEMBER",
 "day": "9",
-LOVE WITH NO PRICE TAG
+"title": "LOVE WITH NO PRICE TAG",
 When the Twelfth Step is seen in its full implication, it is
 really talking about the kind of love that has no price tag on
 it
@@ -7719,7 +7719,7 @@ God reminds me that I can feel compassion!
 {
 "month": "DECEMBER",
 "day": "10",
-CARRYING THE MESSAGE
+"title": "CARRYING THE MESSAGE",
 Now, what about the rest of the Twelfth Step? The
 wonderful energy it releases and the eager action by which
 it carries our message to the next suffering alcoholic and
@@ -7741,7 +7741,7 @@ not design.
 {
 "month": "DECEMBER",
 "day": "11",
-'A GENUINE HUMILITY'
+"title": "'A GENUINE HUMILITY'",
 . . . we are actually to practice a genuine humility. This is
 to the end that our great blessings may never spoil us; that
 we shall forever live in thankful contemplation of Him who
@@ -7766,7 +7766,7 @@ ourselves.'
 {
 "month": "DECEMBER",
 "day": "12",
-A COMMON SOLUTION
+"title": "A COMMON SOLUTION",
 The tremendous fact for every one of us is that we have
 discovered a common solution. We have a way out on
 which we can absolutely agree, and upon which we can
@@ -7792,7 +7792,7 @@ automatically.
 {
 "month": "DECEMBER",
 "day": "13",
-THINKING OF OTHERS
+"title": "THINKING OF OTHERS",
 Our very lives, as ex-problem drinkers, depend upon our
 constant thought of others and how we may help meet their
 needs.
@@ -7812,7 +7812,7 @@ to others that I can begin to attain the serenity and Godconsciousness I seek.
 {
 "month": "DECEMBER",
 "day": "14",
-REACHING OUT
+"title": "REACHING OUT",
 Never talk down to an alcoholic from any moral or
 spiritual hilltop; simply lay out the kit of spiritual looks for
 his inspection. Show him how they worked with you.
@@ -7836,7 +7836,7 @@ and to show her or him the way to happiness.
 {
 "month": "DECEMBER",
 "day": "15",
-DOING ANYTHING TO HELP
+"title": "DOING ANYTHING TO HELP",
 Offer him [the alcoholic] friendship and fellowship. Tell
 him that if he wants to get well you will do anything to
 help.
@@ -7854,7 +7854,7 @@ their open-minded generosity.
 {
 "month": "DECEMBER",
 "day": "16",
-PARTNERS IN RECOVERY
+"title": "PARTNERS IN RECOVERY",
 . . nothing will so much insure immunity from finking as
 intensive work with other alcoholics. . . Both you and the
 new man must walk day by ay in the path of spiritual
@@ -7874,7 +7874,7 @@ helpful o others.
 {
 "month": "DECEMBER",
 "day": "17",
-A PRICELESS REWARD
+"title": "A PRICELESS REWARD",
 . . . work with other alcoholics. . . . It work when other
 activities fail.
 ALCOHOLICS ANONYMOUS, p. 8
@@ -7893,7 +7893,7 @@ meaning.
 {
 "month": "DECEMBER",
 "day": "18",
-HONESTY WITH NEWCOMERS
+"title": "HONESTY WITH NEWCOMERS",
 'ell him exactly what happened to you. Stress the spiritual
 feature freely.
 ALCOHOLICS ANONYMOUS, p. 93
@@ -7912,7 +7912,7 @@ makes it possible for me to share with others.
 {
 "month": "DECEMBER",
 "day": "19",
-UNDERSTANDING THE MALADY
+"title": "UNDERSTANDING THE MALADY",
 When dealing with an alcoholic, there may be a natural
 annoyance that a man could be so weak, stupid and
 irresponsible. Even when you understand the malady
@@ -7929,7 +7929,7 @@ must remember, but for the grace of God, there go I.
 {
 "month": "DECEMBER",
 "day": "20",
-THE REWARDS OF GIVING
+"title": "THE REWARDS OF GIVING",
 This is indeed the kind of giving that actually demands
 nothing. He does not expect his brother sufferer to pay him,
 or even to love him. And then he discovers that by the
@@ -7950,7 +7950,7 @@ the rewards of selfless giving.
 {
 "month": "DECEMBER",
 "day": "21",
-LISTEN, SHARE AND PRAY
+"title": "LISTEN, SHARE AND PRAY",
 When working with a man and his family, you should take
 care not to participate in their quarrels. You may spoil
 your chance of being helpful if you do.
@@ -7967,7 +7967,7 @@ experience, and pray for others.
 {
 "month": "DECEMBER",
 "day": "22",
-PRINCIPLES, NOT PERSONALITIES
+"title": "PRINCIPLES, NOT PERSONALITIES",
 The way our 'worthy' alcoholics have sometimes tried to
 judge the 'less worthy' is, as we look back on it, rather
 comical. Imagine, if you can, one alcoholic judging
@@ -7989,7 +7989,7 @@ principles above personalities.
 {
 "month": "DECEMBER",
 "day": "23",
-RECOVERY, UNITY, SERVICE
+"title": "RECOVERY, UNITY, SERVICE",
 Our Twelfth Step—carrying the message—is the basic
 service that AA's Fellowship gives; this is our principal aim
 and the main reason for our existence.
@@ -8012,7 +8012,7 @@ A.A. principles.
 {
 "month": "DECEMBER",
 "day": "24",
-A 'SANE AND HAPPY USEFULNESS'
+"title": "A 'SANE AND HAPPY USEFULNESS'",
 We have come to believe He would like us to keep our heads
 in the clouds with Him, but that our feet ought to be firmly
 planted on earth. That is where our fellow travelers are,
@@ -8032,7 +8032,7 @@ I move aside, and allow Him to step into it.
 {
 "month": "DECEMBER",
 "day": "25",
-AT PEACE WITH LIFE
+"title": "AT PEACE WITH LIFE",
 Every day is a day when we must carry the vision of God's
 will into all of our activities 'How can I best serve Thee—
 Thy will (not mine) be done.'
@@ -8049,7 +8049,7 @@ with God.
 {
 "month": "DECEMBER",
 "day": "26",
-ACCEPTING SUCCESS OR FAILURE
+"title": "ACCEPTING SUCCESS OR FAILURE",
 Furthermore, how shall we come to terms with seeming
 failure or success? Can we now accept and adjust to either
 without despair or pride? Can we accept poverty, sickness,
@@ -8078,7 +8078,7 @@ living.
 {
 "month": "DECEMBER",
 "day": "27",
-PROBLEM SOLVING
+"title": "PROBLEM SOLVING",
 'Quite as important was the discovery that spiritual
 principles would solve all my problems.'
 ALCOHOLICS ANONYMOUS, p. 42
@@ -8100,7 +8100,7 @@ useful.
 {
 "month": "DECEMBER",
 "day": "28",
-SUIT UP AND SHOW UP
+"title": "SUIT UP AND SHOW UP",
 In A.A. we aim not only for sobriety—we try again to
 become citizens of the world that we rejected, and of the
 world that once rejected us. This is the ultimate
@@ -8122,7 +8122,7 @@ return to normal living.
 {
 "month": "DECEMBER",
 "day": "29",
-THE JOY OF LIVING
+"title": "THE JOY OF LIVING",
 . . . therefore the joy of good living is the theme of A.A.'s
 Twelfth Step.
 TWELVE STEPS AND TWELVE TRADITIONS, p. 125
@@ -8140,7 +8140,7 @@ power of joyfulness to help all members of A.A.
 {
 "month": "DECEMBER",
 "day": "30",
-ANONYMITY
+"title": "ANONYMITY",
 Anonymity is the spiritual foundation of all our Traditions,
 ever reminding us to place principles before personalities.
 ALCOHOLICS ANONYMOUS, p. 564
@@ -8166,7 +8166,7 @@ when I needed them.
 {
 "month": "DECEMBER",
 "day": "31",
-DAILY RESOLUTIONS
+"title": "DAILY RESOLUTIONS",
 The idea of 'twenty-four-hour living' applies primarily to
 the emotional life of the individual. Emotionally speaking,
 we must not live in yesterday, nor in tomorrow.
