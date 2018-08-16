@@ -1,3 +1,4 @@
+{ "daily reflections": [
 {
 "month": "JANUARY",
 "day": "1",
@@ -18,6 +19,7 @@ and rely on God was something I could never have done
 alone. I now believe in miracles because I am one!
 
 }
+,
 {
 "month": "JANUARY",
 "day": "2",
@@ -39,6 +41,7 @@ the more I built, the more comfortable, and happy, was the
 home I now have to live in.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "3",
@@ -62,6 +65,7 @@ power to exert a positive influence on myself, my loved
 ones, and the world in which I live.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "4",
@@ -86,6 +90,7 @@ real test of the effectiveness of my walk through A.A.'s
 Twelve Steps.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "5",
@@ -109,6 +114,7 @@ unlike anything I had ever faced, but as I found out later on,
 a necessary one if I was to succeed in this program.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "6",
@@ -131,6 +137,7 @@ to me. When I stopped fighting anybody or anything, I
 started on the path to sobriety, serenity and peace.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "7",
@@ -159,6 +166,7 @@ God for help, with complete abandon, that I become
 willing—and able—to change.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "8",
@@ -178,6 +186,7 @@ pick up a drink today, where then would be my need for
 A.A. or a Higher Power?
 
 }
+,
 {
 "month": "JANUARY",
 "day": "9",
@@ -204,6 +213,7 @@ for me—one day at a time—in the life-saving, life-giving
 Fellowship of Alcoholics Anonymous.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "10",
@@ -226,6 +236,7 @@ linked to every other, much like the survivors on a life raft
 at sea. If we all work together, we can get safely to shore.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "11",
@@ -249,6 +260,7 @@ learned that Step One is the only Step that can be taken
 and I haven't had to take Step One again.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "12",
@@ -275,6 +287,7 @@ presents me. The thought allows me to be human and not
 perfect, and to regain my peace of mind.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "13",
@@ -299,6 +312,7 @@ mercy and blessings that shine through any problem I have
 to face.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "14",
@@ -321,6 +335,7 @@ God's love and of the help I can give to others in the
 Fellowship.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "15",
@@ -344,6 +359,7 @@ recognize until I achieved daily sobriety through living
 A.A.'s Twelve Steps.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "16",
@@ -373,6 +389,7 @@ training wheels and supporting hand that I choose to call
 Alcoholics Anonymous.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "17",
@@ -396,6 +413,7 @@ own sobriety has been recharged with indescribable
 gratitude and happiness.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "18",
@@ -417,6 +435,7 @@ drinking—or again I will think I have gained control of my
 life. Such a feeling of control is fatal to my recovery.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "19",
@@ -438,6 +457,7 @@ Without this omnipotent force in my every activity, I would
 again fall into the depths of my disease—and death.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "20",
@@ -463,6 +483,7 @@ today and hope it trusts me to make all effort to find the
 right thought or action today.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "21",
@@ -488,6 +509,7 @@ to respond from a perspective of composure, strength and
 sensibility.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "22",
@@ -509,6 +531,7 @@ again that, while it isn't always easy, if I keep it simple, it
 works.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "23",
@@ -536,6 +559,7 @@ spot-check inventory, for example, or the making of
 amends, whatever is appropriate—are well worth the effort.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "24",
@@ -557,6 +581,7 @@ service is this: when I use what I have, I find there is more
 available to me than I realized before.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "25",
@@ -584,6 +609,7 @@ back. Tradition Three insured that we would get what we
 need—each other.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "26",
@@ -608,6 +634,7 @@ fatal nature of my situation? What must I do, today, to stay
 sober?
 
 }
+,
 {
 "month": "JANUARY",
 "day": "27",
@@ -631,6 +658,7 @@ myself. With the help of the Twelve Steps, I am able to
 build a better life, free of guilt and the need for selfjustification.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "28",
@@ -652,6 +680,7 @@ compassionate hand, and know that the grace of God is
 available to me.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "29",
@@ -672,6 +701,7 @@ have for me, if they seize the opportunity and embrace the
 program fully.
 
 }
+,
 {
 "month": "JANUARY",
 "day": "30",
@@ -695,6 +725,7 @@ but the new freedom that allows fulfillment of the promises
 in my life. What a joy to be free!
 
 }
+,
 {
 "month": "JANUARY",
 "day": "31",
@@ -721,6 +752,7 @@ remember that the whole is greater than the sum of all its
 parts.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "1",
@@ -744,6 +776,7 @@ solutions—a Power greater than myself had given them to
 me. I came to believe.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "2",
@@ -767,6 +800,7 @@ and women of A.A. I had to surrender, for only by reaching
 out to God and my fellows could I be rescued.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "3",
@@ -796,6 +830,7 @@ love. There is only one equation which really matters to me
 now: God is in A.A.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "4",
@@ -817,6 +852,7 @@ A.A. program; the alternatives were too bleak! I kept
 coming back and gradually my faith was resurrected.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "5",
@@ -840,6 +876,7 @@ To rid myself of the former, I must give up the latter to one
 with far broader shoulders than my own.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "6",
@@ -861,6 +898,7 @@ should seek to do His will by living spiritual principles and
 my reward will be sanity and emotional sobriety.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "7",
@@ -882,6 +920,7 @@ lifted. I am no longer afraid. I know my life is healthy and
 sane.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "8",
@@ -905,6 +944,7 @@ member is permanent sobriety, achieved One Day at a
 Time.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "9",
@@ -929,6 +969,7 @@ brought about an inner peace and feeling of belonging
 which was missing when I was drinking.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "10",
@@ -951,6 +992,7 @@ God and A.A., it is working. This seems to be a simple
 thought for a complicated alcoholic.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "11",
@@ -971,6 +1013,7 @@ over me. I frequently ask God to help me understand how I
 separate myself from Him.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "12",
@@ -990,6 +1033,7 @@ me and God will one day vanish. In the meantime, faith
 must serve as the pathway to the center of my life.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "13",
@@ -1010,6 +1054,7 @@ a power greater than myself who will restore me to
 sanity—not a high IQ or a college degree.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "14",
@@ -1034,6 +1079,7 @@ right things I know how to do, no matter what; do I take
 time to share my faith and blessings with others?
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "15",
@@ -1053,6 +1099,7 @@ action and working the Twelve Steps in all my affairs, I'll
 have a life beyond my wildest dreams.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "16",
@@ -1074,6 +1121,7 @@ those I love), was one in which I imposed on myself an
 effort of commitment, discipline, and responsibility.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "17",
@@ -1098,6 +1146,7 @@ been in trouble before I came to A.A. I know today that He
 was the one who led me to A.A. and that I am a miracle.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "18",
@@ -1123,6 +1172,7 @@ towards life, people, and towards anything having to do
 with God, has been transformed and improved.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "19",
@@ -1148,6 +1198,7 @@ practice being just another alcoholic in the worldwide
 Fellowship of Alcoholics Anonymous.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "20",
@@ -1169,6 +1220,7 @@ taught those I sponsor to laugh also. Every day I ask God to
 help me stop taking myself too seriously.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "21",
@@ -1194,6 +1246,7 @@ attracted me and I wanted what they had. Suddenly the
 'they' became 'we.' I have not had a drink since.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "22",
@@ -1216,6 +1269,7 @@ development of His character in me. Quickly or not so
 quickly, I grow toward His own image and likeness.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "23",
@@ -1239,6 +1293,7 @@ given hope and dignity. Miraculously, the only way to keep
 the gifts of the program is to pass them on.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "24",
@@ -1263,6 +1318,7 @@ of the A.A. way of life. A.A. is not something I joined; it's
 something I live.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "25",
@@ -1281,6 +1337,7 @@ obedience, growth started, followed by gratitude. Yes, then
 came peace of mind—living in and sharing sobriety.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "26",
@@ -1303,6 +1360,7 @@ direction and strength with which to make it mine. The joy
 of A.A. is that this new reality is available to me.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "27",
@@ -1332,6 +1390,7 @@ gratitude for the strength I receive in a Fellowship that
 truly exists for the good of all members.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "28",
@@ -1355,6 +1414,7 @@ for the wisdom of the early founders who knew so well the
 alcoholic's disdain for being manipulated.
 
 }
+,
 {
 "month": "FEBRUARY",
 "day": "29",
@@ -1382,6 +1442,7 @@ not have, my life has been given meaning, direction and
 purpose.
 
 }
+,
 {
 "month": "MARCH",
 "day": "1",
@@ -1405,6 +1466,7 @@ program, gives me the serenity that I seek. It works—it
 really does.
 
 }
+,
 {
 "month": "MARCH",
 "day": "2",
@@ -1430,6 +1492,7 @@ is far greater than any fear before me. May I always have
 patience, for I am on the right road.
 
 }
+,
 {
 "month": "MARCH",
 "day": "3",
@@ -1456,6 +1519,7 @@ understand that my serenity was directly proportional to
 them, I could not experience serenity and sound sobriety.
 
 }
+,
 {
 "month": "MARCH",
 "day": "4",
@@ -1478,6 +1542,7 @@ the growing vegetables and flowers are, and my labors are
 rewarded. My sobriety grows and bears fruit.
 
 }
+,
 {
 "month": "MARCH",
 "day": "5",
@@ -1495,6 +1560,7 @@ months' work, or so I thought! I realize now that living the
 Twelve Steps of A.A. is a lifelong undertaking.
 
 }
+,
 {
 "month": "MARCH",
 "day": "6",
@@ -1519,6 +1585,7 @@ my disease. These are ways I slowly move toward faith in a
 Higher Power.
 
 }
+,
 {
 "month": "MARCH",
 "day": "7",
@@ -1541,6 +1608,7 @@ my worries and fears are powerfully transformed into
 serenity.
 
 }
+,
 {
 "month": "MARCH",
 "day": "8",
@@ -1569,6 +1637,7 @@ life, to have self-respect, and to keep both of these attitudes
 by giving away what I receive.
 
 }
+,
 {
 "month": "MARCH",
 "day": "9",
@@ -1597,6 +1666,7 @@ When my will is in line with God's will for me, there is
 peace within.
 
 }
+,
 {
 "month": "MARCH",
 "day": "10",
@@ -1618,6 +1688,7 @@ sanity. I am responsible for my action—or inaction—
 whatever the consequences may be.
 
 }
+,
 {
 "month": "MARCH",
 "day": "11",
@@ -1648,6 +1719,7 @@ expect. God does do for me what I cannot do for myself, if
 I let Him.
 
 }
+,
 {
 "month": "MARCH",
 "day": "12",
@@ -1667,6 +1739,7 @@ the awareness that I can start my day over any time I
 choose; a hundred times, if necessary.
 
 }
+,
 {
 "month": "MARCH",
 "day": "13",
@@ -1693,6 +1766,7 @@ lifelong process. My goal is spiritual growth, accepting that
 I'll never have spiritual perfection.
 
 }
+,
 {
 "month": "MARCH",
 "day": "14",
@@ -1715,6 +1789,7 @@ arch waiting for me to pass through to another day of
 freedom.
 
 }
+,
 {
 "month": "MARCH",
 "day": "15",
@@ -1736,6 +1811,7 @@ replace it with the steadying strength that could only come
 from a Power far greater than myself.
 
 }
+,
 {
 "month": "MARCH",
 "day": "16",
@@ -1765,6 +1841,7 @@ believe and I have had 26 years of stable and satisfying
 sobriety.
 
 }
+,
 {
 "month": "MARCH",
 "day": "17",
@@ -1793,6 +1870,7 @@ my powerlessness and the unmanageability of my life.
 Today my son and I thank God for His intervention.
 
 }
+,
 {
 "month": "MARCH",
 "day": "18",
@@ -1817,6 +1895,7 @@ never will be another exactly like me. And that is real
 independence.
 
 }
+,
 {
 "month": "MARCH",
 "day": "19",
@@ -1839,6 +1918,7 @@ or what, listens to my prayers, but I'd never stop saying
 them for the simple reason that they work.
 
 }
+,
 {
 "month": "MARCH",
 "day": "20",
@@ -1860,6 +1940,7 @@ other problems that have nothing to do with my original
 problem.
 
 }
+,
 {
 "month": "MARCH",
 "day": "21",
@@ -1887,6 +1968,7 @@ life's purpose is much clearer when I just work to help, not
 to possess.
 
 }
+,
 {
 "month": "MARCH",
 "day": "22",
@@ -1908,6 +1990,7 @@ whether acceptance—or change—is required. It is not my
 will, but His, that needs doing.
 
 }
+,
 {
 "month": "MARCH",
 "day": "23",
@@ -1932,6 +2015,7 @@ God. I hope God is as happy with His gift as I am with
 mine.
 
 }
+,
 {
 "month": "MARCH",
 "day": "24",
@@ -1955,6 +2039,7 @@ Above all, if I do not make a religion out of anything, even
 A.A., then I can be an open channel for God's expression.
 
 }
+,
 {
 "month": "MARCH",
 "day": "25",
@@ -1979,6 +2064,7 @@ our Fellowship, my family and my community. For all of
 this, I have 'a full and thankful heart.'
 
 }
+,
 {
 "month": "MARCH",
 "day": "26",
@@ -2002,6 +2088,7 @@ blessing—the teaching is never over, I'm never on my own,
 and every day is brand new.
 
 }
+,
 {
 "month": "MARCH",
 "day": "27",
@@ -2024,6 +2111,7 @@ and which is so dearly needed to support an enduring
 sobriety.
 
 }
+,
 {
 "month": "MARCH",
 "day": "28",
@@ -2047,6 +2135,7 @@ member; we're just alcoholics trying to recover from
 alcoholism.
 
 }
+,
 {
 "month": "MARCH",
 "day": "29",
@@ -2076,6 +2165,7 @@ speaks to me, saying: You must let go in service. There are
 others who must plant and harvest.
 
 }
+,
 {
 "month": "MARCH",
 "day": "30",
@@ -2103,6 +2193,7 @@ and thus relish the joys of living my twenty-four hour
 program.
 
 }
+,
 {
 "month": "MARCH",
 "day": "31",
@@ -2127,6 +2218,7 @@ life would be meaningless. I am full of gratitude to be a
 member of good standing in Alcoholics Anonymous.
 
 }
+,
 {
 "month": "APRIL",
 "day": "1",
@@ -2151,6 +2243,7 @@ When I don't avoid issues but meet them directly, always
 trying to resolve them, they become fewer and fewer.
 
 }
+,
 {
 "month": "APRIL",
 "day": "2",
@@ -2176,6 +2269,7 @@ concerned about my reputation. Since being enlightened in
 the A.A. program, my aim is to improve my character.
 
 }
+,
 {
 "month": "APRIL",
 "day": "3",
@@ -2199,6 +2293,7 @@ differences; from there, recovery is just a short distance
 ahead.
 
 }
+,
 {
 "month": "APRIL",
 "day": "4",
@@ -2221,6 +2316,7 @@ but with each cycle of my recovery, the light grows stronger
 and my vision is clearer.
 
 }
+,
 {
 "month": "APRIL",
 "day": "5",
@@ -2244,6 +2340,7 @@ alcoholic today is that I'm learning this most important
 lesson.
 
 }
+,
 {
 "month": "APRIL",
 "day": "6",
@@ -2272,6 +2369,7 @@ became less volatile. I am now once again a part of the
 human family.
 
 }
+,
 {
 "month": "APRIL",
 "day": "7",
@@ -2288,6 +2386,7 @@ this and try to see the plan my Higher Power is showing me
 which links our lives together.
 
 }
+,
 {
 "month": "APRIL",
 "day": "8",
@@ -2311,6 +2410,7 @@ or until I do, I will always be running, and never be truly
 free. I ask God daily to show me such a freedom!
 
 }
+,
 {
 "month": "APRIL",
 "day": "9",
@@ -2335,6 +2435,7 @@ willingness and action keep me free—in a kind of extended
 daily probation—that need never end.
 
 }
+,
 {
 "month": "APRIL",
 "day": "10",
@@ -2355,6 +2456,7 @@ results. Being a little kinder, a little slower to anger, a little
 more loving makes my life better— day by day.
 
 }
+,
 {
 "month": "APRIL",
 "day": "11",
@@ -2379,6 +2481,7 @@ worked on my inventory, that I could no longer blame
 anyone.
 
 }
+,
 {
 "month": "APRIL",
 "day": "12",
@@ -2397,6 +2500,7 @@ I ask God to help me understand and accept the full
 meaning of the disease of alcoholism.
 
 }
+,
 {
 "month": "APRIL",
 "day": "13",
@@ -2419,6 +2523,7 @@ my empathy with them, I will lessen my own exaggerated
 suffering.
 
 }
+,
 {
 "month": "APRIL",
 "day": "14",
@@ -2440,6 +2545,7 @@ the sunlight. I must let go of resentments; I cannot afford
 them.
 
 }
+,
 {
 "month": "APRIL",
 "day": "15",
@@ -2463,6 +2569,7 @@ freedom and rejoice in the sunlight of the Steps, as they
 cleanse the spirit within me.
 
 }
+,
 {
 "month": "APRIL",
 "day": "16",
@@ -2484,6 +2591,7 @@ Thank God I can't afford them—or I surely would indulge
 in them.
 
 }
+,
 {
 "month": "APRIL",
 "day": "17",
@@ -2508,6 +2616,7 @@ most, there was no joy in my life. As I learned not to fear
 God, I also learned to experience joy.
 
 }
+,
 {
 "month": "APRIL",
 "day": "18",
@@ -2532,6 +2641,7 @@ Power is the only solid foundation I've found for honesty
 with self and with others.
 
 }
+,
 {
 "month": "APRIL",
 "day": "19",
@@ -2554,6 +2664,7 @@ even cared. The Fellowship of A.A., and God, are teaching
 me how to care about others.
 
 }
+,
 {
 "month": "APRIL",
 "day": "20",
@@ -2574,6 +2685,7 @@ When I eliminate thoughts of self-pity, dishonesty and selfcenteredness as soon 
 with God, my neighbor and myself.
 
 }
+,
 {
 "month": "APRIL",
 "day": "21",
@@ -2595,6 +2707,7 @@ cultivating the power of faith. Fear blocks my appreciation
 of beauty, tolerance, forgiveness, service, and serenity.
 
 }
+,
 {
 "month": "APRIL",
 "day": "22",
@@ -2606,7 +2719,7 @@ despite the high winds of the forces which would destroy
 us, or which we would use to destroy ourselves.
 AS BILL SEES IT, p. 173
 
-[ came to A.A. green—a seedling quivering with exposed
+I came to A.A. green—a seedling quivering with exposed
 taproots. It was for survival but it was a >beginning. I
 stretched, developed, twisted, but with he help of others,
 my spirit eventually burst up from the roots. I was free. I
@@ -2620,6 +2733,7 @@ of higher love. My A.A. life put me 'on a different footing
 p. 12).
 
 }
+,
 {
 "month": "APRIL",
 "day": "23",
@@ -2642,6 +2756,7 @@ enhance my sobriety. A.A. may not be a cure-all for
 everything, but it is the center of my sober living.
 
 }
+,
 {
 "month": "APRIL",
 "day": "24",
@@ -2664,6 +2779,7 @@ become my own best friend, and then, when I was able to
 love myself, I could reach out and love others.
 
 }
+,
 {
 "month": "APRIL",
 "day": "25",
@@ -2687,6 +2803,7 @@ heart heard what my mind never could: 'Being powerless
 over alcohol is no big deal.' I'm free and I'm grateful!
 
 }
+,
 {
 "month": "APRIL",
 "day": "26",
@@ -2710,6 +2827,7 @@ When happiness comes, we accept it as a gift, and thank
 God for it.' (As Bill Sees It, p. 306)
 
 }
+,
 {
 "month": "APRIL",
 "day": "27",
@@ -2733,6 +2851,7 @@ everyday joys found in being able to live another day in
 God's grace.
 
 }
+,
 {
 "month": "APRIL",
 "day": "28",
@@ -2757,6 +2876,7 @@ to pray, and care for my fellow man as if each one were my
 brother.
 
 }
+,
 {
 "month": "APRIL",
 "day": "29",
@@ -2781,6 +2901,7 @@ spiritual direction, in spite of my alcoholic inclinations.
 Tradition Four.
 
 }
+,
 {
 "month": "APRIL",
 "day": "30",
@@ -2803,6 +2924,7 @@ the grace of the Higher Power, and both of us are on the
 road to a happy destiny.
 
 }
+,
 {
 "month": "MAY",
 "day": "1",
@@ -2829,6 +2951,7 @@ future. What I will be tomorrow is determined by what I
 think today.
 
 }
+,
 {
 "month": "MAY",
 "day": "2",
@@ -2849,6 +2972,7 @@ will this day be a part of me, because it is the key, not the
 lock.
 
 }
+,
 {
 "month": "MAY",
 "day": "3",
@@ -2870,6 +2994,7 @@ just an introduction to what was yet to come in the
 remaining seven Steps.
 
 }
+,
 {
 "month": "MAY",
 "day": "4",
@@ -2887,6 +3012,7 @@ dealings and to know that God's plan for me comes true
 through honest openness and willingness.
 
 }
+,
 {
 "month": "MAY",
 "day": "5",
@@ -2908,6 +3034,7 @@ I ask God, when I'm in the forest, to give me the courage
 to call upon a member of A.A.
 
 }
+,
 {
 "month": "MAY",
 "day": "6",
@@ -2932,6 +3059,7 @@ I believe that if I seek God I can find a better way to live
 and I ask Him daily to assist me in living a sober life.
 
 }
+,
 {
 "month": "MAY",
 "day": "7",
@@ -2954,6 +3082,7 @@ divine guidance before choosing the man or woman whom
 I take into my confidence.
 
 }
+,
 {
 "month": "MAY" 8 ________________________________________
 A RESTING PLACE
@@ -2979,6 +3108,7 @@ being at one with God and my fellow man brought me to a
 resting place where I could prepare myself for the remaining Steps toward a full and meaningful sobriety.
 
 }
+,
 {
 "month": "MAY",
 "day": "9",
@@ -3006,6 +3136,7 @@ Twelve Steps to recovery. God helps those who help
 themselves.
 
 }
+,
 {
 "month": "MAY" 10 ______________________________________
 FREE AT LAST
@@ -3026,6 +3157,7 @@ day at a time. I found that God could do for me what I
 couldn't do for myself.
 
 }
+,
 {
 "month": "MAY",
 "day": "11",
@@ -3044,6 +3176,7 @@ never experienced before. I am in awe of the power of Step
 Five.
 
 }
+,
 {
 "month": "MAY",
 "day": "12",
@@ -3067,6 +3200,7 @@ only through my actions and the help of my fellow
 alcoholics.
 
 }
+,
 {
 "month": "MAY",
 "day": "13",
@@ -3084,6 +3218,7 @@ these Steps to freedom from our fatal disease, and to put
 our faith in the Fellowship and our Higher Power.
 
 }
+,
 {
 "month": "MAY",
 "day": "14",
@@ -3106,6 +3241,7 @@ the Steps. I need the Fifth Step to learn true humility.
 Easier methods do not work.
 
 }
+,
 {
 "month": "MAY",
 "day": "15",
@@ -3122,6 +3258,7 @@ No God; No
 peace.
 
 }
+,
 {
 "month": "MAY",
 "day": "16",
@@ -3140,6 +3277,7 @@ about my emotional, psychological and spiritual nature.
 All it takes is willingness to forgive; 5od will do the rest.
 
 }
+,
 {
 "month": "MAY",
 "day": "17",
@@ -3159,6 +3297,7 @@ understand Him— be lifted. It is as a result of this solution
 that I can find the necessary grace which enables me to forgive myself and others.
 
 }
+,
 {
 "month": "MAY",
 "day": "18",
@@ -3177,6 +3316,7 @@ happiness. I had a new freedom today, the freedom to be
 me. I have the freedom to be the best me I have ever been.
 
 }
+,
 {
 "month": "MAY",
 "day": "19",
@@ -3199,6 +3339,7 @@ understanding and I give that love to my fellow alcoholic, I
 feel a special richness that is hard to explain.
 
 }
+,
 {
 "month": "MAY",
 "day": "20",
@@ -3220,6 +3361,7 @@ the end of the day, I have the reward of achievement.
 Achievement feels good and that makes me want more!
 
 }
+,
 {
 "month": "MAY",
 "day": "21",
@@ -3241,6 +3383,7 @@ day. When I remember my gratitude list, it's very hard to
 conclude that God is picking on me.
 
 }
+,
 {
 "month": "MAY",
 "day": "22",
@@ -3262,6 +3405,7 @@ alcoholic I have a divine purpose in my life . . . I have
 become a channel for God's healing love.
 
 }
+,
 {
 "month": "MAY",
 "day": "23",
@@ -3286,6 +3430,7 @@ better I get, the more I discover how much help I need from
 others.
 
 }
+,
 {
 "month": "MAY",
 "day": "24",
@@ -3309,6 +3454,7 @@ hanging onto my old ideas and ' . . . the results are
 nil.'
 
 }
+,
 {
 "month": "MAY",
 "day": "25",
@@ -3333,6 +3479,7 @@ principles in all my affairs. I am grateful for the chance to
 carry the message today!
 
 }
+,
 {
 "month": "MAY",
 "day": "26",
@@ -3355,6 +3502,7 @@ program. Simple truths come in complicated ways to me
 when I become ego driven.
 
 }
+,
 {
 "month": "MAY",
 "day": "27",
@@ -3375,6 +3523,7 @@ and present. A.A. is 'Praise God' for the progress I am
 making today.
 
 }
+,
 {
 "month": "MAY",
 "day": "28",
@@ -3403,6 +3552,7 @@ teachers. When I think of some of my past judgments, it is
 clear how my self-righteousness caused me spiritual harm.
 
 }
+,
 {
 "month": "MAY",
 "day": "29",
@@ -3423,6 +3573,7 @@ practicing the Third Tradition by tolerating and accepting
 me. I feel acceptance is love and love is God's will for us.
 
 }
+,
 {
 "month": "MAY",
 "day": "30",
@@ -3443,6 +3594,7 @@ no monopoly on miracle-making and I remain humbly
 grateful to a loving God who made A.A. possible.
 
 }
+,
 {
 "month": "MAY",
 "day": "31",
@@ -3466,6 +3618,7 @@ frees me to share my gifts of wellness through a spirit of
 readiness to serve others.
 
 }
+,
 {
 "month": "JUNE",
 "day": "1",
@@ -3486,6 +3639,7 @@ and help others to achieve sobriety. My attitude now is that
 I am willing to go to any length to stay sober!
 
 }
+,
 {
 "month": "JUNE",
 "day": "2",
@@ -3509,6 +3663,7 @@ my soul. When I speak of this journey, I share my
 experience, strength and hope with others.
 
 }
+,
 {
 "month": "JUNE",
 "day": "3",
@@ -3536,6 +3691,7 @@ myself, nothing, I ask God to grant me the knowledge of
 His will and the power and courage to carry it out—today.
 
 }
+,
 {
 "month": "JUNE",
 "day": "4",
@@ -3565,6 +3721,7 @@ we ask God to help us be willing.' (Alcoholics Anonymous,
 p. 76)
 
 }
+,
 {
 "month": "JUNE",
 "day": "5",
@@ -3588,6 +3745,7 @@ motivated and if my knowledge and will are limited—then
 I am ready to embrace God's will for my life.
 
 }
+,
 {
 "month": "JUNE",
 "day": "6",
@@ -3607,6 +3765,7 @@ therefore, I need to repeat Step Six so that I can become
 happier with myself and maintain my serenity.
 
 }
+,
 {
 "month": "JUNE",
 "day": "7",
@@ -3631,6 +3790,7 @@ As I step into the A.A. light, my heart fills with the
 presence of God.
 
 }
+,
 {
 "month": "JUNE",
 "day": "8",
@@ -3660,6 +3820,7 @@ ready. I empty myself to be full of awareness, light, and
 love, and I am ready to face each day with hope.
 
 }
+,
 {
 "month": "JUNE",
 "day": "9",
@@ -3684,6 +3845,7 @@ interfere or let my expectations override my acceptance—
 and this brings serenity.
 
 }
+,
 {
 "month": "JUNE",
 "day": "10",
@@ -3710,6 +3872,7 @@ and slowed down. Seeing things from God's angle of vision
 can be very relaxing.
 
 }
+,
 {
 "month": "JUNE",
 "day": "11",
@@ -3732,6 +3895,7 @@ with them! 'The spiritual life is not a theory. We have to
 live it' (Alcoholics Anonymous, p. 83).
 
 }
+,
 {
 "month": "JUNE",
 "day": "12",
@@ -3750,6 +3914,7 @@ In my sobriety I will meditate and pray to discover how I
 may be a trusted friend and companion.
 
 }
+,
 {
 "month": "JUNE",
 "day": "13",
@@ -3768,6 +3933,7 @@ a lifelong endeavor. The example of my sobriety may give
 others hope, and faith to help themselves.
 
 }
+,
 {
 "month": "JUNE",
 "day": "14",
@@ -3790,6 +3956,7 @@ overwhelmed, but rather to accept and understand my life
 as it unfolded.
 
 }
+,
 {
 "month": "JUNE",
 "day": "15",
@@ -3815,6 +3982,7 @@ in God. Now my relationship with my Higher Power gives
 me the strength to live a happy, sober life.
 
 }
+,
 {
 "month": "JUNE",
 "day": "16",
@@ -3832,6 +4000,7 @@ myself. The sharing of self joins me to the human race and
 brings me closer to God, as I understand Him.
 
 }
+,
 {
 "month": "JUNE",
 "day": "17",
@@ -3855,6 +4024,7 @@ belief and steadfast love I had longed for in my life. In this
 process, I met my God, as I understand Him.
 
 }
+,
 {
 "month": "JUNE",
 "day": "18",
@@ -3878,6 +4048,7 @@ welfare' finds room to grow in the society of personal
 freedom.
 
 }
+,
 {
 "month": "JUNE",
 "day": "19",
@@ -3899,6 +4070,7 @@ and right, as God had intended. My feelings set me free,
 where my thoughts had held me in bondage. I am grateful.
 
 }
+,
 {
 "month": "JUNE",
 "day": "20",
@@ -3921,6 +4093,7 @@ Steps, I am becoming the whole person I wish to be and,
 for that, I am deeply grateful.
 
 }
+,
 {
 "month": "JUNE",
 "day": "21",
@@ -3940,6 +4113,7 @@ ecstasy. When I choose to give all of my fears over to my
 Higher Power, I will be free.
 
 }
+,
 {
 "month": "JUNE",
 "day": "22",
@@ -3962,6 +4136,7 @@ over my life I began to have peace of mind. Today, I am
 free. I do not have to fight anybody or anything anymore.
 
 }
+,
 {
 "month": "JUNE",
 "day": "23",
@@ -3987,6 +4162,7 @@ capacity for harm in situations and can avoid those that are
 harmful.
 
 }
+,
 {
 "month": "JUNE",
 "day": "24",
@@ -4010,6 +4186,7 @@ removed and—one day at a time—my life went on, and I
 learned how to five sober.
 
 }
+,
 {
 "month": "JUNE",
 "day": "25",
@@ -4032,6 +4209,7 @@ one, as long as I am willing to accept change and
 responsibility.
 
 }
+,
 {
 "month": "JUNE",
 "day": "26",
@@ -4052,6 +4230,7 @@ words grow in breadth and depth each time I read it.
 Sobriety is a gift that grows with time.
 
 }
+,
 {
 "month": "JUNE",
 "day": "27",
@@ -4071,6 +4250,7 @@ love. Then I began to know the full meaning of being a
 member of Alcoholics Anonymous.
 
 }
+,
 {
 "month": "JUNE",
 "day": "28",
@@ -4090,6 +4270,7 @@ sought the easier, softer way and returned to my previous
 way of life.
 
 }
+,
 {
 "month": "JUNE",
 "day": "29",
@@ -4112,6 +4293,7 @@ of staying sober and helping other alcoholics to achieve
 sobriety.
 
 }
+,
 {
 "month": "JUNE",
 "day": "30",
@@ -4135,6 +4317,7 @@ am free to keep A.A. autonomous. Then the Fellowship will
 be here, healthy and strong for generations to come.
 
 }
+,
 {
 "month": "JULY",
 "day": "1",
@@ -4154,6 +4337,7 @@ program I can be satisfied, knowing that 'in doing the best
 that we can for today, we are doing all that God asks of us.'
 
 }
+,
 {
 "month": "JULY",
 "day": "2",
@@ -4176,6 +4360,7 @@ of true sobriety: serenity with myself, with others, and with
 God as I understand Him.
 
 }
+,
 {
 "month": "JULY",
 "day": "3",
@@ -4195,6 +4380,7 @@ provided it. I frequently ask God to help me remember that
 He has a path for me.
 
 }
+,
 {
 "month": "JULY",
 "day": "4",
@@ -4217,6 +4403,7 @@ none is more effective than the acquisition of a Higher
 Power.
 
 }
+,
 {
 "month": "JULY",
 "day": "5",
@@ -4237,6 +4424,7 @@ rightly directed, keeps me working until the promises of the
 program become my daily reality.
 
 }
+,
 {
 "month": "JULY",
 "day": "6",
@@ -4259,6 +4447,7 @@ works for me without fail and is one of the great miracles
 of my life in Alcoholics Anonymous.
 
 }
+,
 {
 "month": "JULY",
 "day": "7",
@@ -4281,6 +4470,7 @@ dependence on God, for then I find peace, gratitude and
 spiritual security.
 
 }
+,
 {
 "month": "JULY",
 "day": "8",
@@ -4304,6 +4494,7 @@ truly in His hands, and I give thanks for the joy that I can
 be useful today.
 
 }
+,
 {
 "month": "JULY",
 "day": "9",
@@ -4325,6 +4516,7 @@ that I may more freely go about my A.A. business of 'love
 and service.'
 
 }
+,
 {
 "month": "JULY",
 "day": "10",
@@ -4348,6 +4540,7 @@ which are the natural benefits of placing my reliance in a
 power greater than myself.
 
 }
+,
 {
 "month": "JULY",
 "day": "11",
@@ -4371,6 +4564,7 @@ myself and God. It is then that humility is something I
 'really want,' rather than being 'something I must have.'
 
 }
+,
 {
 "month": "JULY",
 "day": "12",
@@ -4399,6 +4593,7 @@ more powerful than I is willing to help me if I cease trying
 to play God myself.
 
 }
+,
 {
 "month": "JULY",
 "day": "13",
@@ -4422,6 +4617,7 @@ people; if I can do that, I don't need to search for humility,
 it has found me.
 
 }
+,
 {
 "month": "JULY",
 "day": "14",
@@ -4445,6 +4641,7 @@ out of myself. Humility, that strength granted to me by that
 me to accept my humanness joyously.
 
 }
+,
 {
 "month": "JULY",
 "day": "15",
@@ -4474,6 +4671,7 @@ thought, why me? Then I remembered, 'Pride goeth before
 the fall,' and I eliminated pride from my life.
 
 }
+,
 {
 "month": "JULY",
 "day": "16",
@@ -4496,6 +4694,7 @@ living through these times will be healed by the knowledge
 that I have received the spiritual strength to survive.
 
 }
+,
 {
 "month": "JULY",
 "day": "17",
@@ -4519,6 +4718,7 @@ believe in anything. Surrender and self-examination while
 sharing with newcomers helped me to ask humbly for help.
 
 }
+,
 {
 "month": "JULY",
 "day": "18",
@@ -4539,6 +4739,7 @@ to be grateful for what I have, God continues to provide for
 me.
 
 }
+,
 {
 "month": "JULY",
 "day": "19",
@@ -4562,6 +4763,7 @@ the newcomers to 'Come To'—so that they can 'Come to
 Believe.' I ask my Higher Power to help my unbelief.
 
 }
+,
 {
 "month": "JULY",
 "day": "20",
@@ -4583,6 +4785,7 @@ of myself I am nothing, the Father within 'doeth the
 works.'
 
 }
+,
 {
 "month": "JULY",
 "day": "21",
@@ -4604,6 +4807,7 @@ and defeat, can grow into an ongoing act of faith, and that
 faith means freedom and victory.
 
 }
+,
 {
 "month": "JULY",
 "day": "22",
@@ -4622,6 +4826,7 @@ God, so that He may remove the bad and return to me the
 good.
 
 }
+,
 {
 "month": "JULY",
 "day": "23",
@@ -4640,6 +4845,7 @@ which defects stand in the way of my usefulness to Him
 and to others, and then I humbly ask Him to remove them.
 
 }
+,
 {
 "month": "JULY",
 "day": "24",
@@ -4661,6 +4867,7 @@ understood humility, I would know peace and serenity. No
 longer do I need to drink.
 
 }
+,
 {
 "month": "JULY",
 "day": "25",
@@ -4679,6 +4886,7 @@ actions. Let the group continue to give me the strength to
 do with others what I cannot do alone.
 
 }
+,
 {
 "month": "JULY",
 "day": "26",
@@ -4705,6 +4913,7 @@ money for that. So, how much is my sobriety and my inner
 peace worth?
 
 }
+,
 {
 "month": "JULY",
 "day": "27",
@@ -4731,6 +4940,7 @@ return. I realize now that giving freely is God's way of
 expressing Himself through me.
 
 }
+,
 {
 "month": "JULY",
 "day": "28",
@@ -4752,6 +4962,7 @@ hope. Thus my sobriety, and our program's survival,
 depend on my determination to put first things first.
 
 }
+,
 {
 "month": "JULY",
 "day": "29",
@@ -4771,6 +4982,7 @@ practice of the Twelve Steps and Twelve Traditions, I've
 never had it so good.
 
 }
+,
 {
 "month": "JULY",
 "day": "30",
@@ -4793,6 +5005,7 @@ sobriety, but allows me to buy insurance that A.A. will be
 here for my grandchildren.
 
 }
+,
 {
 "month": "JULY",
 "day": "31",
@@ -4816,6 +5029,7 @@ this program. The serenity enables me to continue walking
 forward. Alcoholics Anonymous is the easier, softer way.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "1",
@@ -4834,6 +5048,7 @@ my fellow men, and to feel joy in a world where, before, I
 felt only fear.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "2",
@@ -4854,6 +5069,7 @@ and made fit to move forward, to know and desire God's
 will for me.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "3",
@@ -4870,6 +5086,7 @@ by example. I ask God to help me imitate His love for me
 through my love for others.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "4",
@@ -4893,6 +5110,7 @@ willingness to accept His presence.
 I ask God to grant me the willingness to do His will.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "5",
@@ -4920,6 +5138,7 @@ better life, I find that I can trust myself to do what is
 necessary.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "6",
@@ -4937,6 +5156,7 @@ knowledge of God's will for me? Have I done service for
 my A.A. group?
 
 }
+,
 {
 "month": "AUGUST",
 "day": "7",
@@ -4957,6 +5177,7 @@ continued awareness of a God who loves me unconditionally, and the hope that, in
 for my being. I am truly, truly blessed in the Fellowship.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "8",
@@ -4977,6 +5198,7 @@ With the help of my Higher Power, if I am honest with
 myself, I can cleanse my mind of these feelings.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "9",
@@ -5004,6 +5226,7 @@ inviting more resentment, when I should be calling on the
 spirit of forgiveness.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "10",
@@ -5026,6 +5249,7 @@ the people I have hurt so that I may enjoy a peaceful
 sobriety.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "11",
@@ -5051,6 +5275,7 @@ defects is the very substance God uses to cleanse my
 character and to set me free.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "12",
@@ -5077,6 +5302,7 @@ damage I had done, and become willing to make amends.
 Only then could my journey of the spirit resume.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "13",
@@ -5102,6 +5328,7 @@ and continued to move forward in my quest for spiritual
 growth.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "14",
@@ -5123,6 +5350,7 @@ relationship with God is that I stand before Him, knowing I
 have done what I can to repair the damage I have done.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "15",
@@ -5146,6 +5374,7 @@ took on new meaning. I am no longer uncomfortable and I
 feel clean and light.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "16",
@@ -5174,6 +5403,7 @@ daily, with a willingness to be honest and forthright in my
 relationships.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "17",
@@ -5195,6 +5425,7 @@ and relaxed about that person once this very important part
 of my recovery is accomplished.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "18",
@@ -5214,6 +5445,7 @@ my list of those I have hurt. In making amends, I free
 myself of burdens, thus contributing to my healing.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "19",
@@ -5232,6 +5464,7 @@ right thing, knowing that the action fit the situation and that
 it was the correct thing to do.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "20",
@@ -5261,6 +5494,7 @@ my fellows and from God—came when I wrote my Eighth
 Step list.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "21",
@@ -5282,6 +5516,7 @@ within myself; but most of all, in my relationship with my
 Higher Power, whom I choose to call God.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "22",
@@ -5311,6 +5546,7 @@ only a loving God who can give me inner peace and
 emotional stability.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "23",
@@ -5328,6 +5564,7 @@ respecting others' personal boundaries are necessary
 practices for all areas of my life.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "24",
@@ -5355,6 +5592,7 @@ For the time being, it is a gift for me to trust God, work the
 Steps and help others.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "25",
@@ -5372,6 +5610,7 @@ there now, and with those yet to come. For this gracious
 gift from God, I am forever grateful.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "26",
@@ -5392,6 +5631,7 @@ condition, by giving away what has been so freely given to
 me, I am granted a daily reprieve.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "27",
@@ -5415,6 +5655,7 @@ may I know that the message I carry is mine to share, given
 freely by this power greater than myself.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "28",
@@ -5433,6 +5674,7 @@ was able to share what happened to me. When my story
 was told, both of us got up with lighter hearts.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "29",
@@ -5455,6 +5697,7 @@ and criticism. I want love and caring in my group, so I can
 grow.
 
 }
+,
 {
 "month": "AUGUST",
 "day": "30",
@@ -5478,6 +5721,7 @@ friends. I ask God to help me to reach out to people desiring
 sobriety, and to, please, keep me grateful!
 
 }
+,
 {
 "month": "AUGUST",
 "day": "31",
@@ -5502,6 +5746,7 @@ another day free from alcohol, so in that respect, I am
 generously paid for my labor.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "1",
@@ -5522,6 +5767,7 @@ spiritual awakening. I need only to bring into my recovery
 the willingness to grow. Today I am ready to grow.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "2",
@@ -5545,6 +5791,7 @@ with, 'I am willing. . . ,' I am using the key that leads to action, honesty, an
 through my life.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "3",
@@ -5565,6 +5812,7 @@ I ask God to help me share the gift of sobriety so that its
 benefits may be shown to those I know and love.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "4",
@@ -5590,6 +5838,7 @@ guidance. He grants me a daily reprieve and will provide
 the power I need for reconstruction.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "5",
@@ -5608,6 +5857,7 @@ cross mine. Courtesy and kindness, regularly practiced,
 help me to live in emotional balance, at peace with myself.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "6",
@@ -5626,6 +5876,7 @@ the way to a more serene sobriety by letting me clear away
 past wreckage, lest it bring me down.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "7",
@@ -5645,6 +5896,7 @@ understood! My side of the street is all that I'm responsible
 for and— thanks to God and A.A.—it's clean for today.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "8",
@@ -5671,6 +5923,7 @@ I thank God that today I can choose not to drink. Today,
 life is beautiful!
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "9",
@@ -5694,6 +5947,7 @@ when the 'old stuff' from the past needs to be taken care
 of, and Step Nine always works, when I work it.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "10",
@@ -5710,6 +5964,7 @@ have if I am to continue healing and gain a life of
 happiness, friendship and harmony.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "11",
@@ -5729,6 +5984,7 @@ completed I can walk with a sense of freedom and know
 that, for today, I am responsible.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "12",
@@ -5749,6 +6005,7 @@ responsible.' When I can speak those words with honesty
 and sincerity, then I am free.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "13",
@@ -5770,6 +6027,7 @@ my ways.' To take action in this manner assures me of
 making honest amends.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "14",
@@ -5790,6 +6048,7 @@ principles of the program—love and service. Peace of
 mind, serenity, and a stronger faith are sure to follow.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "15",
@@ -5809,6 +6068,7 @@ Anonymous program so that I may live a life given to me
 by my Higher Power.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "16",
@@ -5837,6 +6097,7 @@ effectively, and I also stand to lose the remaining
 Traditions, the Fellowship, and my life.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "17",
@@ -5860,6 +6121,7 @@ became manageable. I then chose to share my experiences
 with other alcoholics.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "18",
@@ -5879,6 +6141,7 @@ of love and strength that is performing a continuing miracle
 in me. I am sober . . . and I am grateful.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "19",
@@ -5902,6 +6165,7 @@ they are, not as I wish them to be, then I can begin to grow
 and have serenity and peace of mind.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "20",
@@ -5923,6 +6187,7 @@ control my life. With Him as my guide, great events began
 to happen, and I found the beginning of sobriety.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "21",
@@ -5944,6 +6209,7 @@ must be willing to do His work, so that He can function
 through me successfully.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "22",
@@ -5965,6 +6231,7 @@ healed. My problems vanish as I reach out to this trembling
 soul.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "23",
@@ -5985,6 +6252,7 @@ and joys they feel are not exceptional, but part of my life,
 just as much as anybody's.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "24",
@@ -6006,6 +6274,7 @@ setback. I am dealing with my disease, for which there is
 no cure, only daily acceptance and vigilance.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "25",
@@ -6025,6 +6294,7 @@ active in A.A. Am I putting anything before my sobriety,
 God, and A.A. today?
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "26",
@@ -6048,6 +6318,7 @@ cried, but this time, when I received my son's card, my tears
 were tears of joy, not desperation.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "27",
@@ -6064,6 +6335,7 @@ as I grow, I find that no matter how much I give with love,
 I receive much more in spirit.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "28",
@@ -6087,6 +6359,7 @@ one of the deepest gifts the program has given me.
 Gratitude for that gift has kept me sober many times.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "29",
@@ -6109,6 +6382,7 @@ insist he was different, the more I realized that he and I
 were exactly alike.
 
 }
+,
 {
 "month": "SEPTEMBER",
 "day": "30",
@@ -6133,6 +6407,7 @@ aspects of my personality translate into a sober and happy
 life.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "1",
@@ -6155,6 +6430,7 @@ myself, to God and to another human being, keeps me
 honest and humble.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "2",
@@ -6183,6 +6459,7 @@ wrong with my body. When I take the appropriate action
 through the Twelve Steps, the pain gradually goes away.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "3",
@@ -6202,6 +6479,7 @@ subsequent hangover, and be grateful for continuing
 spiritual progress.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "4",
@@ -6223,6 +6501,7 @@ we all grow through pain. I ask God to prune me when it's
 time, so I can grow.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "5",
@@ -6243,6 +6522,7 @@ Some of today is bound to spill over into tomorrow, but
 most of it need not if I make an honest daily inventory.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "6",
@@ -6262,6 +6542,7 @@ me at a standstill and, until I became willing to put pencil
 to paper, I was arresting my growth based on an intangible.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "7",
@@ -6285,6 +6566,7 @@ have much to learn from him or her, and in my heart, I
 should thank that person.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "8",
@@ -6312,6 +6594,7 @@ out of our encounter, and my boss and I were able to agree
 to interact more directly and effectively in the future.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "9",
@@ -6338,6 +6621,7 @@ come from inside, not from outward circumstances. When
 my spiritual condition is positive, I react positively.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "10",
@@ -6356,6 +6640,7 @@ I can, even when that best is sometimes poor. So I ask God
 to remove my anger and truly set me free.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "11",
@@ -6382,6 +6667,7 @@ determined to make the day a productive one, thanking
 God for the chance to make progress that day.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "12",
@@ -6401,6 +6687,7 @@ meditation and inventories are the key to sound thinking
 and positive action for me.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "13",
@@ -6425,6 +6712,7 @@ facilitates the progression of my growth and helps me to
 become more understanding and helpful to others.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "14",
@@ -6445,6 +6733,7 @@ will, not my problems, and to trust that He would manage
 my day. It worked! Slowly, but it worked!
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "15",
@@ -6473,6 +6762,7 @@ inventory I need to take is my own. I'll leave judgment of
 others to the Final Judge—Divine Providence.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "16",
@@ -6492,6 +6782,7 @@ mean occasionally, or frequently. It means throughout each
 day.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "17",
@@ -6511,6 +6802,7 @@ the knowledge that if I ask for a daily reprieve, it will be
 granted.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "18",
@@ -6528,6 +6820,7 @@ a sober alcoholic. The new, sober me is a much better
 person than I ever could have been without A.A.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "19",
@@ -6547,6 +6840,7 @@ since early childhood. May I never lose the sense of wonder I experienced on tha
 greatest event of my entire life.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "20",
@@ -6572,6 +6866,7 @@ I've often found solace from my personal confusion in Ed's
 calming concept of God.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "21",
@@ -6592,6 +6887,7 @@ accept myself as I am, with a new sense of the miracles of
 sobriety and serenity.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "22",
@@ -6610,6 +6906,7 @@ what else are we to do but bear with one another and treat
 each other as we would be treated in similar circumstances? That is what love really is.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "23",
@@ -6633,6 +6930,7 @@ is closely tied to my competence in 'carrying the message
 to the still-suffering alcoholic.'
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "24",
@@ -6652,6 +6950,7 @@ first in my life, it is very likely that A.A. as I know it today
 will remain as it is.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "25",
@@ -6669,6 +6968,7 @@ members, tells me that to give it away is to keep it. Unity is
 oneness and yet the whole Fellowship is for all of us.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "26",
@@ -6688,6 +6988,7 @@ lead. In the Fellowship of A.A., I entrust God with the
 ultimate authority of 'running the show.'
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "27",
@@ -6710,6 +7011,7 @@ continuity of the wonderful fraternity of Alcoholics
 Anonymous.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "28",
@@ -6737,6 +7039,7 @@ a magnifying glass, A.A.'s single vision has lit a fire of
 faith in sobriety in millions of hearts, including mine.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "29",
@@ -6760,6 +7063,7 @@ in the spiritual way of life. I call on Him for strength to
 know and seek His will.
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "30",
@@ -6786,6 +7090,7 @@ have a know-it-all attitude, aren't I being deliberately
 controversial?
 
 }
+,
 {
 "month": "OCTOBER",
 "day": "31",
@@ -6806,6 +7111,7 @@ through similar situations without drinking, and how A.A.'s
 Steps and Traditions help me in dealing with my life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "1",
@@ -6829,6 +7135,7 @@ between superstition and spirituality. I know there is a
 graceful way of being right, and many ways to be wrong.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "2",
@@ -6851,6 +7158,7 @@ program. The melding of my physical and spiritual sobriety
 produces the substance of a more positive life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "3",
@@ -6874,6 +7182,7 @@ No matter where, or how, I start, I eventually arrive at my
 destination: a better life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "4",
@@ -6900,6 +7209,7 @@ keep me in fit spiritual condition, able to face whatever the
 day brings—without the thought of a drink.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "5",
@@ -6923,6 +7233,7 @@ with the strength to practice the principles of A.A. in all of
 my everyday affairs.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "6",
@@ -6947,6 +7258,7 @@ my life, however, the flow of good stops. God did not
 interrupt the flow; my own negativity did.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "7",
@@ -6969,6 +7281,7 @@ challenges that come my way. Only then can I live a life of
 victory over alcohol, in comfortable sobriety.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "8",
@@ -6989,6 +7302,7 @@ wants for me, and for that I am grateful to have God in my
 life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "9",
@@ -7016,6 +7330,7 @@ I will find I don't need words, for God can, and does, hear
 my thoughts through silence.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "10",
@@ -7034,6 +7349,7 @@ flow of God's world. How propitious for us that prayer and
 meditation are written right into our A.A. way of life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "11",
@@ -7053,6 +7369,7 @@ I pray for the willingness to let go of my arrogant selfcriticism, and to praise
 caring for myself.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "12",
@@ -7072,6 +7389,7 @@ the best of my ability. I soon learned that the practice aids
 me in keeping my life in the context of the day at hand.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "13",
@@ -7092,6 +7410,7 @@ preparing for the day when I will be required to let go of all
 earthly attachments.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "14",
@@ -7100,7 +7419,7 @@ earthly attachments.
 decision. We relax and take it easy. We don't struggle.
 ALCOHOLICS ANONYMOUS, p. 86
 
-[ invest my time in what I truly love. Step Eleven is a
+I invest my time in what I truly love. Step Eleven is a
 discipline that allows me and my Higher Power to be
 together, reminding me that, with God's help, intuition and
 inspiration are possible. Practice of the Step brings on selflove. In a consistent attempt to improve my conscious
@@ -7112,6 +7431,7 @@ powerlessness. Humility and a healthy self-love are
 compatible, a direct result of working Step Eleven.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "15",
@@ -7136,6 +7456,7 @@ in other people, the more certain of His presence I will
 become.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "16",
@@ -7161,6 +7482,7 @@ program to stay liberated from my cunning, baffling and
 powerful illness.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "17",
@@ -7181,6 +7503,7 @@ everything seems to go wrong, I maintain that contact
 through prayer and meditation.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "18",
@@ -7203,6 +7526,7 @@ Higher Power will wait until I am willing once again to risk
 letting go, to land in the net, and to pray.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "19",
@@ -7231,6 +7555,7 @@ has improved dramatically, but my illness is minor
 compared to what I almost lost completely.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "20",
@@ -7253,6 +7578,7 @@ seeking His will for me will free me from the pain of selfish
 expectations.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "21",
@@ -7283,6 +7609,7 @@ continue to improve my conscious contact, I will know His
 will
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "22",
@@ -7305,6 +7632,7 @@ I ask my Higher Power to help me not cause another's
 lack of growth today—or my own.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "23",
@@ -7327,6 +7655,7 @@ for me to blossom into a sober, joyful member of A.A.
 Thank you, God, for the changing seasons and for my everchanging life.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "24",
@@ -7346,6 +7675,7 @@ Judeo-Christian tradition, and the resources of other religions. Thus, I receive
 staying away from the first drink.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "25",
@@ -7376,6 +7706,7 @@ became the spiritual basis for all of our Traditions, perhaps
 God was acting anonymously on our behalf.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "26",
@@ -7401,6 +7732,7 @@ will be a far better recommendation for the Fellowship than
 any I could make.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "27",
@@ -7429,6 +7761,7 @@ changing attitudes and my altruism contributes much more
 to the welfare of A.A. than self-promotion.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "28",
@@ -7454,6 +7787,7 @@ members, I have been able to practice the A.A. way of life
 through attraction, not promotion.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "29",
@@ -7477,6 +7811,7 @@ to experience freedom because each one of us is
 anonymous.
 
 }
+,
 {
 "month": "NOVEMBER",
 "day": "30",
@@ -7502,6 +7837,7 @@ veracity of the miracle of the century. Alcoholics
 Anonymous is not anonymous, but its members should be.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "1",
@@ -7524,6 +7860,7 @@ program of recovery based on all Twelve of the
 'suggested' Steps.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "2",
@@ -7545,6 +7882,7 @@ I have enjoyed as the result of working the Steps is the
 awareness that I am no longer alone.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "3",
@@ -7569,6 +7907,7 @@ I ask for help in extending my recovery to include all
 situations and all people!
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "4",
@@ -7598,6 +7937,7 @@ responsible when another reaches out for help. I want to be
 there—sober.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "5",
@@ -7617,6 +7957,7 @@ degree to which I continue to experience this new dimension is in direct proport
 devotion with which I practice the Twelve Steps of A.A.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "6",
@@ -7640,6 +7981,7 @@ provide the loving nourishment upon which I depend for
 my daily spiritual health.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "7",
@@ -7665,6 +8007,7 @@ be joyous and fruitful. I begin and end my day with thanks
 to God, who has so generously shed His grace on me.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "8",
@@ -7688,6 +8031,7 @@ inspiration and experience. I have learned how to be, in the
 truest sense, in open channel of sobriety.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "9",
@@ -7716,6 +8060,7 @@ laughing today, let me not forget those days when I cried.
 God reminds me that I can feel compassion!
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "10",
@@ -7738,6 +8083,7 @@ My task is to carry the message, and to lead by example,
 not design.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "11",
@@ -7763,6 +8109,7 @@ and that 'God is doing for us what we could not do for
 ourselves.'
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "12",
@@ -7789,6 +8136,7 @@ let Him, my willingness will bring Twelfth Step work
 automatically.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "13",
@@ -7809,6 +8157,7 @@ forget my problems, and reach out to contribute something
 to others that I can begin to attain the serenity and Godconsciousness I seek.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "14",
@@ -7833,6 +8182,7 @@ out my hand, with love, to my sister or brother alcoholic,
 and to show her or him the way to happiness.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "15",
@@ -7851,6 +8201,7 @@ my way, I forget how helpful those two men were to me in
 their open-minded generosity.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "16",
@@ -7871,6 +8222,7 @@ day that I will avoid my previous actions, so that I will be
 helpful o others.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "17",
@@ -7890,6 +8242,7 @@ them the joys of the journey, gives to my life a new
 meaning.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "18",
@@ -7909,6 +8262,7 @@ sober only through the grace of my Higher Power, and that
 makes it possible for me to share with others.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "19",
@@ -7926,6 +8280,7 @@ that way, I am satisfying my false sense of superiority and I
 must remember, but for the grace of God, there go I.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "20",
@@ -7947,6 +8302,7 @@ not going to result in a success, then I was open to receive
 the rewards of selfless giving.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "21",
@@ -7964,6 +8320,7 @@ to put into practice— is to listen, share personal
 experience, and pray for others.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "22",
@@ -7986,6 +8343,7 @@ message I need for today. I must always remember to place
 principles above personalities.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "23",
@@ -8009,6 +8367,7 @@ will have no message to give, unless I recover in unity with
 A.A. principles.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "24",
@@ -8029,6 +8388,7 @@ takes in all parts of my life. God appears in my world when
 I move aside, and allow Him to step into it.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "25",
@@ -8046,6 +8406,7 @@ doing, and that puts me at peace with life, with myself and
 with God.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "26",
@@ -8075,6 +8436,7 @@ also I transform my difficulty with living into a joy of
 living.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "27",
@@ -8097,6 +8459,7 @@ been brought to a way of living which is satisfying and
 useful.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "28",
@@ -8119,6 +8482,7 @@ showing up are the concrete actions I take in my ongoing
 return to normal living.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "29",
@@ -8137,6 +8501,7 @@ softening the hard, outer edges of my ego. Therein lies the
 power of joyfulness to help all members of A.A.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "30",
@@ -8163,6 +8528,7 @@ continuous sobriety. I am grateful to those who were here
 when I needed them.
 
 }
+,
 {
 "month": "DECEMBER",
 "day": "31",
@@ -8183,4 +8549,6 @@ Each day I can measure my life by trying to do a little
 better, by deciding to follow God's will and by making an
 effort to put the principles of our A.A. program into action.
 
+}
+]
 }
