@@ -9,12 +9,12 @@ import (
 )
 
 type DailyReflection struct {
-	Month    string `json:"month"`
-	Day      int    `json:"day"`
-	Title    string `json:"title"`
-	Quote    string `json:"quote"`
-	Citation string `json:"citation"`
-	Reading  string `json:"reading"`
+	Month     string `json:"month"`
+	Day       int    `json:"day"`
+	Title     string `json:"title"`
+	Quotation string `json:"quotation"`
+	Citation  string `json:"citation"`
+	Reading   string `json:"reading"`
 }
 
 // LOCATION is the timezone we are in, for use in creating and comparing dates & times
@@ -111,7 +111,7 @@ func main() {
 	reflections := GetReadings(jsonByteArray)
 	today := GetTodaysReading(reflections)
 	fmt.Println(today.Month, today.Day)
-	fmt.Println(today.Quote)
+	fmt.Println(today.Quotation)
 	fmt.Println(today.Citation)
 	fmt.Println()
 	fmt.Println(today.Reading)
