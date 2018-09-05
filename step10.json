@@ -1,32 +1,108 @@
 {
   "questions": [
     {
-       "number": 1, "question": "Was I RESENTFUL?",
-       "number": 2, "question": "Of who?",
-       "number": 3, "question": "Was I SELFISH?",
-       "number": 4, "question": "How?",
-       "number": 5, "question": "Was I DISHONEST?",
-       "number": 6, "question": "How?",
-       "number": 7, "question": "Was I FEARFUL?",
-       "number": 8, "question": "Of what?",
-       "number": 9, "question": "Am I obsessing about anything?",
-       "number": 10, "question":  "Am I keeping any secrets?",
-       "number": 11, "question":  "Did I cause any harm?",
-       "number": 12, "question":  "Do I owe any apologies?",
-       "number": 13, "question":  "Was I kind and loving toward all?",
-       "number": 14, "question":  "What could I have done better?",
-       "number": 15, "question":  "Did I go to a meeting?",
-       "number": 16, "question":  "Did I pray?",
-       "number": 17, "question":  "Did I call my sponsor?",
-       "number": 18, "question":  "Did I call another alcoholic?",
-       "number": 19, "question":  "Did I help anyone?",
-       "number": 20, "question":  "Did I do service?",
-       "number": 21, "question":  "Did I meditate?",
-       "number": 22, "question":  "Did I fellowship?",
-       "number": 23, "question":  "Did I read any literature?",
-       "number": 24, "question":  "I will discuss my secrets with...?",
-       "number": 25, "question":  "I will apologize to...?",
-       "number": 26, "question":  "I will pray for relief from my obsessions and for guidance in my future actions?"
-     }
-   ]
-} 
+      "number": 1,
+      "question": "Was I RESENTFUL?"
+    },
+    {
+      "number": 2,
+      "question": "Of who?"
+    },
+    {
+      "number": 3,
+      "question": "Was I SELFISH?"
+    },
+    {
+      "number": 4,
+      "question": "How?"
+    },
+    {
+      "number": 5,
+      "question": "Was I DISHONEST?"
+    },
+    {
+      "number": 6,
+      "question": "How?"
+    },
+    {
+      "number": 7,
+      "question": "Was I FEARFUL?"
+    },
+    {
+      "number": 8,
+      "question": "Of what?"
+    },
+    {
+      "number": 9,
+      "question": "Am I obsessing about anything?"
+    },
+    {
+      "number": 10,
+      "question": "Am I keeping any secrets?"
+    },
+    {
+      "number": 11,
+      "question": "Did I cause any harm?"
+    },
+    {
+      "number": 12,
+      "question": "Do I owe any apologies?"
+    },
+    {
+      "number": 13,
+      "question": "Was I kind and loving toward all?"
+    },
+    {
+      "number": 14,
+      "question": "What could I have done better?"
+    },
+    {
+      "number": 15,
+      "question": "Did I go to a meeting?"
+    },
+    {
+      "number": 16,
+      "question": "Did I pray?"
+    },
+    {
+      "number": 17,
+      "question": "Did I call my sponsor?"
+    },
+    {
+      "number": 18,
+      "question": "Did I call another alcoholic?"
+    },
+    {
+      "number": 19,
+      "question": "Did I help anyone?"
+    },
+    {
+      "number": 20,
+      "question": "Did I do service?"
+    },
+    {
+      "number": 21,
+      "question": "Did I meditate?"
+    },
+    {
+      "number": 22,
+      "question": "Did I fellowship?"
+    },
+    {
+      "number": 23,
+      "question": "Did I read any literature?"
+    },
+    {
+      "number": 24,
+      "question": "I will discuss my secrets with...?"
+    },
+    {
+      "number": 25,
+      "question": "I will apologize to...?"
+    },
+    {
+      "number": 26,
+      "question": "I will pray for relief from my obsessions and for guidance in my future actions?"
+    }
+  ]
+}
