@@ -91,10 +91,14 @@ func main() {
 	jsonByteArray, err := ioutil.ReadFile("step10.json")
 	check(err)
 	questions := GetQuestions(jsonByteArray)
-	for i := 0; i < len(questions.All); i++ {
+	numQuestions := len(questions.All)
+	responses := make([]string, numQuestions)
+	for i := 0; i < numQuestions; i++ {
 		fmt.Print(questions.All[i].Q)
 		reader := bufio.NewReader(os.Stdin)
 		fmt.Print(" : ")
-		reader.ReadString('\n')
+		text, _ := reader.ReadString('\n')
+		responses[i] = text
 	}
+	fmt.Println(responses)
 }
