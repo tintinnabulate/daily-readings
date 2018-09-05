@@ -10,6 +10,16 @@ import (
 	"time"
 )
 
+/*
+
+TODO:
+
+1. Map each question to each answer
+2. Marshall that map into json
+3. Store that json to disk in a file named YYYY-MM-DD.step10.json
+
+*/
+
 type Question struct {
 	N int    `json:"number"`
 	Q string `json:"question"`
