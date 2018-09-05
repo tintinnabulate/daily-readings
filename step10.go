@@ -1,10 +1,12 @@
 package main
 
 import (
+	"bufio"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
 	"log"
+	"os"
 	"time"
 )
 
@@ -89,5 +91,10 @@ func main() {
 	jsonByteArray, err := ioutil.ReadFile("step10.json")
 	check(err)
 	questions := GetQuestions(jsonByteArray)
-	fmt.Println(questions)
+	for i := 0; i < len(questions.All); i++ {
+		fmt.Print(questions.All[i].Q)
+		reader := bufio.NewReader(os.Stdin)
+		fmt.Print(" : ")
+		reader.ReadString('\n')
+	}
 }
