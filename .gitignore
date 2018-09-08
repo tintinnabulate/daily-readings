@@ -13,3 +13,5 @@ readings
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+*.step10.txt

@@ -110,5 +110,4 @@ func main() {
 		text, _ := reader.ReadString('\n')
 		responses[i] = text
 	}
-	fmt.Println(responses)
 }
