@@ -19,7 +19,7 @@ var (
 	LOCATION = time.UTC
 
 	// DATE_FORMAT is the format we will use for our dates
-	DATE_FORMAT = "2006-01-02T15:04:05.000Z"
+	DATE_FORMAT = "2006-01-02"
 )
 
 func init() {
