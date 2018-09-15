@@ -1,8 +1,9 @@
-package main
+package badges
 
 import (
 	"encoding/json"
 	"fmt"
+	"io"
 	"io/ioutil"
 	"log"
 	"time"
@@ -49,7 +50,8 @@ func checkErr(err error) {
 	}
 }
 
-func main() {
+// PrintBadges : do it
+func PrintBadges(out io.Writer) {
 	jsonByteArray, err := ioutil.ReadFile("badges.json")
 	checkErr(err)
 	badges := GetBadges(jsonByteArray)
@@ -59,10 +61,10 @@ func main() {
 		checkErr(err)
 		days := int(time.Since(d).Hours() / 24)
 		//weekday := d.Weekday()
-		fmt.Printf("%s: %d days", badges.All[i].Name, days)
+		fmt.Fprintf(out, "%s: %d days", badges.All[i].Name, days)
 		if i < numBadges-1 {
-			fmt.Print(", ")
+			fmt.Fprint(out, ", ")
 		}
 	}
-	fmt.Println(".")
+	fmt.Fprintln(out, ".")
 }
