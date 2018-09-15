@@ -15,6 +15,6 @@ func badgeHandler(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.HandleFunc("/badges", badgeHandler)
+	http.HandleFunc("/daily", badgeHandler)
 	http.ListenAndServe(":11000", nil)
 }
