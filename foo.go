@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/tintinnabulate/daily_readings/badges"
-	"github.com/tintinnabulate/daily_readings/readings"
+	"github.com/tintinnabulate/daily-readings/badges"
+	"github.com/tintinnabulate/daily-readings/readings"
 )
 
 func badgeHandler(w http.ResponseWriter, r *http.Request) {
