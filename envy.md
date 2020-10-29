@@ -8,13 +8,7 @@ one's life is second-rate. But rather than repress the experience of envy, we
 should undertake a Philosophical Exercise to a) focus it and b) lend it
 perspective.
 
-[![Jheronimus\_Bosch\_Table\_of\_the\_Mortal\_Sins\_Invidia](https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia.jpg){.alignnone
-.size-full .wp-image-4216 width="635" height="375" sizes="(max-width: 635px)
-100vw, 635px"
-srcset="https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia.jpg
-635w,
-https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia-300x177.jpg
-300w"}](http://www.thebookoflife.org/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia.jpg)
+[![Jheronimus\_Bosch\_Table\_of\_the\_Mortal\_Sins\_Invidia](https://www.theschooloflife.com/thebookoflife/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia.jpg)](http://www.thebookoflife.org/wp-content/uploads/2014/10/Jheronimus_Bosch_Table_of_the_Mortal_Sins_Invidia.jpg)
 
 **The Seven Deadly Sins and the Four Last Things, Jheronimus Bosch, 1500**
 
@@ -127,4 +121,4 @@ Fill in the following sentence:
 
 * Contemplate one of these images of planets far from our own:
 
-    [[http://www.spacetelescope.org/images/archive/top100/]{.s1}](http://www.spacetelescope.org/images/archive/top100/)
+    [http://www.spacetelescope.org/images/archive/top100](http://www.spacetelescope.org/images/archive/top100/)
